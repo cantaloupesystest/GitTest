@@ -1,0 +1,8 @@
+Id	RouteId	BranchId	Name	UserDesiredMachinesCount	ScheduleDateOnly	CalculationDateOnly	LockedDateTime	CreatedBy	IsRecentCreatedDateTime	Deleted	
+=2378	=10002	[NULL]	=	[NULL]	=12/16/2013 00:00:00	=12/16/2013 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2379	=10002	[NULL]	=	[NULL]	=12/14/2013 00:00:00	=12/14/2013 00:00:00	=03/05/2014 12:10:16	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2380	=3	[NULL]	=RouteChanged (duplicated machine)	[NULL]	=07/02/2015 00:00:00	=07/02/2015 00:00:00	[NULL]	=Ruslan	=False	=False	
+=2381	=10002	[NULL]	=1st schedule (duplicated machine)	[NULL]	=07/03/2015 00:00:00	=07/03/2015 00:00:00	[NULL]	=Ruslan	=False	=False	
+=2382	=10002	[NULL]	=2nd schedule (duplicated machine)	[NULL]	=07/03/2015 00:00:00	=07/03/2015 00:00:00	[NULL]	=Ruslan	=False	=False	
+=2383	=10002	[NULL]	=Schedule with same route but no machines	[NULL]	=07/04/2015 00:00:00	=07/04/2015 00:00:00	[NULL]	=Ruslan	=False	=False	
+=2384	=3	[NULL]	=Schedule with another route with no machines	[NULL]	=07/05/2015 00:00:00	=07/05/2015 00:00:00	[NULL]	=Ruslan	=False	=False	

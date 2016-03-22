@@ -1,0 +1,8 @@
+<Confirmation xmlns="http://schemas.datacontract.org/2004/07/CTG.OneDataTransfer.DataContract.Seed"
+              xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <DateTime>2012-10-06T22:42:11.9935912-04:00</DateTime>
+  <ErrorCode>CanteenTestError</ErrorCode>
+  <ErrorMsg i:nil="true"/>
+  <Success>true</Success>
+  <VIRouteStatusID>2</VIRouteStatusID>
+</Confirmation>

@@ -1,0 +1,19 @@
+Id	MachineBillingType	MachineId	StartUtcDateTime	StartedBy	EndUtcDateTime	EndedBy	
+=1	=TRL	=608549	=12/09/2011 06:02:58	=Seed	=11/07/2012 05:58:58	=test@test.com	
+=2	=TRL	=1142855	=12/10/2011 04:41:39	=katya.murastaya@cantaloupesys.com	=11/07/2012 05:58:58	=test@test.com	
+=3	=PRM	=603568	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=4	=PRM	=608959	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=5	=PRM	=635041	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=6	=PRM	=1103604	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=7	=PRM	=1104061	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=8	=PRM	=1104370	=11/07/2012 05:58:58	=test@test.com	=01/01/9999 00:00:00	[NULL]	
+=9	=PRM	=1109180	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=10	=PRM	=1109552	=11/07/2012 05:58:58	=test@test.com	=01/01/9999 00:00:00	[NULL]	
+=11	=PRM	=1109932	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=12	=PRM	=1133908	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=13	=PRM	=1133984	=11/07/2012 05:58:58	=test@test.com	=01/01/9999 00:00:00	[NULL]	
+=14	=PRM	=1145687	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=15	=PRM	=1145617	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=16	=PRM	=1177985	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	
+=17	=PRM	=1177986	=11/07/2012 05:58:58	=test@test.com	=01/01/9999 00:00:00	[NULL]	
+=18	=PRM	=1177987	=11/07/2012 05:58:58	=test@test.com	=11/07/2012 05:58:58	=test@test.com	

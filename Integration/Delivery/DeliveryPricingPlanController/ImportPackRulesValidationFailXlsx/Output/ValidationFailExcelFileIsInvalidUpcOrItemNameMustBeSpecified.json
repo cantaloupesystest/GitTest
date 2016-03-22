@@ -1,0 +1,7 @@
+{
+  "PackRules": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Row 5, UPC '', Item Name '': UPC or Item Name must be specified."
+  ]
+}

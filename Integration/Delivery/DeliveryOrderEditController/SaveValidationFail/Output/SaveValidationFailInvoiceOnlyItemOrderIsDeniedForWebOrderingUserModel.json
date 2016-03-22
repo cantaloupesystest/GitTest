@@ -1,0 +1,13 @@
+{
+  "IsOrderOverpaid": false,
+  "IsOrderCreditAllocated": false,
+  "DetailUrl": null,
+  "PdfUrl": null,
+  "OrderedScheduleLockHistories": null,
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Item \"12345600 - Invoice Only Item\" is invoice-only. You are not allowed to add invoice-only items."
+  ]
+}

@@ -1,0 +1,5520 @@
+[
+  {
+    "Name": "Items",
+    "Columns": [
+      {
+        "Caption": "Branch",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "UPC",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Name",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Size",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Count",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Unit Cost",
+        "DataFormat": null,
+        "WrapText": false
+      }
+    ],
+    "Rows": [
+      {
+        "Items": [
+          null,
+          "10000",
+          "Coke 12oz can 1000",
+          null,
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "100004",
+          "Powerade Lemon Lime  5994",
+          null,
+          24,
+          0.5900
+        ]
+      },
+      {
+        "Items": [
+          "Gulp-It!, Inc.",
+          "100005",
+          "Powerade Fruit Punch  5995",
+          null,
+          24,
+          0.5900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "100006",
+          "Powerade Mountain Berry Blast  4035",
+          null,
+          24,
+          0.5900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10001",
+          "Diet Coke 12oz can 1003",
+          null,
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10002",
+          "Dr Pepper 12oz can",
+          "",
+          24,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10003",
+          "Sprite 12oz can 1009",
+          null,
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10004",
+          "Sunkist Orange Soda 12oz can",
+          "",
+          24,
+          0.2800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10005",
+          "7 Up 12oz can 109712",
+          null,
+          24,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10006",
+          "Diet Dr Pepper 12oz can",
+          "",
+          24,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10007",
+          "Sunkist Grape 12oz can",
+          "",
+          24,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10009",
+          "Root Beer AW 12oz can",
+          "",
+          24,
+          0.2200
+        ]
+      },
+      {
+        "Items": [
+          "Gulp-It!, Inc.",
+          "10011",
+          "Diet 7 Up 12 oz can  50019",
+          null,
+          24,
+          0.1900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10012",
+          "Brisk Tea Lipton 12oz can 39213",
+          null,
+          24,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10013",
+          "Mountain Dew 12oz can 781184",
+          null,
+          24,
+          0.2800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10014",
+          "Pepsi 12oz can 781149",
+          "",
+          24,
+          0.2800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10017",
+          "Coke Zero 12oz can 0376",
+          null,
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10020",
+          "Diet Root Beer AW 12oz can  50547",
+          null,
+          24,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10021",
+          "Fresca 12oz can",
+          "",
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10022",
+          "Sprite Zero 12oz can 4807",
+          null,
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10025",
+          "Diet Mountain Dew 12oz can  51302",
+          null,
+          24,
+          0.3300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10027",
+          "Big Red Soda 12oz can 726763",
+          "",
+          24,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10028",
+          "Caffiene Free Diet Coke 12oz 5234",
+          null,
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10031",
+          "Barqs Root Beer 12oz 5258",
+          null,
+          24,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10032",
+          "Fuze Iced Tea 12oz 1032",
+          null,
+          24,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10033",
+          "Fanta Orange Soda 12oz",
+          "",
+          24,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10034",
+          "Dr Pepper Ten 12oz",
+          "",
+          24,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10035",
+          "Pibb Xtra 12oz can 5273",
+          null,
+          24,
+          0.3300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10036",
+          "Cherry Coke 12oz",
+          null,
+          24,
+          0.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10037",
+          "Cherry Coke Zero 12oz",
+          "",
+          1,
+          0.3300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10038",
+          "AW Cream Soda 12oz can",
+          "",
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10040",
+          "Minute Maid Lemonade 12oz can 5263",
+          null,
+          1,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "10041",
+          "Minute Maid Fruit Punch 12oz can",
+          "12oz",
+          24,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110001",
+          "Water Ozarka 16oz vend bottle  11476146",
+          null,
+          24,
+          0.2200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110004",
+          "Water Dasani 20oz bottle 5063",
+          null,
+          24,
+          0.4400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110006",
+          "Water Deja Blue 20oz bottle",
+          "",
+          24,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110008",
+          "La Croix Sparking Water 12oz can  015062242",
+          null,
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110010",
+          "La Croix Berry Sparkling Water 12oz can  15062236",
+          "12oz",
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110013",
+          "Vitamin Water XXX 20oz",
+          "",
+          1,
+          0.9900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110014",
+          "Perrier 11 oz 356767",
+          "11 oz",
+          24,
+          0.6200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110015",
+          "La Croix Lemon 12 oz",
+          "12oz",
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "110016",
+          "La Croix Lime 12oz can 151525",
+          "12oz",
+          24,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120001",
+          "Chicken Salad Premixed - 3.5oz  70350",
+          null,
+          1,
+          1.5800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120002",
+          "Tuna Kit w/ Crackers - 4oz  70780",
+          null,
+          1,
+          1.5800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120003",
+          "Ravioli Chef BoyRD - 7.5oz",
+          "",
+          1,
+          1.0900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120004",
+          "Chili - No Bean - 7.5oz",
+          "",
+          1,
+          1.0600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120010",
+          "Compleats Chicken Alfredo 10oz",
+          "",
+          1,
+          2.0100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120014",
+          "Oatmeal Cup Brown Sugar 1.9oz",
+          null,
+          1,
+          0.9000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120017",
+          "Cereal Bowls",
+          "",
+          1,
+          0.9900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "120019",
+          "Oatmeal Cup Baked Apple 1.9oz",
+          "",
+          1,
+          0.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "130000",
+          "Monster Energy Drink - 16oz  1656",
+          null,
+          24,
+          1.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "130001",
+          "Red Bull - 8oz 637127",
+          "",
+          1,
+          1.4100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "130002",
+          "Red Bull Sugarfree 8oz 836585",
+          "",
+          24,
+          1.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "130004",
+          "Monster LoCarb 16oz  1660",
+          null,
+          24,
+          1.2400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "130007",
+          "Monster Absolute Zero 16oz  7860",
+          null,
+          1,
+          1.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "130009",
+          "Venom Energy Black Mamba 16oz",
+          "",
+          1,
+          1.1400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150000",
+          "Orange Juice - 10oz Tropicana 826860",
+          "",
+          1,
+          0.5600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150001",
+          "Apple Juice - 10oz Tropicana 826853",
+          "",
+          1,
+          0.5400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150002",
+          "V-8 Juice - 11.5oz 21879",
+          "",
+          1,
+          0.4990
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150005",
+          "Cranberry Ocean Spray 15.2oz 60662",
+          "",
+          1,
+          0.7900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150006",
+          "Orange Juice Tropicana 15.2oz bottle",
+          "",
+          1,
+          0.9200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150007",
+          "Apple Juice Tropicana 15.2oz bottle",
+          "",
+          1,
+          0.8800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150008",
+          "Milk Shamrock Farms 12oz bottle",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150009",
+          "Chocolate Milk Shamrock Farms 12oz bottl",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150010",
+          "2% Lofat Milk Shamrock  1112120",
+          null,
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150011",
+          "Minute Maid Orange Juice 15.2oz  4782",
+          null,
+          1,
+          0.7700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150012",
+          "Minute Maid Apple Juice 15.2oz  4780",
+          null,
+          1,
+          0.7700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "150013",
+          "V-8 Splash 224397",
+          "16 oz",
+          12,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160003",
+          "Tonys 4x6 Pepporoni 4.56oz",
+          "",
+          1,
+          0.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160011",
+          "JimmyDean Sausage Biscuit Twin 3.4oz",
+          "",
+          1,
+          0.8900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160016",
+          "Jose Ole Chicken Chimi 5oz 537781",
+          "",
+          1,
+          0.6900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160021",
+          "Tonys Sausage Pizza 5inch 6.33oz",
+          "",
+          1,
+          1.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160028",
+          "Jose Ole Steak and Cheese Chimi 5oz  852417",
+          null,
+          1,
+          0.6700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160029",
+          "Deli Express Barbeque Deluxe 5oz",
+          "",
+          1,
+          1.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160030",
+          "Deli Express Chicken Swiss 4.5oz",
+          "",
+          1,
+          1.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160037",
+          "Red Baron 5in Pizza 6oz",
+          null,
+          1,
+          1.4600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160041",
+          "Landshire Double Cheeseburger 6oz",
+          "",
+          1,
+          1.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160043",
+          "Hot Pocket Ham Cheese 4.5 oz 11117",
+          "",
+          1,
+          0.7600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160044",
+          "Landshire Turkey Cheese Wedge 4.5oz",
+          "",
+          1,
+          1.6100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160045",
+          "Landshire Twin Chili Dog 8oz",
+          "",
+          1,
+          1.7900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160046",
+          "Landshire Ham Cheese Wedge 4.5oz",
+          "",
+          1,
+          1.5700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160047",
+          "Landshire Big Daddy Burger 9.65oz",
+          "",
+          1,
+          1.8900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160049",
+          "Landshire Chicken Salad Wedge 4.5oz",
+          "",
+          1,
+          1.5100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160050",
+          "Deli Express Ham Cheese Wedge 6oz",
+          "",
+          1,
+          1.4100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160053",
+          "Landshire BBQ Pork Rib Patty 6.5oz",
+          "",
+          1,
+          1.6900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160056",
+          "Deli Express Deli Club 4.4oz  785",
+          null,
+          1,
+          1.7700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160057",
+          "Johnsonville Cheddar Sausage Roll 5oz",
+          "",
+          1,
+          1.3200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160059",
+          "Don Miguel Mini Taco Boat 5oz",
+          "",
+          1,
+          1.1900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160062",
+          "Lean Pocket Turkey Ham and Cheddar",
+          "",
+          1,
+          0.9900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160063",
+          "Hot Pockets Bacon Egg Cheese 4oz 755147",
+          null,
+          1,
+          0.7600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160067",
+          "Hot Pocket Pepperoni 4.5 oz S 11109",
+          "",
+          1,
+          0.7580
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160068",
+          "Marie Calender Chicken Pot Pie 10 oz 286574",
+          "",
+          1,
+          1.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160069",
+          "Chobani Strawberry Greek Yogurt 6oz",
+          "",
+          1,
+          0.9700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160070",
+          "Chobani Peach Greek Yogurt 6oz",
+          "",
+          1,
+          0.9700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160071",
+          "Chobani Blueberry Greek Yogurt 6oz",
+          "",
+          1,
+          0.9700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160072",
+          "Owens Sausage Egg & Cheese Burrito  005663",
+          null,
+          1,
+          0.4900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160074",
+          "Burry Bagel with Cream Cheese",
+          "4.7 oz.",
+          24,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "160075",
+          "Jimmy Dean Delights Turkey Sausage Muffin",
+          "5.1 oz.",
+          12,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170001",
+          "SK Philly Cheese Steak Hoagie",
+          "",
+          1,
+          2.1700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170002",
+          "SK Giant Grilled Chicken Sandwich",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170004",
+          "SK Giant Turkey Breast Sandwich",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170005",
+          "SK Giant Po Boy",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170006",
+          "SK Tuna Hoagie",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170007",
+          "SK Ham and Cheese",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170010",
+          "SK Chicken Salad Sandwich",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170030",
+          "SK Salad Grilled Chicken",
+          "",
+          1,
+          3.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170031",
+          "SK Salad Chef",
+          "",
+          1,
+          3.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170116",
+          "Banana Pudding",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170117",
+          "Chocolate Pudding",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170118",
+          "Strawberry Shortcake",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170131",
+          "Stuffed Baked Potato",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170135",
+          "Boiled Egg Crackers",
+          "",
+          1,
+          0.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170140",
+          "Fresh Fruit Mix",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "170190",
+          "Baked Potato with Chopped BBQ",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171011",
+          "Sandwich Triangle Pimento Cheese Wheat",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171021",
+          "Sandwich Egg Salad Wheat",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171041",
+          "Sandwich Chicken Salad on Wheat",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171215",
+          "Sandwich Ham & Swiss Rye Plate",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171225",
+          "Sandwich Turkey & Swiss on Rye",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171234",
+          "Sandwich Roast Beef Chs Let Tom Wheat",
+          "",
+          1,
+          1.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171340",
+          "Sandwich Ham Turkey Roast Hoagie",
+          "",
+          1,
+          1.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171515",
+          "Large Italian Sub",
+          "",
+          1,
+          1.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171530",
+          "Sandwich Club with Turk Bac Let Tom",
+          "",
+          1,
+          1.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171640",
+          "Sandwich Large Philly Steak",
+          "",
+          1,
+          1.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171650",
+          "Sandwich Ham and Swiss on Ciabatta",
+          "",
+          1,
+          1.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171660",
+          "Sandwich Turkey Swiss on Ciabatta",
+          "",
+          1,
+          1.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171910",
+          "Sandwich Turkey Chs Hoagie Butcher Pape",
+          "",
+          1,
+          2.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "171925",
+          "Sandwich Poboy Hoagie Butcher Paper",
+          "",
+          1,
+          2.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172010",
+          "Sandwich Double Cheeseburger",
+          "",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172011",
+          "Sandwich Double Cheese Burger w let/tom",
+          "",
+          1,
+          1.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172020",
+          "Single Cheese Burger",
+          "",
+          1,
+          1.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172050",
+          "Sandwich Bacon Cheeseburger",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172110",
+          "Sandwich Large Chopped BBQ",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172150",
+          "Sandwich BBQ Chicken Breast",
+          "",
+          1,
+          1.6500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172210",
+          "Sandwich Double Chili Cheese Dog",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172250",
+          "Sandwich Footlong Cheese Dog",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172280",
+          "Sandwich Double Corn Dog",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172325",
+          "Sandwich Pork Chop",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172330",
+          "Sandwich Steak Finger on Roll",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172350",
+          "Sandwich Grilled Chicken Sourdough",
+          "",
+          1,
+          1.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172355",
+          "Sandwich Grill Chicken Sourdough w L/T",
+          "",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172360",
+          "Sandwich Grilled Chicken Breast 5oz",
+          "",
+          1,
+          1.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172365",
+          "Sandwich Chicken Fried Chicken",
+          "",
+          1,
+          1.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "172450",
+          "Sandwich Large Meatball Sub",
+          "",
+          1,
+          1.6500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173000",
+          "Sandwich Chicken Fajita",
+          "",
+          1,
+          1.6500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173120",
+          "Breakfast Sandwich Western Omlet Toast",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173140",
+          "Breakfast Grilled Ham  Egg on Sourdough",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173160",
+          "Breakfast Biscuit Double Sausage Egg Chs",
+          "",
+          1,
+          1.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173230",
+          "Breakfast Triangle Bacon Egg on Toast",
+          "",
+          1,
+          1.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173330",
+          "Breakfast Sandwich Bacon Egg on Tex Tst",
+          "",
+          1,
+          1.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173410",
+          "Breakfast Croissant Ham Egg Chs",
+          "",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "173420",
+          "Sausage Egg & Cheese on Croissant",
+          "",
+          1,
+          1.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "174097",
+          "Meal Burrito Dinner 9oz",
+          "",
+          1,
+          1.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "174098",
+          "Meal Enchilada Dinner 9oz",
+          "",
+          1,
+          1.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "175040",
+          "Sandwich Cheese Burger Fries",
+          "",
+          1,
+          1.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176005",
+          "Salad Grilled Chicken",
+          "",
+          1,
+          2.7100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176010",
+          "Salad Chef Salad",
+          "",
+          1,
+          2.6600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176015",
+          "Salad Garden",
+          "",
+          1,
+          2.1500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176020",
+          "Caesar Salad",
+          "",
+          1,
+          2.4900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176025",
+          "Salad BLT Grilled Chicken",
+          "",
+          1,
+          3.0200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176030",
+          "Greek Salad",
+          "",
+          1,
+          3.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "176035",
+          "Salad Cobb",
+          "",
+          1,
+          3.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177040",
+          "Meal Chicken Salad Supreme",
+          "",
+          1,
+          2.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177135",
+          "Deviled Boiled Eggs",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177140",
+          "Meal Philly Cheese Steak",
+          "",
+          1,
+          3.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177160",
+          "Breakfast Bagel and Cream Cheese",
+          "",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177185",
+          "Breakfast Meal Biscuit Gravy Sausage",
+          "",
+          1,
+          2.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177210",
+          "Meal Double Roll Turkey",
+          "",
+          1,
+          3.0500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177215",
+          "Meal Multigrain Ham Sandwich",
+          "",
+          1,
+          3.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177216",
+          "Meal Multigrain half Turkey Sandwich",
+          "",
+          1,
+          3.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177217",
+          "Meal Multigrain Half Chick Sal Sandwich",
+          "",
+          1,
+          3.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177320",
+          "Turkey and Swiss Cheese Hoagie",
+          null,
+          1,
+          2.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177340",
+          "Meal Three Meat Hoagie with Swiss",
+          "",
+          1,
+          3.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "177450",
+          "Meal Italian Meatball Hoagie",
+          "",
+          1,
+          2.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "178000",
+          "Meal Vegetable Lasagna",
+          "",
+          1,
+          3.6500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "178005",
+          "Meal Three Cheese Ravioli",
+          "",
+          1,
+          3.6500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "178010",
+          "Sandwich Classic Pastrami Roll",
+          "",
+          1,
+          3.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "178120",
+          "Breakfast Meal Western Omelet Sandwich",
+          "",
+          1,
+          2.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "178320",
+          "Breakfast Meal Sausage Egg Texas Toast",
+          "",
+          1,
+          2.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "178330",
+          "Breakfast Meal Bacon Egg Texas Toast",
+          "",
+          1,
+          2.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179000",
+          "Banana",
+          "",
+          1,
+          0.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179001",
+          "Orange",
+          "",
+          1,
+          0.5300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179002",
+          "Apple",
+          "",
+          1,
+          0.5300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179185",
+          "Salad Chef ReadyPac",
+          "",
+          1,
+          3.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179186",
+          "Salad Chicken Caesar ReadyPac",
+          "",
+          1,
+          3.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179187",
+          "Salad Turkey Bacon Cobb ReadyPac",
+          "",
+          1,
+          3.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "179188",
+          "Salad Santa Fe ReadyPac",
+          "",
+          1,
+          3.2000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180000",
+          "Jack Links Jerky 0.9oz",
+          "",
+          1,
+          0.9500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180001",
+          "5 Hr Energy 680060",
+          "",
+          12,
+          1.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180002",
+          "Tic Tac Freshmints 1oz",
+          "",
+          12,
+          0.7400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180003",
+          "Advil 2 tablets 6395",
+          null,
+          50,
+          0.1900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180005",
+          "Starbucks Frappuccino Vanilla 9.5oz 798852",
+          "",
+          1,
+          1.0900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180006",
+          "Starbucks Frappuccino Mocha 9.5oz 690498",
+          "",
+          1,
+          1.1500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180007",
+          "Muscle Milk Chocolate 11oz 728691",
+          "",
+          1,
+          1.5400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180008",
+          "Velveeta Shell & Cheese Cup 2.39 oz 947038",
+          "",
+          1,
+          0.6200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180009",
+          "Maruchan Chicken Ramen Noodle Cup 2.25oz 180913",
+          "",
+          1,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180010",
+          "Frigo String Cheese 681926",
+          "",
+          1,
+          0.1800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180011",
+          "Tylenol Extra Strength  437498",
+          null,
+          50,
+          0.1800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180012",
+          "Snapple Green Tea 16oz.",
+          "",
+          1,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180013",
+          "Snapple Kiwi Strawberry 16 oz.",
+          "",
+          1,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180014",
+          "Snapple Lemon Tea 16 oz.",
+          "",
+          1,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180015",
+          "Snapple Peach Tea 16 oz.",
+          "",
+          1,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180016",
+          "Snapple Raspberry Tea 16 oz.",
+          "",
+          1,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180017",
+          "Snapple Diet Peach Tea 16 oz.",
+          "",
+          1,
+          0.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180018",
+          "GoPicnic Hummus and Crackers",
+          "",
+          1,
+          8.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180019",
+          "Belvita Blueberry 1.76oz  00440000290800",
+          null,
+          1,
+          0.7400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180020",
+          "Aleve 2's",
+          "2",
+          6,
+          0.8800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180021",
+          "Advil Pain 4 Tablets",
+          "4",
+          6,
+          0.9900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180022",
+          "10 1/6' Plate",
+          "170",
+          170,
+          12.9800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180023",
+          "Flipz White Fudge Pretzels 5 oz.",
+          "5 oz.",
+          1,
+          1.9300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180024",
+          "Flipz Milk Chocolate Pretzels 5oz",
+          "5oz",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "180025",
+          "Sabra Hummus with Pretzel 4.56 oz. 01195",
+          "4.56 oz.",
+          12,
+          1.7900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190000",
+          "Swiss Miss Fudge Bar 3oz 253683",
+          "",
+          1,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190001",
+          "Twix Ice Cream Bar 1.93oz",
+          "",
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190002",
+          "Snickers Ice Cream Bar 2oz 025041",
+          "",
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190003",
+          "Skinny Cow Cookies N Cream 4oz",
+          "",
+          1,
+          0.4900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190004",
+          "Healthy Choice Chicken Margherita 10oz",
+          "",
+          1,
+          2.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190005",
+          "Healthy Choice Chicken Marinara 10oz",
+          "",
+          1,
+          2.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190006",
+          "Lean Cuisine Sesame Chicken 9oz",
+          "",
+          1,
+          1.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190007",
+          "Lean Cuisine Ginger Garlic Stir Fry 9.9o",
+          "",
+          1,
+          1.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190008",
+          "Lean Cuisine Chicken Teriyaki 9oz",
+          "",
+          1,
+          1.8300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190009",
+          "Skinny Cow Vanilla",
+          "",
+          1,
+          0.4900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190010",
+          "Toll House Ice Cream Sandwiches 484795",
+          "",
+          1,
+          0.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190011",
+          "Lean Cuisine Spaghetti & Meat Balls",
+          "",
+          1,
+          1.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190012",
+          "Lean Cuisine Chicken Parmesan",
+          "",
+          1,
+          1.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190013",
+          "Healthy Choice Chicken Linguini",
+          "",
+          1,
+          2.0800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190014",
+          "Healthy Choice Seasame Chicken",
+          "",
+          1,
+          2.0800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190015",
+          "Fat Boy Ice Cream Sandwich 5oz",
+          "",
+          1,
+          0.4400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190016",
+          "Mars Ice Cream Variety Pack",
+          null,
+          18,
+          0.4400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190017",
+          "DrumStick Ice Cream Cone  136096",
+          "4.6 oz",
+          16,
+          0.6200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190018",
+          "Minute Maid Fozen Lemonade 8 oz 223408",
+          "8 oz.",
+          12,
+          0.6900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190019",
+          "Tony's Pepperoni Pizza Singles 670805",
+          "6 oz",
+          10,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190020",
+          "Lean Cuisine 5 Cheese Rigatoni",
+          "10oz",
+          1,
+          1.8800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190021",
+          "lean cuisine french bread pepperoni pizza",
+          "5.25 oz",
+          1,
+          1.8800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190022",
+          "Stouffers macaroni & cheese",
+          "12 oz.",
+          1,
+          1.8400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190023",
+          "Stouffers Lasagna 11.5oz",
+          "11.1 oz",
+          1,
+          2.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190024",
+          "Healthy Choice Turkey Sweet Potatoes",
+          null,
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190025",
+          "Sliced Apples and Caramel",
+          null,
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190026",
+          "Carrots and Ranch Dip",
+          "2.75oz",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190027",
+          "Marie Calendar Pot Roast",
+          null,
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190028",
+          "Apple with Peanut Butter Dippin Stix",
+          null,
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190029",
+          "Skinny Cow Chocolate Ice Cream Sandwich",
+          "4 oz",
+          10,
+          0.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190030",
+          "Stouffers Lasagna 19oz",
+          "19oz",
+          1,
+          2.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "190031",
+          "Banana Dippers 76922",
+          ".55 oz",
+          20,
+          0.4900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20000",
+          "Coke 16.9oz bottle 795561",
+          "",
+          24,
+          0.5733
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200000",
+          "Lorna Doone 100 cal pack",
+          "",
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200001",
+          "Ritz Snack Mix 100 cal pack",
+          "",
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200002",
+          "SunMaid Raisin 0.5oz bag of 12",
+          "",
+          1,
+          2.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200003",
+          "Nutrigrain Raspberry",
+          "",
+          1,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200004",
+          "Special K Protein Meal Bar ChocoPB",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200005",
+          "Special K Protein Meal Bar Strawberry",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "200006",
+          "SunMaid Raisin 1 oz.",
+          "1 oz.",
+          6,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20001",
+          "Diet Coke 16.9oz bottle 259813",
+          "",
+          24,
+          0.5560
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20002",
+          "Dr Pepper 16.9oz bottle",
+          "",
+          24,
+          0.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20003",
+          "Diet Dr Pepper 16.9oz bottle 349356",
+          null,
+          24,
+          0.5300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20005",
+          "Green Tea Lipton 16.9oz bottle",
+          "",
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20006",
+          "Mountain Dew 16.9oz bottle",
+          "",
+          24,
+          0.5100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20008",
+          "Sprite 16.9oz bottle",
+          "",
+          24,
+          0.5700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20011",
+          "7 Up 16.9oz bottle  220030",
+          null,
+          24,
+          0.5200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "20012",
+          "Sunkist Orange Soda 16.9oz bottle  220220",
+          null,
+          24,
+          0.5200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25000",
+          "Coke 20oz bottle 5788",
+          null,
+          24,
+          0.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25001",
+          "Diet Coke 20oz bottle 5789",
+          null,
+          24,
+          0.7300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25002",
+          "Dr Pepper 20oz bottle",
+          "",
+          24,
+          0.7100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25003",
+          "Diet Dr Pepper 20oz bottle  50249",
+          null,
+          24,
+          0.7300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25004",
+          "7 Up 20oz bottle  54154",
+          null,
+          24,
+          0.7100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25005",
+          "Coke Zero 20oz bottle 0377",
+          null,
+          24,
+          0.7200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25007",
+          "Sunkist Orange Soda 20oz bottle  66680",
+          null,
+          24,
+          0.7100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25008",
+          "Mountain Dew 20oz bottle  00134",
+          null,
+          24,
+          0.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25010",
+          "Root Beer AW 20oz bottle  32500",
+          null,
+          24,
+          0.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25014",
+          "Fanta Orange 20oz 5845",
+          null,
+          1,
+          0.6100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25015",
+          "Pibb Xtra 20oz",
+          "",
+          1,
+          0.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25016",
+          "Sprite 20oz 4320",
+          null,
+          1,
+          0.7300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25017",
+          "Barqs Root Beer 20oz 5991",
+          null,
+          1,
+          0.6100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25018",
+          "Nestea Iced Tea 20oz",
+          "",
+          1,
+          0.7200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25019",
+          "Sunkist Grape 20oz bottle  11640",
+          null,
+          1,
+          0.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25020",
+          "Minute Maid Fruit Punch 20oz 6246",
+          null,
+          1,
+          0.6200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25021",
+          "Fuze Iced Tea 20oz",
+          "",
+          1,
+          0.6200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25022",
+          "Snapple Peach Tea 20 oz Plastic Bottle",
+          "",
+          1,
+          0.9600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25023",
+          "Pepsi 20oz",
+          "",
+          1,
+          0.8500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25024",
+          "Dr Pepper Ten 20oz",
+          "",
+          1,
+          0.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25025",
+          "Minute Maid Orange Juice 10 oz. 355940",
+          "10 oz",
+          24,
+          0.5600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25026",
+          "Minute Maid Apple Juice 10 oz.  349237",
+          "10 oz.",
+          24,
+          0.5400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25027",
+          "Minute Maid CranGrape 15.2 oz.  4785",
+          "15.2 oz",
+          24,
+          0.7700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "25028",
+          "Diet AW Root Beer 20oz",
+          "20oz",
+          24,
+          0.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30002",
+          "Hersheys Almond - 1.45oz 2439",
+          "",
+          1,
+          0.5520
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30003",
+          "KARS Sweet and Salty - 2oz 66993",
+          "",
+          1,
+          0.3067
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30004",
+          "MM Peanut - 1.74oz 2531",
+          "",
+          1,
+          0.5550
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30005",
+          "Payday - 1.85oz 202687",
+          "",
+          1,
+          0.5550
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30006",
+          "Reeses Peanut Butter Cups - 1.5oz 2444",
+          "",
+          1,
+          0.5520
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30007",
+          "Skittles  2.17oz 15016",
+          "",
+          1,
+          0.5522
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30008",
+          "Snickers  1.86 oz 749278",
+          "",
+          1,
+          0.4925
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30010",
+          "3 Musketeers  1.92oz 002527",
+          "",
+          1,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30011",
+          "Twix  1.79oz 328189",
+          "",
+          1,
+          0.5520
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30012",
+          "MM Plain  1.12oz Mars 2530",
+          "",
+          1,
+          0.5550
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30013",
+          "Milky Way 1.84oz",
+          "",
+          1,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30017",
+          "Nestle Crunch 1.55oz Mars 012113",
+          "",
+          1,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30020",
+          "Mr Goodbar 1.75oz 2440",
+          "",
+          1,
+          0.5520
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30022",
+          "KitKat Extra Crispy 1.61 oz 933790",
+          "",
+          1,
+          0.5520
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30029",
+          "Zone Bar 860611",
+          "",
+          1,
+          0.7700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30031",
+          "KitKat 1.5oz Hershey 002442",
+          "",
+          1,
+          0.4600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30032",
+          "Hershey Bar 1.55oz 002438",
+          "",
+          1,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30033",
+          "Lance Peanut Bar 2.21oz",
+          null,
+          1,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30035",
+          "Sqworms Nuclear 2oz",
+          "",
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30036",
+          "Sweetarts Mini Chewy 1.8oz",
+          "",
+          1,
+          0.5200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30038",
+          "MM Peanut Butter 1.63oz 6072",
+          "",
+          1,
+          0.5550
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30039",
+          "Juicefuls Fruit Snacks  62473",
+          null,
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30040",
+          "Clif  Chocolate Chip Bar",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30041",
+          "Sour Patch Watermelon 5 oz.  007046206022400",
+          null,
+          1,
+          0.8700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30042",
+          "Gummi Gold Bears 5 oz  30220",
+          null,
+          1,
+          0.9600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30043",
+          "Haribo Happy Cola Gummi 5 oz",
+          "",
+          1,
+          0.9600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30044",
+          "Sour Patch Kids 2 oz. 674152",
+          "",
+          1,
+          0.5550
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30045",
+          "Hershey's Cookies 'n Cream  52405",
+          "1.55 oz.",
+          36,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30046",
+          "Raisinets 1.58oz 492837",
+          null,
+          36,
+          0.5500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30047",
+          "Russell Sugar Free Pecan Delight",
+          "1 oz.",
+          30,
+          0.6100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "30048",
+          "Kind Bars",
+          "1.4 oz.",
+          18,
+          1.0500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "35000",
+          "LSC Payday 3.4oz",
+          "",
+          1,
+          0.9900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "35001",
+          "LSC Hersey Milk Chocolate 2.6oz 055874",
+          "",
+          1,
+          0.9900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "35002",
+          "LSC Hersey Cookie&Creme 2.6oz 041269",
+          "",
+          1,
+          0.9400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "35003",
+          "LSC Reeses 2.8oz",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "35004",
+          "LSC Twix 3.02 oz 328210",
+          "",
+          1,
+          0.9700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40000",
+          "Cheetos 1oz",
+          "",
+          1,
+          0.2300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40001",
+          "Cheetos Flamin Hot 1oz  32627",
+          null,
+          1,
+          0.2300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40002",
+          "CheezIt 1.5oz 15989",
+          null,
+          1,
+          0.2470
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40003",
+          "Doritos Nacho Cheese 1oz  32629",
+          null,
+          1,
+          0.2300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40005",
+          "Fritos 1oz",
+          "",
+          1,
+          0.2300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40006",
+          "Fritos Chili Cheese 1oz",
+          "",
+          1,
+          0.2200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40010",
+          "Lays BBQ 1oz  32620",
+          null,
+          1,
+          0.2300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40011",
+          "Popcorn White Cheddar Cheese 0.75oz  227",
+          null,
+          1,
+          0.2600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40012",
+          "Pork Skins Macs Hot 1oz 710234",
+          null,
+          1,
+          0.2400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40013",
+          "Ruffles Cheddar Sour Cream 1oz  11065",
+          null,
+          1,
+          0.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40015",
+          "Sun Chips 1oz",
+          "",
+          1,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40016",
+          "TGI Fridays Cheddar & Bacon 1oz",
+          "",
+          1,
+          0.2400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40018",
+          "Zapps Jalapeno Potato Chips 1oz  6005",
+          null,
+          1,
+          0.3000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40019",
+          "Andy Capps Hot Fries 0.85oz 334055",
+          null,
+          1,
+          0.1900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40021",
+          "Funyuns 0.75oz",
+          "",
+          1,
+          0.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40023",
+          "LSS Chex Mix - 1.75oz 788870",
+          "",
+          1,
+          0.2720
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40024",
+          "Bobs Jalepeno Chips - 1oz  10455",
+          null,
+          1,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40025",
+          "Pretzels - Snyders - 1.5oz 969030",
+          null,
+          1,
+          0.2163
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40030",
+          "Ruffles Ridged Potato Chip 1 oz. 32624",
+          "1 oz",
+          1,
+          0.2200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40031",
+          "Bugles - Regular - 0.875 oz",
+          "",
+          1,
+          0.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40037",
+          "Snyders Kosher Dill 1oz  21851",
+          null,
+          1,
+          0.2700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40038",
+          "Lays Sour Cream Onion 1oz  11054",
+          null,
+          1,
+          0.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40039",
+          "Bugles Nacho 0.875oz  6146",
+          null,
+          1,
+          0.2800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40040",
+          "Cheetos Jumbo Puffs 0.875oz  11094",
+          null,
+          1,
+          0.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40042",
+          "Baked Cheetos 0.875oz",
+          "",
+          1,
+          0.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40049",
+          "Munchos 0.875oz 11112",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40059",
+          "Cheese Popper Jalapeno Curls 1oz  307",
+          null,
+          1,
+          0.2700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "40080",
+          "Snyder's Hot Buffalo Wing",
+          "1 oz.",
+          72,
+          0.2700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45000",
+          "LSS Salsita - 1.5oz  260250",
+          null,
+          1,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45002",
+          "LSS Baked Lays Regular 1.125oz  44396",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45006",
+          "LSS Lays Kettle Cooked Jalapeno 1.375oz  44429",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45012",
+          "LSS Rold Gold Pretzels TT 2oz  44391",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45019",
+          "LSS Dorito Nacho Cheese 1.75oz  44375",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45020",
+          "LSS Lays Regular Chip 1.5oz  44359",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45021",
+          "LSS Fritos 2oz  44355",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45025",
+          "LSS Cheetos 2oz  44366",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45026",
+          "LSS Fritos Chili Cheese 2oz  44354",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45031",
+          "LSS Ruffles CheddarSourCream 1.5oz",
+          "",
+          1,
+          0.4100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45032",
+          "LSS Cheetos Jalapeno 2oz  44367",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45034",
+          "LSS Bugles Nacho 1.5oz  11332",
+          null,
+          1,
+          0.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45036",
+          "LSS Funyuns 1.25oz",
+          "",
+          1,
+          0.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45037",
+          "LSS Chester Hot Fries 1.75oz  44394",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45038",
+          "Goldfish - 1.5oz 364774",
+          null,
+          1,
+          0.2988
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45046",
+          "LSS Quaker Baked Cheddar Snack Mix 1.75o  44389",
+          null,
+          1,
+          0.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45050",
+          "LSS Doritos Cool Ranch 1.75oz  44374",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45052",
+          "LSS Munchies Cheese Fix 1.75oz",
+          "",
+          1,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45055",
+          "LSS Cheezit 2oz  12322",
+          null,
+          1,
+          0.4300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45061",
+          "LSS Takis Fuego Rolled Tortilla 2oz  31505",
+          null,
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45066",
+          "LSS Southern Hot Pork Rind 0.875oz",
+          "",
+          1,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45067",
+          "LSS Lays Kettle Applewood Smkd BBQ 1.375  09598",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45068",
+          "LSS Vidalia Sweet Onion Petals 1.35 oz  43009",
+          null,
+          1,
+          0.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45069",
+          "LSS Ruffles Ultimate BBQ 1.5 oz.  14814",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45070",
+          "PopChips Sweet Potato 0.8oz 700009",
+          "0.8 oz",
+          72,
+          0.5700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45071",
+          "Lays Cheesy Garlic Bread 1.5oz 23399",
+          "1.5oz",
+          64,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45072",
+          "LSS Guacachip Tortilla Chip 1.5 oz 274064",
+          "1.5 oz.",
+          60,
+          0.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "45073",
+          "LSS Miss Vickies Sea Salt Vinegar 1.375oz 44446",
+          "1.375",
+          64,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50001",
+          "Famous Amos Cookies - 2oz 655861",
+          "",
+          1,
+          0.2780
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50002",
+          "Grandma Vanilla Mini Cookies - 2.12oz  45096",
+          null,
+          1,
+          0.3200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50003",
+          "Grandma's Big Chocolate Chip Cookie - 2.5oz  45092",
+          null,
+          60,
+          0.2960
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50004",
+          "Knott's Jam Shortbread Cookie - 2oz 694603",
+          "",
+          1,
+          0.2600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50005",
+          "Lorna Doone Cookies - 1.5oz",
+          "",
+          1,
+          0.2900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50007",
+          "Oreos - 2oz 162828",
+          "",
+          1,
+          0.3187
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50008",
+          "Zoo Animal Crackers - 2 oz 738199",
+          null,
+          1,
+          0.2200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50009",
+          "Fudge Stripes - 2oz",
+          "",
+          1,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50010",
+          "MM Cookie - 1.8oz 151694",
+          "",
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50014",
+          "Duplex Sandwich Cremes 5oz  52051",
+          null,
+          1,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50015",
+          "Pecan Sandies Keebler 1.75oz  13318",
+          null,
+          1,
+          0.3800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50022",
+          "Basil Lemon Sandwich Cremes 5oz 52055",
+          null,
+          1,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50024",
+          "Swiss Creme Sandwich Cookie 1.8oz 00193200154700",
+          null,
+          1,
+          0.3600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50025",
+          "Gardettos 1.75oz 788863",
+          "",
+          1,
+          0.2740
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50026",
+          "Gardetto Reduced Fat 1.65oz  11189",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50027",
+          "Cracker Creations Chocolate Granola 1.2  103552",
+          null,
+          1,
+          0.3800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50028",
+          "Chips Ahoy Cookies 12 oz.",
+          "",
+          1,
+          1.5800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50029",
+          "Sunmaid Cookie Oatmeal Raisin Apple 2 oz.  59861",
+          "2 oz.",
+          60,
+          0.3160
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50030",
+          "Grandma Big Oatmeal Raisin Cookie 2.5oz  45093",
+          "2.5 oz.",
+          60,
+          0.2960
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "50031",
+          "VanOLunch Cookies 1.65oz",
+          "1.65oz",
+          120,
+          0.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "55000",
+          "LSS Grandma Mini Vanilla 3.71oz  45095",
+          null,
+          1,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60000",
+          "Chocolate Cupcake - Mrs. Freshley - 4oz  48060550",
+          null,
+          1,
+          0.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60001",
+          "Big Texas Cinnamon Rolls - 4oz  79900",
+          null,
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60002",
+          "Cheese Danish - 4oz  79933",
+          null,
+          1,
+          0.4600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60003",
+          "Pop-Tarts - 3.6oz 856858",
+          "",
+          1,
+          0.3820
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60005",
+          "Sugar Wafers - 2.75oz 767326",
+          "",
+          1,
+          0.3620
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60007",
+          "Rice Krispies Treats - 2.13oz  52402",
+          null,
+          1,
+          0.5300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60013",
+          "Jumbo Honeybun - Mrs. Freshley's 5oz  48060540",
+          null,
+          1,
+          0.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60015",
+          "Cherry Cheese Danish - 4.25oz 79922",
+          null,
+          1,
+          0.4500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60017",
+          "Carrot Cake Mrs Freshley - 3.5oz  48033340",
+          null,
+          1,
+          0.5100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60020",
+          "Crumb Cake 3.25oz 410934",
+          "",
+          1,
+          0.4990
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60025",
+          "Otis Spunkmeyer Muffin 4oz 737470",
+          null,
+          1,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60034",
+          "Strawberry Danish Cloverhill 4.25oz",
+          "",
+          1,
+          0.5200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60041",
+          "Mini Muffin Chocolate Chip 2.5oz",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60042",
+          "Mini Muffin Blueberry 2.5oz 48201",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60044",
+          "Blasters Strawberry 4oz",
+          "",
+          1,
+          0.5200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60046",
+          "Heritage Apple Danish 4 oz.  36049952",
+          null,
+          1,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60048",
+          "Crunch Mini Donuts 3.5oz 63480",
+          null,
+          1,
+          0.5400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60050",
+          "Mrs. Freshly Donut Sticks 3 oz  48033450",
+          null,
+          1,
+          0.5100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60051",
+          "Sconza Sour Worms 4oz",
+          "",
+          1,
+          0.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60052",
+          "Sconza Gummy Bears 4oz  10500",
+          null,
+          1,
+          0.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60053",
+          "Glazed Chocolate Double Donut 4oz 43640",
+          null,
+          36,
+          0.4700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "60054",
+          "Sugar Donuts 3 oz 766136",
+          "3 oz.",
+          12,
+          0.4300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70000",
+          "Wrigley Spearmint Gum  23001",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70001",
+          "Wrigley Doublemint Gum  23003",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70002",
+          "Wrigley Winterfresh Gum  23007",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70005",
+          "Big Red Gum 23009",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70006",
+          "Juicy Fruit Gum",
+          "",
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70007",
+          "Lifesaver 5 Flavor Mint 0.9oz  22935",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70008",
+          "Lifesaver PepOMint 0.72oz  22936",
+          null,
+          1,
+          0.3100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70010",
+          "Dentyne Ice Peppermint Gum 12 piece",
+          "",
+          1,
+          0.6100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70012",
+          "Stride Gum Spearmint 14 piece 110658",
+          "",
+          1,
+          0.7483
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70013",
+          "Stride Gum Winterblue 14 piece 110711",
+          "",
+          1,
+          0.6900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70014",
+          "Dentyne Classic 7stick cinnamon",
+          "",
+          1,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70016",
+          "Orbit Wintermint 619003",
+          "",
+          1,
+          0.7200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70017",
+          "Orbit Cinnamint 044670",
+          "",
+          1,
+          0.7200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70018",
+          "Stride Sweet Peppermint 043022",
+          "",
+          1,
+          0.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70019",
+          "Orbit Peppermint 14 piece",
+          "",
+          1,
+          0.7200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "70020",
+          "Altoids Peppermint",
+          "",
+          1,
+          1.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80001",
+          "Toasty Crackers w/Peanut Butter - 1.38oz 783144",
+          null,
+          1,
+          0.1310
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80002",
+          "Cheese Crackers w/Cheddar Cheese -1.38oz",
+          "",
+          1,
+          0.1200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80004",
+          "Act II Butterlovers Popcorn - 3 oz 567374",
+          "",
+          1,
+          0.2600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80006",
+          "Peanuts Planters - 1oz 316799",
+          "",
+          1,
+          0.1800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80008",
+          "Sunflower Seed - David - 1.625oz",
+          null,
+          1,
+          0.3200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80009",
+          "Austin Peanut Butter Cheese Cracker 1.38 782745",
+          null,
+          1,
+          0.1300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80011",
+          "Double Barrel Salami Sticks - 1.125oz  5303",
+          null,
+          1,
+          0.4200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80012",
+          "Corn Nuts - Chili Picante - 1.4oz",
+          "",
+          1,
+          0.4100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80014",
+          "KARS Sunflower Kernels - 2oz",
+          "2oz",
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80017",
+          "Pistachios 1.5oz",
+          "",
+          1,
+          0.6200
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80019",
+          "KARS Trail Mix 2oz  8950",
+          null,
+          1,
+          0.3800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80020",
+          "Mr Nature Unsalted Energizer Mix 1.75 oz",
+          null,
+          1,
+          0.3800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80021",
+          "Mr Nature Trail Mix 1.75 oz",
+          "",
+          1,
+          0.3800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80023",
+          "Samuri Japanese Peanuts 1.4oz  2042008",
+          null,
+          1,
+          0.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80025",
+          "FritoLay Peanuts 1.625oz 56302",
+          null,
+          1,
+          0.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80026",
+          "Captain Wafer Grilled Cheese 1.375oz",
+          "",
+          1,
+          0.2100
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80028",
+          "Nekot Cookie Peanut Butter  1.75oz 743214",
+          "",
+          1,
+          0.1720
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80029",
+          "Kars Almonds 1oz",
+          "",
+          1,
+          0.3900
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80031",
+          "Kars Sweet n Spicy  1.75 oz  8984",
+          null,
+          1,
+          0.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80032",
+          "Kars Cranberry Almond Delight 3oz",
+          "",
+          1,
+          0.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80034",
+          "Kars All Energy Trail Mix Unsalted 2 oz  8952",
+          null,
+          1,
+          0.3800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80035",
+          "Mrs. Freshley Pink Snowballs 4.5 oz.",
+          "4.5 oz.",
+          48,
+          0.5270
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80036",
+          "Cloverhill Blueberry Blasters  43100",
+          "4 oz.",
+          36,
+          0.5180
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80037",
+          "Corn Nuts - Ranch  00711590205200",
+          "1.4 oz.",
+          36,
+          0.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80038",
+          "Lance Whole Grain Crackers",
+          null,
+          36,
+          0.2400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80039",
+          "Lance Toast Chee PB Cracker 1.5oz 142024",
+          null,
+          40,
+          0.1700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80040",
+          "Lance Toasty Crackers 1 1/4 oz.  142066",
+          "1.25 oz.",
+          40,
+          0.1700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "80041",
+          "Next Thin Snack Product",
+          "2oz",
+          24,
+          0.3700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90000",
+          "Fruity Snacks - 2.5oz 757194",
+          "",
+          1,
+          0.2854
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "900000",
+          "broken",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "900001",
+          "Sales tax paid at purchase",
+          "",
+          1,
+          11.9600
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "900002",
+          "Empty",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "900003",
+          "Thin Snack",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "900004",
+          "Thin Snack - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "900005",
+          "Candy - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90001",
+          "Nutrigrain Cereal Bars 1.3oz Strawberry 690422",
+          "",
+          1,
+          0.2700
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90002",
+          "Nature Valley Oats 'N Honey Bar - 1.48oz 303166",
+          "",
+          1,
+          0.2660
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90004",
+          "Nature Valley Fruit & Nut Bar - 1.23oz 303782",
+          "",
+          1,
+          0.2660
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90005",
+          "Nature Valley SweetSalty Peanut 1.2oz 303120",
+          "1.2 oz",
+          1,
+          0.2660
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90006",
+          "Fiber One Bar - 1.4oz 709208",
+          "",
+          1,
+          0.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90008",
+          "Nature Valley Peanut Butter Bar 1.5oz  2384",
+          null,
+          1,
+          0.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90010",
+          "Special K Bar 0.81oz",
+          "",
+          1,
+          0.3300
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90025",
+          "Nature Valley Sweet & Salty Almond",
+          "1.2 oz",
+          30,
+          0.2830
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90026",
+          "Fig Newton 2 oz. 222616",
+          "2 oz",
+          24,
+          0.3400
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "90027",
+          "Appleways Apple 1.2oz 70120",
+          "1.2 oz",
+          72,
+          0.2800
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "901047",
+          "SF The Black Russian",
+          "8.6 oz.",
+          1,
+          3.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "901048",
+          "SF CAB Roast Beef & Rye",
+          "7.5 oz.",
+          1,
+          3.7500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910045",
+          "SF Turkey and Cheddar Hoagie",
+          "7.3 oz.",
+          1,
+          2.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910052",
+          "SF Ham and Cheddar Hoagie",
+          "7.3 oz.",
+          1,
+          2.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910113",
+          "SF Peanut Butter, Jelly and Granola",
+          "9.4 oz.",
+          1,
+          2.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910120",
+          "SF CAB Jalapeno Rio Roast Beef",
+          "9.4 oz.",
+          1,
+          3.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910137",
+          "SF Turkey and Cheddar Sandwich",
+          "8.6 oz.",
+          1,
+          2.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910144",
+          "SF Ham and Swiss Sandwich",
+          "7.5 oz.",
+          1,
+          2.2500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910151",
+          "SF Ham Wrap",
+          "8.9 oz.",
+          1,
+          2.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910168",
+          "SF Turkey Wrap",
+          "8.9 oz.",
+          1,
+          2.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910175",
+          "SF Tuna Salad on Wheat Berry",
+          "7.4 oz.",
+          1,
+          2.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910182",
+          "SF Original Chicken Salad on Texas Toast",
+          "7.4 oz.",
+          1,
+          2.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910212",
+          "SF Club Sandwich",
+          "7.1 oz.",
+          1,
+          2.3500
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910236",
+          "SF Pulled Pork on Jalapeno Cheese Bun",
+          "8.8 oz.",
+          1,
+          3.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910243",
+          "SF CAB Pastrami Hoagie",
+          "9 oz",
+          1,
+          3.4000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910281",
+          "SF Honey Pecan Chicken Salad JalapenoCornBread",
+          "8.2 oz.",
+          1,
+          2.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910298",
+          "SF Italian on Ciabatta",
+          "8.5 oz.",
+          1,
+          2.9000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910311",
+          "SF Chicken Salad on 9 Grain Bread",
+          "7.4 oz.",
+          1,
+          2.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910496",
+          "SF Chicken Monterey",
+          "7.4 oz.",
+          1,
+          3.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910533",
+          "SF Roast Beef Hoagie",
+          "6.4 oz.",
+          1,
+          2.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910557",
+          "SF All American Foot Long",
+          "9.02 oz.",
+          1,
+          2.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910595",
+          "SF Mixed Berry Salad",
+          "5.1 oz.",
+          1,
+          2.6000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910618",
+          "SF Spinach Salad with Bacon",
+          "8 oz.",
+          1,
+          3.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910625",
+          "SF Chicken Salad on Italian Wheat",
+          "4.4 oz.",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910632",
+          "SF Tuna Salad on Italian Wheat",
+          "4.3 oz.",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910649",
+          "SF Ham & AMerican on Italian Wheat",
+          "5.2 oz.",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910656",
+          "SF Turkey & American on Italian Wheat",
+          "5.2 oz.",
+          1,
+          1.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910687",
+          "SF Garden Salad",
+          "5 oz.",
+          1,
+          2.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910694",
+          "SF Chicken Caesar Salad",
+          "7.5 oz.",
+          1,
+          3.7000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910717",
+          "SF Chef Salad",
+          "7.5 oz.",
+          1,
+          3.5000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910724",
+          "SF Spinach Mozzarella Wrap",
+          "7.25 oz.",
+          1,
+          3.1000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910731",
+          "SF Rajin Cajun Sandwich",
+          "10 oz",
+          1,
+          2.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910755",
+          "SF Cubano Sandwich",
+          "10.01 oz.",
+          1,
+          2.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910762",
+          "SF Whole Wheat Club Wrap",
+          "9.4 oz.",
+          1,
+          3.1000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910779",
+          "SF Southwest Style Bacon, Lettuce, Tomato Wrap",
+          "7.4 oz.",
+          1,
+          3.1000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "910786",
+          "SF Cool Cucumber Hummus Wrap",
+          "8 oz.",
+          1,
+          2.8000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-1",
+          "Soft Drink - Can",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-10",
+          "Sports Drink",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-11",
+          "Water",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-12",
+          "Food",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-13",
+          "Energy Drink",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-14",
+          "5 Gallon Water",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-15",
+          "Juice and Milk",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-16",
+          "Cold Food",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-17",
+          "Fresh Food",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-18",
+          "Micro Market Food",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-19",
+          "Frozen Food",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-2",
+          "Soft Drink - Bottle 20 oz",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-20",
+          "Grocery Items",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-3",
+          "Candy",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-4",
+          "Chip",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-45",
+          "LSS Chip",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-46",
+          "Chip - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-47",
+          "LSS Chip - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-48",
+          "Candy - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-49",
+          "Pastry - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-5",
+          "Cookie",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-50",
+          "Thin Snack - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-51",
+          "Pastry - Long Term",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-52",
+          "Gum - Blister Pack",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-53",
+          "Soft Drink - Bottle 16.9 oz",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-54",
+          "Cookie - Fit Pick",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-55",
+          "Candy LSC",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-56",
+          "Thin Snack",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-6",
+          "Pastry - Short-Term",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-7",
+          "Gum-Mint",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-8",
+          "Salty Snack - Non-Chip",
+          "",
+          1,
+          0.0000
+        ]
+      },
+      {
+        "Items": [
+          null,
+          "V-9",
+          "Sweet Snack - Non-Candy",
+          "",
+          1,
+          0.0000
+        ]
+      }
+    ],
+    "Description": null
+  }
+]

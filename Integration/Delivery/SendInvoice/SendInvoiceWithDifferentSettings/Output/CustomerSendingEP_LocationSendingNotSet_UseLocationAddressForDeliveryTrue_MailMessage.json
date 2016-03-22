@@ -1,0 +1,32 @@
+{
+  "To": [
+    {
+      "DisplayName": "",
+      "User": "LocationTest",
+      "Host": "test.com",
+      "Address": "LocationTest@test.com"
+    }
+  ],
+  "From": {
+    "DisplayName": "Gulp-It!, Inc.",
+    "User": "donotreply",
+    "Host": "cantaloupesys.com",
+    "Address": "donotreply@cantaloupesys.com"
+  },
+  "CC": [],
+  "Bcc": [],
+  "Subject": "Invoice #1001 for 12/16/2013 delivery from Gulp-It!, Inc.",
+  "ReplyToList": [
+    {
+      "DisplayName": "Gulp-It!, Inc.",
+      "User": "deliveryemail",
+      "Host": "test.com",
+      "Address": "deliveryemail@test.com"
+    }
+  ],
+  "Priority": 0,
+  "Headers": [],
+  "DeliveryNotificationOptions": 0,
+  "IsBodyHtml": false,
+  "Body": "Thank you for ordering from Gulp-It!, Inc.. The invoice for your delivery for $109.11 on 12/16/2013 is attached.\r\n\r\nIf you have any questions about your order, please contact us by phone or reply to this email.\r\n\r\nThanks again for your business,\r\nGulp-It!, Inc.\r\n281-773-3564"
+}

@@ -1,0 +1,833 @@
+Id	BranchId	ItemCategoryId	ItemManufacturerId	ProductCode	ImportId	Name	Size	Count	UnitCost	PickOrder	AverageShelfLife	ItemCommissionCategoryId	ItemTaxCategoryId	ItemDepositCategoryId	ItemFinanceCategoryId	ItemCompanyKitchenCategoryId	IsIngredient	IngredientMeasure	PrepickTransferToWarehouseEnabled	Deleted	IsInvoiceOnly	
+=1	[NULL]	[NULL]	[NULL]	=00000	[NULL]	=Unknown Item	=1	=1	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=2	[NULL]	[NULL]	[NULL]	=000000	[NULL]	=Non-Existent Coil	=1	=1	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=247	[NULL]	=25	=82	=10000	=P-10000	=Coke 12oz can 1000	[NULL]	=24	=0.3600	=10000	=8 MONTHS	=1	=2	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=248	[NULL]	=25	=82	=10001	=P-10001	=Diet Coke 12oz can 1003	[NULL]	=24	=0.3600	=10001	=2 MONTHS	=1	=7	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=249	[NULL]	=25	=37	=10002	=P-10002	=Dr Pepper 12oz can	=	=24	=0.3000	=10002	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=250	[NULL]	=57	=82	=10003	=P-10003	=Sprite 12oz can 1009	[NULL]	=24	=0.3700	=10003	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=251	[NULL]	=25	=37	=10004	=P-10004	=Sunkist Orange Soda 12oz can	=	=24	=0.5000	=10004	=8 MONTHS	=1	=2	=3	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=252	[NULL]	=25	=37	=10005	=P-10005	=7 Up 12oz can 109712	[NULL]	=24	=0.2500	=10005	=8 MONTHS	=1	=7	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=253	[NULL]	=25	=37	=10006	=P-10006	=Diet Dr Pepper 12oz can	=11oz	=24	=0.2500	=223222	=2 MONTHS	=1	=2	=3	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=254	[NULL]	=25	=37	=10007	=P-10007	=Sunkist Grape 12oz can	=	=24	=0.2500	=10007	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=255	[NULL]	=25	=37	=10008	=P-10008	=Strawberry Soda Welchs 12oz can	[NULL]	=24	=0.3100	=10008	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=256	[NULL]	=25	=122	=10009	=P-10009	=Root Beer AW 12oz can	=	=24	=0.2200	=10009	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=257	[NULL]	=25	=37	=10010	=P-10010	=Country Time Lemonade 12oz can	[NULL]	=24	=0.3100	=10010	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=258	[NULL]	=57	=37	=10011	=P-10011	=Diet 7 Up 12 oz can  50019	[NULL]	=5	=0.1900	=10011	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=259	[NULL]	=25	=83	=10012	=P-10012	=Brisk Tea Lipton 12oz can 39213	[NULL]	=24	=0.3000	[NULL]	=4 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=260	[NULL]	=25	=83	=10013	=P-10013	=Mountain Dew 12oz can 781184	[NULL]	=24	=0.2800	=10013	=4 MONTHS	=18	=7	=3	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=261	[NULL]	=25	=83	=10014	=P-10014	=Pepsi 12oz can 78114	=	=10	=0.2800	=10014	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=262	[NULL]	=25	=83	=10015	=P-10015	=Hawaiian Punch 12oz can	[NULL]	=24	=0.2900	=10015	=4 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=263	[NULL]	=25	=83	=10016	=P-10016	=Diet Brisk Tea Lipton 12oz can	[NULL]	=12	=0.3000	=10016	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=264	[NULL]	=28	=82	=10017	=P-10017	=Coke Zero 12oz can 0376	=10oz	=24	=0.3600	[NULL]	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=265	[NULL]	=25	=83	=10018	=P-10018	=Diet Pepsi 12oz can	[NULL]	=24	=0.2400	=10018	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=266	[NULL]	=25	=37	=10019	=P-10019	=Diet Cherry 7 Up 12oz can	[NULL]	=24	=0.2400	=10019	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=267	[NULL]	=25	=122	=10020	=P-10020	=Diet Root Beer AW 12oz can  50547	[NULL]	=24	=0.3100	=10020	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=268	[NULL]	=58	=82	=10021	=P-10021	=Fresca 12oz can	=	=24	=0.3700	=10021	=2 MONTHS	=18	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=269	[NULL]	=58	=82	=10022	=P-10022	=Sprite Zero 12oz can 4807	[NULL]	=24	=0.3700	=10022	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=270	[NULL]	=25	=83	=10023	=P-10023	=Mountain Dew Code Red 12oz can	[NULL]	=24	=0.2300	=10023	=8 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=271	[NULL]	=25	=37	=10024	=P-10024	=Caffiene Free Diet Dr Pepper 12oz can	[NULL]	=24	=0.2300	=10024	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=272	[NULL]	=25	=122	=10025	=P-10025	=Diet Mountain Dew 12oz can  51302	[NULL]	=24	=0.3300	=10025	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=273	[NULL]	=39	=83	=150000	=P-150000	=Orange Juice - 10oz Tropicana 826860	=	=1	=0.5600	=150000	=5 MONTHS	=16	=5	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=274	[NULL]	=39	=83	=150001	=P-150001	=Apple Juice - 10oz Tropicana 826853	=	=1	=0.5400	=150001	=5 MONTHS	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=275	[NULL]	=39	=102	=150002	=P-150002	=V-8 Juice - 11.5oz 21879	=	=1	=0.4990	=150002	=1 YEAR	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=276	[NULL]	=39	=39	=150003	=P-150003	=Orange Juice Juice Bowl 11.5oz	[NULL]	=1	=0.6000	=150003	=8 MONTHS	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=277	[NULL]	=39	=39	=150004	=P-150004	=Apple Juice Juice Bowl 11.5oz	[NULL]	=1	=0.3600	=150004	=1 YEAR	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=278	[NULL]	=13	=10	=30000	=P-30000	=Almond Joy 1.61 oz	[NULL]	=1	=0.5500	=B30000	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=279	[NULL]	=13	=19	=30001	=P-30001	=Butterfinger - 2.1oz	[NULL]	=1	=0.5500	=B30001	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=280	[NULL]	=13	=10	=30002	=P-30002	=Hersheys Almond - 1.45oz 2439	=	=1	=0.5520	=B30002	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=281	[NULL]	=50	=84	=30003	=P-30003	=KARS Sweet and Salty - 2oz 66993	=	=1	=0.3067	=B30003	=8 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=282	[NULL]	=13	=16	=30004	=P-30004	=MM Peanut - 1.74oz 2531	=	=1	=0.5550	=B30004	=9 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=283	[NULL]	=13	=10	=30005	=P-30005	=Payday - 1.85oz 202687	=	=1	=0.5550	=B30005	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=284	[NULL]	=13	=10	=30006	=P-30006	=Reeses Peanut Butter Cups - 1.5oz 2444	=	=1	=0.5520	=B30006	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=285	[NULL]	=13	=16	=30007	=P-30007	=Skittles  2.17oz 15016	=	=1	=0.5522	=B30007	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=286	[NULL]	=13	=16	=30008	=P-30008	=Snickers  1.86 oz 749278	=	=1	=0.4925	=B30008	=8 MONTHS	=4	=3	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=287	[NULL]	=13	=16	=30009	=P-30009	=Starburst  2.07oz	[NULL]	=1	=0.4900	=B30009	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=288	[NULL]	=13	=16	=30010	=P-30010	=3 Musketeers  1.92oz 002527	=	=1	=0.5500	=B30010	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=289	[NULL]	=13	=16	=30011	=P-30011	=Twix  1.79oz 328189	=	=1	=0.5520	=B30011	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=290	[NULL]	=13	=16	=	[NULL]	=M&M Plain - 1.12oz	=CASE	=24	=0.4200	[NULL]	=8	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=True	=False	
+=291	[NULL]	=13	=16	=30012	=P-30012	=MM Plain  1.12oz Mars 2530	=	=1	=0.5550	=B30012	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=292	[NULL]	=13	=16	=30013	=P-30013	=Milky Way 1.84oz	=	=1	=0.5500	=B30013	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=293	[NULL]	=13	=16	=30014	=P-30014	=Starburst Tropical  2.07oz Mars	[NULL]	=1	=0.5000	=B30014	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=294	[NULL]	=13	=10	=30015	=P-30015	=Take  5  1.5oz	[NULL]	=1	=0.3300	=B30015	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=295	[NULL]	=13	=16	=30016	=P-30016	=Dove Bar  1.3oz Mars	[NULL]	=1	=0.5000	=B30016	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=296	[NULL]	=13	=19	=30017	=P-30017	=Nestle Crunch 1.55oz Mars 012113	=	=1	=0.5500	=B30017	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=297	[NULL]	=13	=10	=30018	=P-30018	=Skor 1.4oz Hershey	[NULL]	=1	=0.4000	=B30018	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=298	[NULL]	=13	=10	=30019	=P-30019	=Heath Bar 1.4oz Hersey	[NULL]	=1	=0.4600	=B30019	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=299	[NULL]	=13	=10	=30020	=P-30020	=Mr Goodbar 1.75oz 2440	=	=1	=0.5520	=B30020	=8 MONTHS	=4	=3	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=300	[NULL]	=13	=10	=30021	=P-30021	=Reeses Whipps 1.9 oz Hershey	[NULL]	=1	=0.5500	=B30021	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=301	[NULL]	=13	=10	=30022	=P-30022	=KitKat Extra Crispy 1.61 oz 933790	=	=1	=0.5520	=B30022	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=302	[NULL]	=11	=85	=30023	=P-30023	=Cracker Jack 1.25oz	[NULL]	=1	=0.2900	=B30023	=5 MONTHS	=6	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=303	[NULL]	=13	=19	=30024	=P-30024	=Butterfinger Crisp 1.76oz Nestle	[NULL]	=1	=0.4400	=B30024	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=304	[NULL]	=13	=19	=30025	=P-30025	=Nestle Crunch Crisp 1.74oz Nestle	[NULL]	=1	=0.4400	=B30025	=8 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=305	[NULL]	=27	=83	=100000	=P-100000	=Gatorade Fruit Punch 20oz bottle	[NULL]	=24	=0.6500	=100000	=6 MONTHS	=13	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=306	[NULL]	=27	=83	=100001	=P-100001	=Gatorade Green 20oz bottle	[NULL]	=24	=0.6500	=100001	=6 MONTHS	=13	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=307	[NULL]	=27	=83	=100002	=P-100002	=Gatorade Orange 20oz bottle	[NULL]	=24	=0.6500	=100002	=6 MONTHS	=13	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=308	[NULL]	=23	=85	=40000	=P-40000	=Cheetos 1oz	=	=1	=0.2300	=40000	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=309	[NULL]	=23	=85	=40001	=P-40001	=Cheetos Flamin Hot 1oz  32627	[NULL]	=1	=0.2300	=40001	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=310	[NULL]	=23	=12	=40002	=P-40002	=CheezIt 1.5oz 15989	[NULL]	=1	=0.2470	=40002	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=311	[NULL]	=23	=85	=40003	=P-40003	=Doritos Nacho Cheese 1oz  32629	[NULL]	=1	=0.2300	=40003	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=312	[NULL]	=23	=85	=40005	=P-40005	=Fritos 1oz	=	=1	=0.2300	=40005	=6 WEEKS	=8	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=313	[NULL]	=23	=85	=40006	=P-40006	=Fritos Chili Cheese 1oz	=	=1	=0.2200	=40006	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=314	[NULL]	=11	=85	=40007	=P-40007	=Product 40007	[NULL]	=1	=0.2500	=50034	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=315	[NULL]	=23	=40	=40008	[NULL]	=Goldfish - 1.5oz	=CASE	=75	=0.2500	=40008	=3 MONTHS	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=True	=False	
+=316	[NULL]	=23	=85	=40010	=P-40010	=Lays BBQ 1oz  32620	[NULL]	=1	=0.2300	=40010	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=317	[NULL]	=23	=14	=40011	=P-40011	=Popcorn White Cheddar Cheese 0.75oz  227	[NULL]	=1	=0.2600	=40011	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=318	[NULL]	=23	=41	=40012	=P-40012	=Pork Skins Macs Hot 1oz 710234	[NULL]	=1	=0.2400	=40012	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=319	[NULL]	=23	=85	=40013	=P-40013	=Ruffles Cheddar Sour Cream 1oz  11065	[NULL]	=1	=0.2900	=40013	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=320	[NULL]	=23	=85	=40014	=P-40014	=Ruffles 1oz	[NULL]	=1	=0.2400	=40014	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=321	[NULL]	=23	=85	=40015	=P-40015	=Sun Chips 1oz	=	=1	=0.3000	=40015	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=322	[NULL]	=23	=26	=40016	=P-40016	=TGI Fridays Cheddar & Bacon 1oz	=	=1	=0.2400	=40016	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=323	[NULL]	=35	=87	=40017	=P-40017	=Wheat Thins 1.75oz	[NULL]	=1	=0.3000	=40017	=2 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=324	[NULL]	=23	=88	=40018	=P-40018	=Zapps Jalapeno Potato Chips 1oz  6005	[NULL]	=1	=0.3000	=40018	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=325	[NULL]	=23	=89	=40019	=P-40019	=Andy Capps Hot Fries 0.85oz 334055	[NULL]	=1	=0.1900	=40019	=4 MONTHS	=8	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=326	[NULL]	=23	=85	=40020	=P-40020	=Doritos Cool Ranch 1oz	[NULL]	=1	=0.2200	=40020	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=327	[NULL]	=23	=85	=40021	=P-40021	=Funyuns 0.75oz	=	=1	=0.2900	=40021	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=328	[NULL]	=23	=85	=40022	=P-40022	=Lays Classic Potato Chip 1oz	[NULL]	=1	=0.2400	=40022	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=329	[NULL]	=43	=9	=40023	=P-40023	=LSS Chex Mix - 1.75oz 788870	=	=1	=0.2720	=40023	=3 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=330	[NULL]	=23	=26	=40024	=P-40024	=Bobs Jalepeno Chips - 1oz  10455	[NULL]	=1	=0.2500	=40024	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=331	[NULL]	=42	=90	=40025	=P-40025	=Pretzels - Snyders - 1.5oz 969030	[NULL]	=1	=0.2163	=40025	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=332	[NULL]	=23	=85	=40026	=P-40026	=FritoLay Chip Variety Pack 1oz	[NULL]	=1	=0.3000	=40026	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=333	[NULL]	=23	=85	=40027	=P-40027	=Ruffles BBQ - 1oz	[NULL]	=1	=0.2600	=40027	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=334	[NULL]	=23	=26	=40028	=P-40028	=Burger King Ketchup Fries	[NULL]	=1	=0.2100	=40028	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=335	[NULL]	=23	=88	=40029	=P-40029	=Zapps Cajun Crawtator - 1oz	[NULL]	=1	=0.2700	=40029	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=336	[NULL]	=23	=85	=40030	=P-40030	=Ruffles Ridged Potato Chip 1 oz. 32624	=1 oz	=1	=0.2200	=40030	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=337	[NULL]	=23	=9	=40031	=P-40031	=Bugles - Regular - 0.875 oz	=	=1	=0.2100	=40031	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=338	[NULL]	=35	=9	=40032	=P-40032	=Chex Mix Hot N Spicy 1.75oz	[NULL]	=1	=0.3800	=40032	=4 MONTHS	=9	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=339	[NULL]	=35	=9	=40033	=P-40033	=Chex Mix Jalapeno Cheddar 1.75oz	[NULL]	=1	=0.3600	=40033	=4 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=340	[NULL]	=23	=85	=40034	=P-40034	=Cheetos Jalapeno 1oz	[NULL]	=1	=0.2200	=40034	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=341	[NULL]	=35	=59	=45000	=P-45000	=LSS Salsita - 1.5oz  260250	[NULL]	=1	=0.3400	=45000	=3 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=342	[NULL]	=35	=85	=45001	=P-45001	=LSS Sun Chip Garden Salsa - 1.5oz	[NULL]	=1	=0.3600	=45001	=2 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=343	[NULL]	=43	=85	=45002	=P-45002	=LSS Baked Lays Regular 1.125oz  44396	[NULL]	=1	=0.4200	=45002	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=344	[NULL]	=35	=85	=45003	=P-45003	=LSS FritoLay Variety Pack	[NULL]	=1	=0.4000	=45003	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=345	[NULL]	=35	=85	=45004	=P-45004	=LSS Miss Vickies Variety	[NULL]	=1	=0.4000	=45004	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=346	[NULL]	=35	=85	=45005	=P-45005	=LSS Miss Vickies Jalepeno 1.375oz	[NULL]	=1	=0.4400	=45005	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=347	[NULL]	=35	=85	=45006	=P-45006	=LSS Lays Kettle Cooked Jalapeno 1.375oz  44429	[NULL]	=1	=0.4200	=45006	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=348	[NULL]	=29	=82	=130000	=P-130000	=Monster Energy Drink - 16oz  1656	[NULL]	=24	=1.2000	=130000	=6 MONTHS	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=349	[NULL]	=11	=44	=50000	=P-50000	=Danish Shortbread Cookies - 2oz	[NULL]	=1	=0.3300	=50000	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=350	[NULL]	=11	=12	=50001	=P-50001	=Famous Amos Cookies - 2oz 655861	=	=1	=0.2780	=50001	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=351	[NULL]	=11	=85	=50002	=P-50002	=Grandma Vanilla Mini Cookies - 2.12oz  45096	[NULL]	=1	=0.3200	=50002	=5 MONTHS	=6	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=352	[NULL]	=11	=85	=50003	=P-50003	=Grandma's Big Chocolate Chip Cookie - 2.5oz  45092	[NULL]	=60	=0.2960	=50003	=2 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=353	[NULL]	=11	=44	=50004	=P-50004	=Knott's Jam Shortbread Cookie - 2oz 694603	=	=1	=0.2600	=50004	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=354	[NULL]	=50	=87	=50005	=P-50005	=Lorna Doone Cookies - 1.5oz	=	=1	=0.2900	=90009	=6 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=355	[NULL]	=11	=87	=50006	=P-50006	=Nutter Butter Bites - 1.75oz	[NULL]	=1	=0.4100	=50006	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=356	[NULL]	=50	=87	=50007	=P-50007	=Oreos - 2oz 162828	=	=1	=0.3187	=50007	=6 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=357	[NULL]	=42	=12	=50008	=P-50008	=Zoo Animal Crackers - 2 oz 738199	[NULL]	=1	=0.2200	=40055	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=358	[NULL]	=11	=12	=50009	=P-50009	=Fudge Stripes - 2oz	=	=1	=0.2500	=50009	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=359	[NULL]	=11	=16	=50010	=P-50010	=MM Cookie - 1.8oz 151694	=	=1	=0.3100	=50010	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=360	[NULL]	=50	=18	=50011	=P-50011	=Fig Newton - 2.1oz	[NULL]	=1	=0.3800	=50011	=3 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=361	[NULL]	=11	=44	=50012	=P-50012	=Basil Pecan Shortbread - 2oz	[NULL]	=1	=0.3500	=50012	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=362	[NULL]	=11	=44	=50013	=P-50013	=Vanilla Sandwich Creme Cookie 5oz	[NULL]	=1	=0.4200	=50013	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=363	[NULL]	=15	=87	=120000	=P-120000	=EasyMac Original - 2.05oz	[NULL]	=1	=0.6200	=120000	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=364	[NULL]	=15	=45	=120001	=P-120001	=Chicken Salad Premixed - 3.5oz  70350	[NULL]	=1	=1.5800	=120001	=1 YEAR	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=365	[NULL]	=15	=45	=120002	=P-120002	=Tuna Kit w/ Crackers - 4oz  70780	[NULL]	=1	=1.5800	=120002	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=366	[NULL]	=15	=89	=120003	=P-120003	=Ravioli Chef BoyRD - 7.5oz	=	=1	=1.0900	=120003	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=367	[NULL]	=15	=46	=120004	=P-120004	=Chili - No Bean - 7.5oz	=	=1	=1.0600	=120004	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=368	[NULL]	=15	=46	=120005	=P-120005	=DintyMoore Beef Stew	[NULL]	=1	=0.9400	=120005	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=369	[NULL]	=15	=45	=120006	=P-120006	=Tuna Salad Original Recipe - 3.5oz	[NULL]	=1	=1.2600	=120006	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=370	[NULL]	=15	=89	=120007	=P-120007	=Chef Boyrd Lasagna - 7.5oz	[NULL]	=1	=1.0100	=120007	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=371	[NULL]	=15	=46	=120008	=P-120008	=Chicken Noodle Soup - 7.5oz	[NULL]	=1	=0.8700	=120008	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=372	[NULL]	=15	=46	=120009	=P-120009	=Compleats Beef Stew 10oz	[NULL]	=1	=1.9100	=120009	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=373	[NULL]	=15	=46	=120010	=P-120010	=Compleats Chicken Alfredo 10oz	=	=1	=2.0100	=120010	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=374	[NULL]	=15	=46	=120011	=P-120011	=Compleats Turkey Veg 10oz	[NULL]	=1	=1.9100	=120011	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=375	[NULL]	=36	=23	=70000	=P-70000	=Wrigley Spearmint Gum  23001	[NULL]	=1	=0.3100	=70000	=8 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=376	[NULL]	=36	=23	=70001	=P-70001	=Wrigley Doublemint Gum  23003	[NULL]	=1	=0.3100	=70001	=8 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=377	[NULL]	=36	=23	=70002	=P-70002	=Wrigley Winterfresh Gum  23007	[NULL]	=1	=0.3100	=70002	=8 MONTHS	=11	=3	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=378	[NULL]	=36	=10	=70003	=P-70003	=BreathSaver Wintergreen Mint	[NULL]	=1	=0.4400	=70003	=8 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=379	[NULL]	=36	=10	=70004	=P-70004	=Breathsaver Peppermint	[NULL]	=1	=0.4400	=70004	=8 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=380	[NULL]	=36	=23	=70005	=P-70005	=Big Red Gum 23009	[NULL]	=1	=0.3100	=70005	=8 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=381	[NULL]	=36	=23	=70006	=P-70006	=Juicy Fruit Gum	=	=1	=0.3100	=70006	=8 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=382	[NULL]	=45	=47	=60000	=P-60000	=Chocolate Cupcake - Mrs. Freshley - 4oz  48060550	[NULL]	=1	=0.5000	=60000	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=383	[NULL]	=45	=92	=60001	=P-60001	=Big Texas Cinnamon Rolls - 4oz  79900	[NULL]	=1	=0.4500	=60001	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=384	[NULL]	=45	=92	=60002	=P-60002	=Cheese Danish - 4oz  79933	[NULL]	=1	=0.4600	=60002	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=385	[NULL]	=46	=12	=60003	=P-60003	=Pop-Tarts - 3.6oz 856858	=	=1	=0.3820	=60003	=3 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=386	[NULL]	=45	=51	=60004	=P-60004	=Sugar Donuts 3oz	[NULL]	=1	=0.4500	=60004	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=387	[NULL]	=47	=12	=60005	=P-60005	=Sugar Wafers - 2.75oz 767326	=	=1	=0.3620	=60005	=3 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=388	[NULL]	=45	=48	=60006	=P-60006	=Zingers Chocolate - 3.81oz	[NULL]	=1	=0.4300	=60006	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=389	[NULL]	=46	=12	=60007	=P-60007	=Rice Krispies Treats - 2.13oz  52402	[NULL]	=1	=0.5300	=60007	=2 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=390	[NULL]	=47	=93	=60008	=P-60008	=Nutty Bar	[NULL]	=1	=0.3000	=60008	=1 MONTH	=10	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=391	[NULL]	=45	=92	=60009	=P-60009	=Glazed Cake Donuts	[NULL]	=1	=0.4000	=60009	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=392	[NULL]	=45	=49	=60010	=P-60010	=Danish	[NULL]	=1	=0.4000	=60010	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=393	[NULL]	=45	=51	=60011	=P-60011	=Honey Bun Duchess - 3oz	[NULL]	=1	=0.2300	=60011	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=394	[NULL]	=47	=50	=60012	=P-60012	=Moon Pie	[NULL]	=1	=0.2800	=60012	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=395	[NULL]	=45	=47	=60013	=P-60013	=Jumbo Honeybun - Mrs. Freshley's 5oz  48060540	[NULL]	=1	=0.3900	=60013	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=396	[NULL]	=45	=92	=60014	=P-60014	=Iced Jumbo Honey Bun - 4.75oz	[NULL]	=1	=0.4000	=60014	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=397	[NULL]	=45	=92	=60015	=P-60015	=Cherry Cheese Danish - 4.25oz 79922	[NULL]	=1	=0.4500	=60015	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=398	[NULL]	=47	=47	=60016	=P-60016	=Brownie Mrs. Freshley Fudge Nut - 3.25oz	[NULL]	=1	=0.4400	=60016	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=399	[NULL]	=45	=52	=60018	=P-60018	=NS Vanilla Wafer 2.2oz	[NULL]	=1	=0.3000	=60018	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=400	[NULL]	=45	=47	=60017	=P-60017	=Carrot Cake Mrs Freshley - 3.5oz  48033340	[NULL]	=1	=0.5100	=60017	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=401	[NULL]	=45	=48	=60019	=P-60019	=Coconut Donut Gems	[NULL]	=1	=0.5100	=60019	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=402	[NULL]	=45	=48	=60020	=P-60020	=Crumb Cake 3.25oz 410934	=	=1	=0.4990	=60020	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=403	[NULL]	=50	=12	=80000	=P-80000	=Cream Cheese & Chive Cracker - 1.3oz	[NULL]	=1	=0.1800	=80000	=4 MONTHS	=5	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=404	[NULL]	=50	=12	=80001	=P-80001	=Toasty Crackers w/Peanut Butter - 1.38oz 783144	[NULL]	=1	=0.1310	=80001	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=405	[NULL]	=50	=12	=80002	=P-80002	=Cheese Crackers w/Cheddar Cheese -1.38oz	=	=1	=0.1200	=80002	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=406	[NULL]	=11	=87	=80003	=P-80003	=Ritz Bits - 1.5oz	[NULL]	=1	=0.3300	=80003	=2 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=407	[NULL]	=47	=89	=80004	=P-80004	=Act II Butterlovers Popcorn - 3 oz 567374	=	=1	=0.2600	=60038	=6 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=408	[NULL]	=37	=87	=80005	=P-80005	=Dunk'ems - 0.95oz	[NULL]	=1	=0.2500	=80005	=2 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=409	[NULL]	=51	=87	=80006	=P-80006	=Peanuts Planters - 1oz 316799	=	=1	=0.1800	=80006	=6 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=410	[NULL]	=50	=53	=80007	=P-80007	=Trails Double Salami - 1.13oz	[NULL]	=1	=0.4200	=80007	=5 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=411	[NULL]	=46	=89	=80008	=P-80008	=Sunflower Seed - David - 1.625oz	[NULL]	=1	=0.3200	=60039	=3 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=412	[NULL]	=50	=12	=80009	=P-80009	=Austin Peanut Butter Cheese Cracker 1.38 782745	[NULL]	=1	=0.1300	=80009	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=413	[NULL]	=37	=87	=80010	=P-80010	=Planters Nuts Variety - 2oz	[NULL]	=1	=0.5000	=80010	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=414	[NULL]	=50	=54	=80011	=P-80011	=Double Barrel Salami Sticks - 1.125oz  5303	[NULL]	=1	=0.4200	=80011	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=415	[NULL]	=13	=87	=80012	=P-80012	=Corn Nuts - Chili Picante - 1.4oz	=	=1	=0.4100	=80012	=4 MONTHS	=4	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=416	[NULL]	=55	=84	=80013	=P-80013	=Kars Cashews - 1oz	[NULL]	=1	=0.3800	=80013	=4 MONTHS	=12	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=417	[NULL]	=50	=84	=80014	=P-80014	=KARS Sunflower Kernels - 2oz	=2oz	=24	=0.3700	=80014	=180 days	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=418	[NULL]	=55	=84	=80015	=P-80015	=Kars Salty Peanut - 2oz	[NULL]	=1	=0.2900	=80015	=4 MONTHS	=12	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=419	[NULL]	=50	=54	=80016	=P-80016	=Beef and Cheddar Sticks O'Brien 1.125oz	[NULL]	=1	=0.4000	=80016	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=420	[NULL]	=55	=95	=80017	=P-80017	=Pistachios 1.5oz	=	=1	=0.6200	=80017	=4 MONTHS	=12	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=421	[NULL]	=11	=12	=90000	=P-90000	=Fruity Snacks - 2.5oz 757194	=	=1	=0.2854	=90000	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=422	[NULL]	=51	=12	=90001	=P-90001	=Nutrigrain Cereal Bars 1.3oz Strawberry 690422	=	=1	=0.2700	=90001	=3 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=423	[NULL]	=51	=9	=90002	=P-90002	=Nature Valley Oats 'N Honey Bar - 1.48oz 303166	=	=1	=0.2660	=90002	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=424	[NULL]	=38	=9	=90003	=P-90003	=Nature Valley - Variety Bars - 1.48oz	[NULL]	=1	=0.3000	=90003	=4 MONTHS	=4	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=425	[NULL]	=50	=9	=90004	=P-90004	=Nature Valley Fruit & Nut Bar - 1.23oz 303782	=	=1	=0.2660	=90004	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=426	[NULL]	=50	=9	=90005	=P-90005	=Nature Valley SweetSalty Peanut 1.2oz 303120	=1.2 oz	=1	=0.2660	=90005	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=427	[NULL]	=55	=9	=90006	=P-90006	=Fiber One Bar - 1.4oz 709208	=	=1	=0.3500	=B30055	=4 MONTHS	=12	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=428	[NULL]	=50	=18	=90007	=P-90007	=Chex Bar	[NULL]	=1	=0.3300	=90007	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=429	[NULL]	=28	=83	=110000	=P-110000	=Water Aquafina 16.9oz bottle	[NULL]	=24	=0.1500	=110000	=1 YEAR	=14	=1	=1	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=430	[NULL]	=28	=19	=110001	=P-110001	=Water Ozarka 16oz vend bottle  11476146	[NULL]	=24	=0.2200	=110001	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=431	[NULL]	=28	=57	=110002	=P-110002	=Water Spicewood 12 oz can	[NULL]	=1	=0.1800	=110002	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=432	[NULL]	=29	=58	=130001	=P-130001	=Red Bull - 8oz 637127	=	=1	=1.4100	=130001	=1 YEAR	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=433	[NULL]	=45	=47	=60021	=P-60021	=Apple Fruit Pie - Mrs. Freshley	[NULL]	=1	=0.4600	=60021	=1 MONTH	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=434	[NULL]	=50	=14	=80018	=P-80018	=Lance Toasty Cracker-Peanut Butter 1.25o	[NULL]	=1	=0.1300	=80018	=5 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=435	[NULL]	=11	=44	=50014	=P-50014	=Duplex Sandwich Cremes 5oz  52051	[NULL]	=1	=0.4700	=60036	=5 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=436	[NULL]	=23	=41	=40035	=P-40035	=Salsa Limon Pork Skins Macs - 1oz	[NULL]	=1	=0.2400	=40035	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=437	[NULL]	=11	=12	=50015	=P-50015	=Pecan Sandies Keebler 1.75oz  13318	[NULL]	=1	=0.3800	=50015	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=438	[NULL]	=43	=85	=45007	=P-45007	=LSS Baked Variety Pack	=	=1	=0.0000	=45007	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=439	[NULL]	=29	=58	=130002	=P-130002	=Red Bull Sugarfree 8oz 836585	=	=24	=1.3700	=130002	=4 MONTHS	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=440	[NULL]	=35	=59	=45008	=P-45008	=LSS Jalapenitos 1.5oz	[NULL]	=1	=0.3100	=45008	=3 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=441	[NULL]	=44	=84	=80019	=P-80019	=KARS Trail Mix 2oz  8950	[NULL]	=1	=0.3800	=80019	=3 MONTS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=442	[NULL]	=23	=90	=40036	=P-40036	=Snyders Jalepeno 1oz	[NULL]	=1	=0.2400	=40036	=6 WEEKS	=8	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=443	[NULL]	=25	=83	=10026	=P-10026	=Manzanita Sol 12oz can	[NULL]	=24	=0.2900	=10026	=3 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=444	[NULL]	=40	=82	=20000	=P-20000	=Coke 16.9oz bottle 795561	=	=24	=0.5733	=20000	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=445	[NULL]	=40	=82	=20001	=P-20001	=Diet Coke 16.9oz bottle 259813	=	=24	=0.5560	=20001	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=446	[NULL]	=40	=37	=20002	=P-20002	=Dr Pepper 16.9oz bottle	=	=24	=0.5000	=20002	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=447	[NULL]	=40	=37	=20003	=P-20003	=Diet Dr Pepper 16.9oz bottle 349356	[NULL]	=24	=0.5300	=20003	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=448	[NULL]	=40	=83	=20004	=P-20004	=Diet Green Tea StwbKiwi 16.9oz bottle	[NULL]	=28	=0.3800	=20004	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=449	[NULL]	=29	=60	=130003	=P-130003	=Starbucks Vanilla Doubleshot 15oz	[NULL]	=1	=1.4700	=130003	=6 MONTHS	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=450	[NULL]	=28	=19	=110003	=P-110003	=Water Ozarka 16.9oz bottle	[NULL]	=1	=0.1200	=110003	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=451	[NULL]	=23	=90	=40037	=P-40037	=Snyders Kosher Dill 1oz  21851	[NULL]	=1	=0.2700	=40037	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=452	[NULL]	=29	=82	=130004	=P-130004	=Monster LoCarb 16oz  1660	[NULL]	=24	=1.2400	=130004	=3 MONTS	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=453	[NULL]	=40	=83	=20005	=P-20005	=Green Tea Lipton 16.9oz bottle	=	=24	=0.3700	=20005	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=454	[NULL]	=40	=83	=20006	=P-20006	=Mountain Dew 16.9oz bottle	=	=24	=0.5100	=20006	=3 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=455	[NULL]	=23	=85	=40038	=P-40038	=Lays Sour Cream Onion 1oz  11054	[NULL]	=1	=0.2900	=40038	=2 MONTHS	=8	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=456	[NULL]	=23	=9	=40039	=P-40039	=Bugles Nacho 0.875oz  6146	[NULL]	=1	=0.2800	=40039	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=457	[NULL]	=45	=18	=60022	=P-60022	=Oreo Cakesters Golden 2.65oz	[NULL]	=1	=0.4800	=60022	=2 MONTHS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=458	[NULL]	=28	=82	=110004	=P-110004	=Water Dasani 20oz bottle 5063	[NULL]	=24	=0.4400	=110004	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=459	[NULL]	=23	=85	=40040	=P-40040	=Cheetos Jumbo Puffs 0.875oz  11094	[NULL]	=1	=0.2900	=40040	=2 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=460	[NULL]	=11	=18	=50016	=P-50016	=Chips Ahoy Bite Size 2oz	[NULL]	=1	=0.3100	=50016	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=461	[NULL]	=11	=40	=50017	=P-50017	=Milano Cookies 1.5oz	[NULL]	=1	=0.5000	=50017	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=462	[NULL]	=28	=83	=110005	=P-110005	=Water Aquafina 20oz bottle	[NULL]	=24	=0.5300	=110005	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=463	[NULL]	=45	=48	=60023	=P-60023	=Chocolate Donut Gems	[NULL]	=12	=0.3600	=60023	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=464	[NULL]	=43	=85	=45009	=P-45009	=LSS Baked Cheetos	[NULL]	=1	=0.3600	=45009	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=465	[NULL]	=43	=85	=45010	=P-45010	=LSS Baked Ruffles CSC	[NULL]	=1	=0.3600	=45010	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=466	[NULL]	=43	=85	=45011	=P-45011	=LSS Baked Doritos	[NULL]	=1	=0.3700	=45011	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=467	[NULL]	=43	=85	=45012	=P-45012	=LSS Rold Gold Pretzels TT 2oz  44391	[NULL]	=1	=0.4200	=45012	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=468	[NULL]	=35	=85	=45013	=P-45013	=LSS Sun Chip Original	[NULL]	=1	=0.3600	=45013	=6 WEEKS	=9	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=469	[NULL]	=35	=85	=45014	=P-45014	=LSS Sun Chip Harvest Cheddar	[NULL]	=1	=0.3700	=45014	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=470	[NULL]	=35	=85	=45015	=P-45015	=LSS Sun Chip French Onion	[NULL]	=1	=0.3600	=45015	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=471	[NULL]	=35	=85	=45017	=P-45017	=LSS Miss Vickies BBQ	[NULL]	=1	=0.3700	=45017	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=472	[NULL]	=35	=85	=45016	=P-45016	=LSS Miss Vickies Sea Salt	[NULL]	=1	=0.3600	=45016	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=473	[NULL]	=45	=0	=60024	=P-60024	=Muffins Uncle Walley	[NULL]	=1	=0.2300	=60024	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=474	[NULL]	=39	=25	=150005	=P-150005	=Cranberry Ocean Spray 15.2oz 60662	=	=1	=0.7900	=150005	=4 MONTHS	=16	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=475	[NULL]	=40	=83	=20007	=P-20007	=Pepsi 16.9oz bottle	[NULL]	=24	=0.5000	=20007	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=476	[NULL]	=40	=82	=20008	=P-20008	=Sprite 16.9oz bottle	=	=24	=0.5700	=20008	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=477	[NULL]	=25	=37	=10027	=P-10027	=Big Red Soda 12oz can 726763	=	=24	=0.2500	=10027	=6 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=478	[NULL]	=15	=62	=120012	=P-120012	=Ramen Noodle Chicken	[NULL]	=1	=0.1600	=120012	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=479	[NULL]	=35	=88	=45018	=P-45018	=LSS Zapp Jalapeno 1.5oz	[NULL]	=1	=0.3900	=45018	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=480	[NULL]	=35	=85	=45019	=P-45019	=LSS Dorito Nacho Cheese 1.75oz  44375	[NULL]	=1	=0.4200	=45019	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=481	[NULL]	=35	=85	=45020	=P-45020	=LSS Lays Regular Chip 1.5oz  44359	[NULL]	=1	=0.4200	=45020	=6 WEEKS	=9	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=482	[NULL]	=42	=85	=40041	=P-40041	=Baked Dorito Nacho Cheese 0.75oz	[NULL]	=1	=0.2700	=40041	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=483	[NULL]	=34	=67	=160000	=P-160000	=Owens SausageEggCheese Taco 4.4oz	[NULL]	=1	=1.1100	=160000	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=484	[NULL]	=34	=70	=160001	=P-160001	=JimmyDean SausageCheese Bagel 3.8oz	[NULL]	=1	=1.2100	=160001	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=485	[NULL]	=34	=69	=160002	=P-160002	=Landshire 3Decker HamCheese Wedge 6oz	[NULL]	=1	=1.9400	=160002	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=486	[NULL]	=34	=68	=160003	=P-160003	=Tonys 4x6 Pepporoni 4.56oz	=	=1	=0.9500	=160003	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=487	[NULL]	=34	=66	=160004	=P-160004	=FastChoice TripDoub Cheese Burger 7.25o	[NULL]	=1	=1.6600	=160004	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=488	[NULL]	=34	=71	=160005	=P-160005	=EASween Deli Mini Sub 4oz	[NULL]	=1	=1.2400	=160005	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=489	[NULL]	=34	=66	=160006	=P-160006	=Big AZ Twin Chili Cheese Dogs 8.5oz	[NULL]	=1	=1.6900	=160006	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=490	[NULL]	=34	=54	=16007	[NULL]	=	=1	=1	=1.0200	[NULL]	=2 WEEKS	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=True	=False	
+=491	[NULL]	=34	=65	=160008	=P-160008	=Jose Ole Chicken Burrito 5oz	[NULL]	=1	=0.5800	=160008	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=492	[NULL]	=34	=66	=160009	=P-160009	=Pierre Double Pork Chop Sandwich 8.4oz	[NULL]	=1	=1.7300	=160009	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=493	[NULL]	=34	=19	=160010	=P-160010	=Hot Pocket Meatball Mozzarela 4oz	[NULL]	=1	=0.7100	=160010	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=494	[NULL]	=34	=70	=160011	=P-160011	=JimmyDean Sausage Biscuit Twin 3.4oz	=	=1	=0.8900	=160011	=2 WEEKS	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=495	[NULL]	=34	=72	=160007	=P-160007	=White Castle Twin Hamburger 3.16oz	[NULL]	=1	=1.0200	=160007	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=496	[NULL]	=44	=75	=80020	=P-80020	=Mr Nature Unsalted Energizer Mix 1.75 oz	[NULL]	=1	=0.3800	=50030	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=497	[NULL]	=13	=73	=30026	=P-30026	=Festy Jet Rolled Wafer Vanilla	[NULL]	=1	=0.4000	=B30026	=6 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=498	[NULL]	=35	=85	=45021	=P-45021	=LSS Fritos 2oz  44355	[NULL]	=1	=0.4200	=45021	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=499	[NULL]	=35	=91	=45042	=P-45042	=LSS Chicharinas 1oz	[NULL]	=1	=0.3400	=45042	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=500	[NULL]	=34	=66	=160012	=P-160012	=Pierre Philly Cheesesteak 6.2oz	[NULL]	=1	=1.6700	=160012	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=501	[NULL]	=34	=66	=160013	=P-160013	=BigAz Country Fried Chicken Snwch 9.2oz	[NULL]	=1	=1.8600	=160013	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=502	[NULL]	=13	=0	=30027	=P-30027	=Power Bar Performance Energy 2.29oz	[NULL]	=1	=0.6600	=B30027	=6 MONTHS	=4	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=503	[NULL]	=45	=64	=60025	=P-60025	=Otis Spunkmeyer Muffin 4oz 737470	[NULL]	=1	=0.4700	=60025	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=504	[NULL]	=35	=85	=45022	=P-45022	=LSS Lays BBQ 1.5oz	[NULL]	=1	=0.4200	=45022	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=505	[NULL]	=34	=66	=160014	=P-160014	=Big AZ Cheeseburger 9.65oz	[NULL]	=1	=1.7900	=160014	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=506	[NULL]	=34	=19	=160015	=P-160015	=Hot Pocket Philly Steak & Cheese 4oz	[NULL]	=1	=0.7500	=160015	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=507	[NULL]	=34	=65	=160016	=P-160016	=Jose Ole Chicken Chimi 5oz 537781	=	=1	=0.6900	=160016	=2 WEEKS	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=508	[NULL]	=34	=19	=160017	=P-160017	=Hot Pockets Cheeseburger 4oz	[NULL]	=1	=0.7500	=160017	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=509	[NULL]	=34	=70	=160018	=P-160018	=JimmyDean French Toast Saus Sandw 3.65oz	[NULL]	=1	=1.2000	=160018	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=510	[NULL]	=34	=66	=160019	=P-160019	=Pierre Mini SausEggCheese Sandw 6.3oz	[NULL]	=1	=1.1600	=160019	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=511	[NULL]	=34	=19	=160020	=P-160020	=Hot Pocket Pepperoni Pizza 4oz MM	[NULL]	=1	=0.9000	=160020	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=512	[NULL]	=34	=68	=160021	=P-160021	=Tonys Sausage Pizza 5inch 6.33oz	=	=1	=1.2100	=160021	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=513	[NULL]	=34	=66	=160022	=P-160022	=Big Az Country Fried Chicken Sandw 9.65o	[NULL]	=1	=1.8600	=160022	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=514	[NULL]	=34	=65	=160023	=P-160023	=Jose Ole Beef Red Hot Burrito half lb 8o	[NULL]	=1	=0.8400	=160023	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=515	[NULL]	=34	=65	=160024	=P-160024	=Jose Ole Red Hot Beef Burrito 5oz	[NULL]	=1	=0.5800	=160024	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=516	[NULL]	=34	=71	=160025	=P-160025	=Deli Express Triple Stacker 4.7oz	[NULL]	=1	=1.6900	=160025	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=517	[NULL]	=43	=85	=45023	=P-45023	=LSS Baked Lays BBQ 1.125oz	[NULL]	=1	=0.3800	=45023	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=518	[NULL]	=11	=73	=50018	=P-50018	=Festy Strawberry Cookies	[NULL]	=1	=0.3000	=50018	=3 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=519	[NULL]	=35	=85	=45024	=P-45024	=LSS Lays Kettle Cracked Pepper 1.375oz	[NULL]	=1	=0.3900	=45024	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=520	[NULL]	=40	=83	=20009	=P-20009	=Diet Green Tea Lipton 16.9oz  bottle	[NULL]	=24	=0.4200	=20009	=6 WEEKS	=3	=2	=1	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=521	[NULL]	=34	=66	=160026	=P-160026	=Big AZ Poor Boy 7.3oz	[NULL]	=1	=1.5100	=160026	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=522	[NULL]	=34	=71	=160027	=P-160027	=Deli Express Ham Cheese Bun 4.4oz	[NULL]	=1	=1.2400	=160027	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=523	[NULL]	=34	=65	=160028	=P-160028	=Jose Ole Steak and Cheese Chimi 5oz  852417	[NULL]	=1	=0.6700	=160028	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=524	[NULL]	=34	=71	=160029	=P-160029	=Deli Express Barbeque Deluxe 5oz	=	=1	=1.4000	=160029	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=525	[NULL]	=44	=75	=80021	=P-80021	=Mr Nature Trail Mix 1.75 oz	=	=1	=0.3800	=50031	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=526	[NULL]	=23	=26	=40043	=P-40043	=TGI Friday Buffalo Sticks 0.75oz	[NULL]	=1	=0.2700	=40043	=3 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=527	[NULL]	=35	=85	=45025	=P-45025	=LSS Cheetos 2oz  44366	[NULL]	=1	=0.4200	=45025	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=528	[NULL]	=35	=85	=45026	=P-45026	=LSS Fritos Chili Cheese 2oz  44354	[NULL]	=1	=0.4200	=45026	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=529	[NULL]	=43	=85	=45027	=P-45027	=LSS Baked Lays Sour Cream Onion 1.125	[NULL]	=1	=0.3700	=45027	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=530	[NULL]	=34	=71	=160030	=P-160030	=Deli Express Chicken Swiss 4.5oz	=	=1	=1.7000	=160030	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=531	[NULL]	=34	=65	=160031	=P-160031	=JoseOle Shredded Beef Chimi 7oz	[NULL]	=1	=1.1300	=160031	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=532	[NULL]	=34	=70	=160032	=P-160032	=Jimmy Dean SausageEggCheese Muffin 5oz	[NULL]	=1	=1.3900	=160032	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=533	[NULL]	=23	=85	=40044	=P-40044	=Swap out Product	[NULL]	=1	=0.3000	=40044	=1 MONTH	=8	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=534	[NULL]	=35	=85	=45028	=P-45028	=Swap out Fit-Pick	[NULL]	=1	=0.4000	=45028	=1 MONTH	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=535	[NULL]	=11	=44	=50019	=P-50019	=Brownie Crisp Basil 3oz	[NULL]	=1	=0.4500	=50019	=3 MONTS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=536	[NULL]	=15	=46	=120013	=P-120013	=Compleats Meatloaf 10oz	[NULL]	=1	=1.9100	=120013	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=537	[NULL]	=35	=85	=45029	=P-45029	=LSS Lays Sour Cream Onion 1.5oz	[NULL]	=1	=0.3900	=45029	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=538	[NULL]	=35	=85	=45030	=P-45030	=LSS Sun Chip Spicy Chipotle 1.5oz	[NULL]	=1	=0.3700	=45030	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=539	[NULL]	=23	=85	=40045	=P-40045	=Cheetos Fantastix Chili Cheese 1oz	[NULL]	=1	=0.2400	=40045	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=540	[NULL]	=34	=71	=160033	=P-160033	=Deli Express Chicken Nuggets 3.7oz	[NULL]	=1	=1.3000	=160033	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=541	[NULL]	=34	=66	=160034	=P-160034	=Pierre Jumbo Bacon Cheeseburger 6oz	[NULL]	=1	=1.6700	=160034	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=542	[NULL]	=34	=66	=160035	=P-160035	=FC Breaded Chicken Breast w Chse 5.3oz	[NULL]	=1	=1.1800	=160035	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=543	[NULL]	=35	=85	=45032	=P-45032	=LSS Cheetos Jalapeno 2oz  44367	[NULL]	=1	=0.4200	=45032	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=544	[NULL]	=35	=85	=45031	=P-45031	=LSS Ruffles CheddarSourCream 1.5oz	=	=1	=0.4100	=45031	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=545	[NULL]	=11	=0	=50020	=P-50020	=SunMaid Oatmeal Raisin Cookie 3oz	[NULL]	=1	=0.4100	=50020	=2 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=546	[NULL]	=45	=92	=60026	=P-60026	=Bear Claw Double Chocolate 4.25oz	[NULL]	=1	=0.4600	=60026	=3 WEEKS	=10	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=547	[NULL]	=45	=48	=60027	=P-60027	=Zingers Vanilla 3.81oz	[NULL]	=1	=0.5100	=60027	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=548	[NULL]	=45	=92	=60028	=P-60028	=Absolute Espresso Danish 4oz	[NULL]	=1	=0.4600	=60028	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=549	[NULL]	=15	=99	=120014	=P-120014	=Oatmeal Cup Brown Sugar 1.9oz	[NULL]	=1	=0.9000	=120014	=6 MONTHS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=550	[NULL]	=13	=86	=30028	=P-30028	=Boston Baked Beans 2.2oz	[NULL]	=1	=0.4600	=B30028	=6 MONST	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=551	[NULL]	=23	=90	=40046	=P-40046	=Krunchers Jalapeno 1oz	[NULL]	=1	=0.2600	=40046	=3 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=552	[NULL]	=45	=48	=60029	=P-60029	=Dunkin Stix 4oz	[NULL]	=1	=0.5100	=60029	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=553	[NULL]	=35	=87	=45033	=P-45033	=LSS Wheat Thins 1.75oz	[NULL]	=1	=0.3800	=45033	=3 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=554	[NULL]	=44	=75	=80022	=P-80022	=Mr Nature Mix n Yogurt 2oz	[NULL]	=1	=0.3400	=80022	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=555	[NULL]	=34	=66	=160036	=P-160036	=Pierre Beefsteak 5.55oz	[NULL]	=1	=1.6900	=160036	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=556	[NULL]	=34	=68	=160037	=P-160037	=Red Baron 5in Pizza 6oz	[NULL]	=1	=1.4600	=160037	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=557	[NULL]	=45	=48	=60030	=P-60030	=Zingers Creme 3.75oz	[NULL]	=1	=0.4500	=60030	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=558	[NULL]	=35	=9	=45034	=P-45034	=LSS Bugles Nacho 1.5oz  11332	[NULL]	=1	=0.3900	=45034	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=559	[NULL]	=35	=85	=45035	=P-45035	=LSS Funyuns Hot 1.25oz	[NULL]	=1	=0.3800	=45035	=6 WEEKS	=9	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=560	[NULL]	=45	=48	=60031	=P-60031	=Cinnamon Sweet Roll Dolly 4.25oz	[NULL]	=1	=0.4400	=60031	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=561	[NULL]	=35	=85	=45036	=P-45036	=LSS Funyuns 1.25oz	=	=1	=0.4000	=45036	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=562	[NULL]	=34	=66	=160039	=P-160039	=Big Az Fish 8.1oz	[NULL]	=1	=1.8400	=160039	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=563	[NULL]	=45	=92	=60032	=P-60032	=Orchard Berry Danish 4.25oz	[NULL]	=1	=0.4200	=60032	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=564	[NULL]	=45	=92	=60033	=P-60033	=Apple Danish 4.25oz	[NULL]	=1	=0.4200	=60033	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=565	[NULL]	=29	=76	=130005	=P-130005	=Xenergy Mango Guava 16oz	[NULL]	=12	=1.2500	=130005	=4 MONTHS	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=566	[NULL]	=29	=76	=130006	=P-130006	=Xenergy Cherry Rush 16oz	[NULL]	=12	=1.2200	=130006	=4 MONTHS	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=567	[NULL]	=34	=69	=160040	=P-160040	=Landshire Jalapeno Cheeseburger 6.3oz	[NULL]	=1	=1.5900	=160040	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=568	[NULL]	=34	=69	=160041	=P-160041	=Landshire Double Cheeseburger 6oz	=	=1	=1.4700	=160041	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=569	[NULL]	=35	=85	=45037	=P-45037	=LSS Chester Hot Fries 1.75oz  44394	[NULL]	=1	=0.4200	=45037	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=570	[NULL]	=41	=82	=25000	=P-25000	=Coke 20oz bottle 5788	[NULL]	=24	=0.7500	=25000	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=571	[NULL]	=41	=82	=25001	=P-25001	=Diet Coke 20oz bottle 5789	[NULL]	=24	=0.7300	=25001	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=572	[NULL]	=41	=37	=25002	=P-25002	=Dr Pepper 20oz bottle	=	=24	=0.7100	=25002	=2 MONTHS	=3	=2	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=573	[NULL]	=41	=37	=25003	=P-25003	=Diet Dr Pepper 20oz bottle  50249	[NULL]	=24	=0.7300	=25003	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=574	[NULL]	=41	=37	=25004	=P-25004	=7 Up 20oz bottle  54154	[NULL]	=24	=0.7100	=25004	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=575	[NULL]	=41	=82	=25005	=P-25005	=Coke Zero 20oz bottle 0377	[NULL]	=24	=0.7200	=25005	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=576	[NULL]	=41	=83	=25006	=P-25006	=Brisk Tea Lipton 20oz bottle	[NULL]	=24	=0.7800	=25006	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=577	[NULL]	=41	=37	=25007	=P-25007	=Sunkist Orange Soda 20oz bottle  66680	[NULL]	=24	=0.7100	=25007	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=578	[NULL]	=41	=83	=25008	=P-25008	=Mountain Dew 20oz bottle  00134	[NULL]	=24	=0.8500	=25008	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=579	[NULL]	=41	=83	=25009	=P-25009	=Diet Green Tea Lipton 20oz bottle	[NULL]	=24	=0.7500	=25009	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=580	[NULL]	=41	=37	=25010	=P-25010	=Root Beer AW 20oz bottle  32500	[NULL]	=24	=0.7500	=25010	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=581	[NULL]	=28	=37	=11006	[NULL]	=Error UPC DeJa Blue Water 20oz bottle	=CASE	=24	=0.3500	=11006	=1 YEAR	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=True	=False	
+=582	[NULL]	=34	=69	=160042	=P-160042	=Landshire Jumbo BBQ Beef 6.5 oz	[NULL]	=1	=1.6700	=160042	=1 MONTHS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=583	[NULL]	=13	[NULL]	=30029	=P-30029	=Zone Bar 860611	=	=1	=0.7700	=B30029	=6 MONTHS	=7	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=584	[NULL]	=34	=19	=160043	=P-160043	=Hot Pocket Ham Cheese 4.5 oz 11117	=	=1	=0.7600	=160043	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=585	[NULL]	=34	=69	=160044	=P-160044	=Landshire Turkey Cheese Wedge 4.5oz	=	=1	=1.6100	=160044	=4 WEEKS	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=586	[NULL]	=34	=69	=160045	=P-160045	=Landshire Twin Chili Dog 8oz	=	=1	=1.7900	=160045	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=587	[NULL]	=34	=69	=160046	=P-160046	=Landshire Ham Cheese Wedge 4.5oz	=	=1	=1.5700	=160046	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=588	[NULL]	=34	=69	=160047	=P-160047	=Landshire Big Daddy Burger 9.65oz	=	=1	=1.8900	=160047	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=589	[NULL]	=36	=23	=70007	=P-70007	=Lifesaver 5 Flavor Mint 0.9oz  22935	[NULL]	=1	=0.3100	=70007	=9 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=590	[NULL]	=36	=23	=70008	=P-70008	=Lifesaver PepOMint 0.72oz  22936	[NULL]	=1	=0.3100	=70008	=9 MONTHS	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=591	[NULL]	=34	=66	=160048	=P-160048	=FC BBQ Pork Rib 5.8 oz	[NULL]	=1	=1.3600	=160048	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=592	[NULL]	=13	=10	=30030	=P-30030	=Twizzlers 2.5oz	[NULL]	=1	=0.5500	=B30030	=9 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=593	[NULL]	=28	=37	=110006	=P-110006	=Water Deja Blue 20oz bottle	=	=24	=0.3100	=110006	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=594	[NULL]	=42	=40	=45038	=P-45038	=Goldfish - 1.5oz 364774	[NULL]	=1	=0.2988	=45038	=4 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=595	[NULL]	=15	=46	=120015	=P-120015	=Compleats Teriyaki Rice w Chicken 10oz	[NULL]	=1	=1.9800	=120015	=1 YEAR	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=596	[NULL]	=41	=82	=25011	=P-25011	=Sprite Zero 20oz bottle	[NULL]	=24	=0.7200	=25011	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=597	[NULL]	=41	=83	=25012	=P-25012	=Diet Pepsi 20oz bottle	[NULL]	=24	=0.8200	=25012	=2 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=598	[NULL]	=41	=83	=25013	=P-25013	=Green Tea Lipton  20oz bottle	[NULL]	=24	=0.7900	=25013	=2 MONTHS	=3	=2	=1	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=599	[NULL]	=45	=92	=60034	=P-60034	=Strawberry Danish Cloverhill 4.25oz	=	=1	=0.5200	=60034	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=600	[NULL]	=35	=85	=45039	=P-45039	=LSS Cheetos Flamin Hot 2oz	[NULL]	=1	=0.3900	=45039	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=601	[NULL]	=35	=85	=45040	=P-45040	=LSS Frito Twist Honey BBQ 2oz	[NULL]	=1	=0.4100	=45040	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=602	[NULL]	=23	=26	=40047	=P-40047	=TGI Friday Jalapeno 1oz	[NULL]	=1	=0.2300	=40047	=6 MONTHS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=603	[NULL]	=13	=10	=30031	=P-30031	=KitKat 1.5oz Hershey 002442	=	=1	=0.4600	=B30031	=9 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=604	[NULL]	=50	=77	=80023	=P-80023	=Samuri Japanese Peanuts 1.4oz  2042008	[NULL]	=1	=0.2100	=80023	=6 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=605	[NULL]	=50	=85	=80024	=P-80024	=Peanut Butter on Toast 1.38oz	[NULL]	=1	=0.1600	=80024	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=606	[NULL]	=11	=18	=50021	=P-50021	=Mini Nilla Wafers 1.16oz	[NULL]	=1	=0.3000	=50021	=6 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=607	[NULL]	=34	=69	=160049	=P-160049	=Landshire Chicken Salad Wedge 4.5oz	=	=1	=1.5100	=160049	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=608	[NULL]	=35	=34	=45041	=P-45041	=LSS RyeStreet ParmGarlic 1.5oz	[NULL]	=1	=0.3500	=45041	=4 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=609	[NULL]	=11	=44	=50022	=P-50022	=Basil Lemon Sandwich Cremes 5oz 52055	[NULL]	=1	=0.4700	=50022	=4 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=610	[NULL]	=42	=85	=40042	=P-40042	=Baked Cheetos 0.875oz	=	=1	=0.2900	=40042	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=611	[NULL]	=50	=85	=80025	=P-80025	=FritoLay Peanuts 1.625oz 56302	[NULL]	=1	=0.2500	=80025	=6 MONTHS	=5	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=612	[NULL]	=28	=82	=110007	=P-110007	=Vitamin Water Zero 20oz bottle	[NULL]	=1	=0.8700	=110007	=1 YEAR	=14	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=613	[NULL]	=26	=79	=20010	=P-20010	=Arizona Green Tea 24oz can	[NULL]	=24	=0.9900	=20010	=3 MONTHS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=614	[NULL]	=39	=83	=150006	=P-150006	=Orange Juice Tropicana 15.2oz bottle	=	=1	=0.9200	=150006	=4 MONTHS	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=615	[NULL]	=39	=83	=150007	=P-150007	=Apple Juice Tropicana 15.2oz bottle	=	=1	=0.8800	=150007	=4 MONTHS	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=616	[NULL]	=23	=41	=40048	=P-40048	=Pork Skin Original Macs 1oz	[NULL]	=1	=0.2600	=40048	=2 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=617	[NULL]	=35	=88	=45043	=P-45043	=LSS Zapp Voodoo 1.5oz	[NULL]	=1	=0.3500	=45038	=2 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=618	[NULL]	=51	=9	=90008	=P-90008	=Nature Valley Peanut Butter Bar 1.5oz  2384	[NULL]	=1	=0.3500	=90008	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=619	[NULL]	=23	=85	=40049	=P-40049	=Munchos 0.875oz 11112	[NULL]	=1	=0.3100	=40049	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=620	[NULL]	=42	=85	=40050	=P-40050	=Baked Cheeto Flamin Hot 0.875oz	[NULL]	=1	=0.2700	=40050	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=621	[NULL]	=11	=12	=50023	=P-50023	=Soft Batch Chocolate Chip Cookie 2.2oz	[NULL]	=1	=0.4400	=50023	=3 MONTHS	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=622	[NULL]	=50	=87	=50024	=P-50024	=Swiss Creme Sandwich Cookie 1.8oz 00193200154700	[NULL]	=1	=0.3600	=50024	=4 MONTHS	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=623	[NULL]	=25	=82	=10028	=P-10028	=Caffiene Free Diet Coke 12oz 5234	[NULL]	=24	=0.3700	=10028	=2 MONTHS	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=624	[NULL]	=50	=14	=80026	=P-80026	=Captain Wafer Grilled Cheese 1.375oz	=	=1	=0.2100	=80026	=5 MONTHS	=5	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=625	[NULL]	=39	=96	=150008	=P-150008	=Milk Shamrock Farms 12oz bottle	=	=1	=1.0000	=150008	=30 DAYS	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=626	[NULL]	=28	=80	=110008	=P-110008	=La Croix Sparking Water 12oz can  015062242	[NULL]	=24	=0.3600	=110008	=1 YEAR	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=627	[NULL]	=13	=10	=30032	=P-30032	=Hershey Bar 1.55oz 002438	=	=1	=0.5500	=B30032	=9 MONTHS	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=628	[NULL]	=35	=85	=45044	=P-45044	=LSS Lays Harvest Ranch 1.375oz	[NULL]	=1	=0.3700	=45044	=6 WEEKS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=629	[NULL]	=35	=85	=45045	=P-45045	=LSS Doritos 1st Degree Burn 1.75oz	[NULL]	=1	=0.3800	=45045	=6 WEEKS 44045	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=630	[NULL]	=36	=94	=70009	=P-70009	=Trident White Gum 12 piece	[NULL]	=1	=0.6600	=70009	=1 YEAR	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=631	[NULL]	=48	=94	=70010	=P-70010	=Dentyne Ice Peppermint Gum 12 piece	=	=1	=0.6100	=70010	=1 YEAR	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=632	[NULL]	=48	=94	=70011	=P-70011	=Dentyne Fire Gum 12 piece	[NULL]	=1	=0.6800	=70011	=1 YEAR	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=633	[NULL]	=48	=94	=70012	=P-70012	=Stride Gum Spearmint 14 piece 110658	=	=1	=0.7483	=70012	=1 YEAR	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=634	[NULL]	=48	=94	=70013	=P-70013	=Stride Gum Winterblue 14 piece 110711	=	=1	=0.6900	=70013	=1 YEAR	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=635	[NULL]	=39	=96	=150009	=P-150009	=Chocolate Milk Shamrock Farms 12oz bottl	=	=1	=1.0000	=150009	=1 MONTH	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=636	[NULL]	=34	=69	=160051	=P-160051	=Landshire Spicy Chicken Chs Sandw 5.4oz	[NULL]	=1	=1.5400	=160051	=4 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=637	[NULL]	=43	=85	=45046	=P-45046	=LSS Quaker Baked Cheddar Snack Mix 1.75o  44389	[NULL]	=1	=0.3900	=45046	=6 WEEKS	=9	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=638	[NULL]	=15	=0	=120016	=P-120016	=CupASoup Chicken Noodle packet	[NULL]	=1	=0.3100	=120016	=6 MONTHS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=639	[NULL]	=15	=12	=120017	=P-120017	=Cereal Bowls	=	=1	=0.9900	=120017	=6 MONTHS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=640	[NULL]	=43	=9	=45047	=P-45047	=Chex Mix Bold Party Blend 1.75oz	[NULL]	=1	=0.3800	=50026	=5 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=641	[NULL]	=35	=85	=45048	=P-45048	=LSS Cheetos Mighty Zingers 2oz	[NULL]	=1	=0.3800	=45048	=2 MONTHS	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=642	[NULL]	=23	=85	=40051	=P-40051	=Lays Tangy Carolina BBQ 1oz	[NULL]	=1	=0.2500	=40051	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=643	[NULL]	=23	=26	=40052	=P-40052	=Poore Brothers Salt Vinegar 1oz	[NULL]	=1	=0.2300	=40052	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=644	[NULL]	=42	=85	=40053	=P-40053	=Doritos RF Spicy Sweet Chili 1oz	[NULL]	=1	=0.2900	=40053	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=645	[NULL]	=34	=81	=160052	=P-160052	=Dale Jr Spicy Chicken Sandwich 7oz	[NULL]	=1	=1.9400	=160052	=2 WEEKS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=646	[NULL]	=45	=47	=60035	=P-60035	=Vanilla Cupcake Mrs Freshley 3.6oz	[NULL]	=1	=0.4700	=60035	=3 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=647	[NULL]	=32	=0	=140000	=P-140000	=5 Gal Bottle Water	[NULL]	=1	=5.0000	[NULL]	[NULL]	[NULL]	=1	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=648	[NULL]	=34	=69	=160038	=P-160038	=Landshire Chuckwagon 5.85oz	[NULL]	=1	=1.4700	=160038	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=649	[NULL]	=34	=71	=160050	=P-160050	=Deli Express Ham Cheese Wedge 6oz	=	=1	=1.4100	=160050	=	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=650	[NULL]	[NULL]	[NULL]	=900000	=P-900000	=broken	=	=1	=0.0000	=	[NULL]	[NULL]	=4	=1	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=651	[NULL]	[NULL]	[NULL]	=900001	=P-900001	=Sales tax paid at purchase	=	=1	=11.9600	=	[NULL]	[NULL]	=4	=2	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=652	[NULL]	[NULL]	[NULL]	=V-1	=V-1	=Soft Drink - Can	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=653	[NULL]	[NULL]	[NULL]	=V-2	=V-2	=Soft Drink - Bottle 20 oz	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=654	[NULL]	[NULL]	[NULL]	=V-3	=V-3	=Candy	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=655	[NULL]	[NULL]	[NULL]	=V-4	=V-4	=Chip	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=656	[NULL]	[NULL]	[NULL]	=V-5	=V-5	=Cookie	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=657	[NULL]	[NULL]	[NULL]	=V-6	=V-6	=Pastry - Short-Term	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=658	[NULL]	[NULL]	[NULL]	=V-7	=V-7	=Gum-Mint	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=659	[NULL]	[NULL]	[NULL]	=V-8	=V-8	=Salty Snack - Non-Chip	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=660	[NULL]	[NULL]	[NULL]	=V-9	=V-9	=Sweet Snack - Non-Candy	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=661	[NULL]	[NULL]	[NULL]	=V-10	=V-10	=Sports Drink	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=662	[NULL]	[NULL]	[NULL]	=V-11	=V-11	=Water	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=663	[NULL]	[NULL]	[NULL]	=V-12	=V-12	=Food	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	=1	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=664	[NULL]	[NULL]	[NULL]	=V-13	=V-13	=Energy Drink	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=665	[NULL]	[NULL]	[NULL]	=V-14	=V-14	=5 Gallon Water	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=666	[NULL]	[NULL]	[NULL]	=V-15	=V-15	=Juice and Milk	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=667	[NULL]	[NULL]	[NULL]	=V-16	=V-16	=Cold Food	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=668	[NULL]	[NULL]	[NULL]	=V-45	=V-45	=LSS Chip	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=669	[NULL]	=42	=85	=40054	=P-40054	=Doritos RF Nacho Cheese 1oz	[NULL]	=1	=0.3000	=40054	=6 WEEKS	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=670	[NULL]	=35	=97	=45049	=P-45049	=LSS Herrs BBQ 1.5oz	[NULL]	=1	=0.3600	=45049	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=671	[NULL]	=11	=9	=50025	=P-50025	=Gardettos 1.75oz 788863	=	=1	=0.2740	=50025	[NULL]	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=672	[NULL]	=40	=37	=20011	=P-20011	=7 Up 16.9oz bottle  220030	[NULL]	=24	=0.5200	=20011	=6 WEEKS	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=673	[NULL]	=40	=37	=20012	=P-20012	=Sunkist Orange Soda 16.9oz bottle  220220	[NULL]	=24	=0.5200	=20012	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=674	[NULL]	=25	=37	=10029	=P-10029	=Caffiene Free Dr Pepper 12oz	[NULL]	=24	=0.3000	=10029	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=675	[NULL]	=25	=82	=10030	=P-10030	=Caffiene Free Coke 12oz can	[NULL]	=24	=0.3300	=10030	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=676	[NULL]	=41	=83	=100003	=P-100003	=G2 20oz	[NULL]	=24	=0.6000	=100003	=6 MONTHS	=3	=2	=1	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=677	[NULL]	=29	=82	=130007	=P-130007	=Monster Absolute Zero 16oz  7860	[NULL]	=1	=1.2000	=130007	[NULL]	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=678	[NULL]	=35	=85	=45050	=P-45050	=LSS Doritos Cool Ranch 1.75oz  44374	[NULL]	=1	=0.4200	=45050	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=679	[NULL]	=45	=47	=60036	=P-60036	=Chocolate Bells 3.5oz	[NULL]	=1	=0.5100	=60036	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=680	[NULL]	=51	=84	=90009	=P-90009	=Kars Raisins 1oz	[NULL]	=1	=0.2400	=90009	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=681	[NULL]	=39	=96	=150010	=P-150010	=2% Lofat Milk Shamrock  1112120	[NULL]	=1	=1.0000	=150010	[NULL]	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=682	[NULL]	=13	=14	=30033	=P-30033	=Lance Peanut Bar 2.21oz	[NULL]	=1	=0.4700	=B30033	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=683	[NULL]	=23	=85	=40055	=P-40055	=Sun Chip Harvest Cheddar 1oz	[NULL]	=1	=0.2600	=40055	[NULL]	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=684	[NULL]	=35	=85	=45051	=P-45051	=LSS Lays Kettle Spice Rubbed BBQ 1.375oz	[NULL]	=1	=0.3900	=45051	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=685	[NULL]	=35	=85	=45052	=P-45052	=LSS Munchies Cheese Fix 1.75oz	=	=1	=0.3700	=45052	=	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=686	[NULL]	=44	=9	=50026	=P-50026	=Gardetto Reduced Fat 1.65oz  11189	[NULL]	=1	=0.4200	=50026	[NULL]	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=687	[NULL]	=47	=85	=55000	=P-55000	=LSS Grandma Mini Vanilla 3.71oz  45095	[NULL]	=1	=0.4700	=55000	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=688	[NULL]	=51	=75	=80027	=P-80027	=Salted Almonds Mr Nature 1oz	[NULL]	=1	=0.4100	=80027	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=689	[NULL]	=35	=97	=45053	=P-45053	=LSS Herrs Kansas City Steak 1.5oz	[NULL]	=1	=0.3800	=45053	=6 WEEKS	=9	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=690	[NULL]	=35	=26	=45054	=P-45054	=LSS TGIFriday Crunchy Cheddar Bites 1.5o	[NULL]	=1	=0.3700	=45054	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=691	[NULL]	=28	=98	=110009	=P-110009	=Fuze Slenderize 16.9oz	[NULL]	=1	=0.8300	=110009	[NULL]	=14	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=692	[NULL]	=28	=80	=110010	=P-110010	=La Croix Berry Sparkling Water 12oz can  15062236	=12oz	=24	=0.3600	=110010	=365 days	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=693	[NULL]	=15	=99	=120018	=P-120018	=Oatmeal packets	[NULL]	=1	=0.1800	=120018	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=694	[NULL]	=13	=100	=30034	=P-30034	=Jelly Belly Assorted 1oz	[NULL]	=1	=0.4300	=B30034	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=695	[NULL]	=13	=101	=30035	=P-30035	=Sqworms Nuclear 2oz	=	=1	=0.4500	=B30035	=	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=696	[NULL]	=13	=19	=30036	=P-30036	=Sweetarts Mini Chewy 1.8oz	=	=1	=0.5200	=B30036	=	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=697	[NULL]	=35	=12	=45055	=P-45055	=LSS Cheezit 2oz  12322	[NULL]	=1	=0.4300	=45055	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=698	[NULL]	=35	=85	=45056	=P-45056	=LSS Doritos Pizza Supreme 1.75oz	[NULL]	=1	=0.4100	=45056	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=699	[NULL]	=35	=85	=45057	=P-45057	=LSS Cheetos BBQ 2oz	[NULL]	=1	=0.4100	=45057	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=700	[NULL]	=34	=69	=160053	=P-160053	=Landshire BBQ Pork Rib Patty 6.5oz	=	=1	=1.6900	=160053	=	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=701	[NULL]	=34	=71	=160054	=P-160054	=Deli Express Chicken & Cheese Fries 3.7o	[NULL]	=1	=1.5900	=160054	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=702	[NULL]	=34	=71	=160055	=P-160055	=Deli Express Tuna Salad Wedge 5oz	[NULL]	=1	=1.5100	=160055	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=703	[NULL]	=34	=71	=160056	=P-160056	=Deli Express Deli Club 4.4oz  785	[NULL]	=1	=1.7700	=160056	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=704	[NULL]	=29	=76	=130008	=P-130008	=Xenergy Fruit Punch 16oz	[NULL]	=12	=1.2300	=130008	[NULL]	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=705	[NULL]	=27	=82	=100004	=P-100004	=Powerade Lemon Lime  5994	[NULL]	=24	=0.5900	=100004	[NULL]	=13	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=706	[NULL]	=27	=82	=100005	=P-100005	=Powerade Fruit Punch  5995	[NULL]	=24	=0.2500	=100005	[NULL]	=13	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=707	[NULL]	=27	=82	=100006	=P-100006	=Powerade Mountain Berry Blast  4035	[NULL]	=24	=0.5900	=100006	[NULL]	=13	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=708	[NULL]	=28	=82	=110011	=P-110011	=Vitamin Water Energy	[NULL]	=1	=0.7500	=110011	[NULL]	=14	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=709	[NULL]	=28	=82	=110012	=P-110012	=Vitamin Water Revive	[NULL]	=1	=0.7500	=110012	[NULL]	=14	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=710	[NULL]	=13	=0	=30037	=P-30037	=Mike and Ike 2.12oz	[NULL]	=1	=0.5000	=B30037	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=711	[NULL]	[NULL]	[NULL]	=900002	=P-900002	=Empty	=	=1	=0.0000	=	[NULL]	[NULL]	=4	=2	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=712	[NULL]	=23	=85	=40056	=P-40056	=Hot Funyuns 0.75oz	[NULL]	=1	=0.2300	=40056	[NULL]	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=713	[NULL]	=25	=82	=10031	=P-10031	=Barqs Root Beer 12oz 5258	[NULL]	=24	=0.3400	=10031	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=714	[NULL]	=41	=82	=25014	=P-25014	=Fanta Orange 20oz 5845	[NULL]	=1	=0.6100	=25014	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=715	[NULL]	=41	=82	=25015	=P-25015	=Pibb Xtra 20oz	=	=1	=0.7000	=25015	[NULL]	=3	=2	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=716	[NULL]	=28	=82	=110013	=P-110013	=Vitamin Water XXX 20oz	=	=1	=0.9900	=110013	[NULL]	=14	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=717	[NULL]	=35	=85	=45058	=P-45058	=LSS Ruffles Molten Hot Wings 1.5oz	[NULL]	=1	=0.5400	=45058	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=718	[NULL]	=41	=82	=25016	=P-25016	=Sprite 20oz 4320	[NULL]	=1	=0.7300	=25016	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=719	[NULL]	=34	=103	=160057	=P-160057	=Johnsonville Cheddar Sausage Roll 5oz	=	=1	=1.3200	=160057	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=720	[NULL]	=35	=85	=45059	=P-45059	=LSS Cheetos Puffs Honey BBQ 1.375oz	[NULL]	=1	=0.3800	=45059	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=721	[NULL]	=35	=59	=45060	=P-45060	=LSS El Sabroso Blazin Hot 1.5oz	[NULL]	=1	=0.1800	=45060	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=722	[NULL]	=46	=0	=60037	=P-60037	=Go Goodness Pastry	[NULL]	=1	=0.5000	=60037	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=723	[NULL]	=47	=85	=55001	=P-55001	=LSS Grandma Mini Fudge 3oz	[NULL]	=1	=0.4600	=55001	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=724	[NULL]	=34	=0	=160058	=P-160058	=Don Miguel Taquitos Beef 5oz	[NULL]	=1	=1.2200	=160058	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=725	[NULL]	=25	=82	=10032	=P-10032	=Fuze Iced Tea 12oz 1032	[NULL]	=24	=0.3400	=10032	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=726	[NULL]	=25	=82	=10033	=P-10033	=Fanta Orange Soda 12oz	=	=24	=0.3400	=10033	=	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=727	[NULL]	=49	=10	=35000	=P-35000	=LSC Payday 3.4oz	=	=1	=0.9900	=B35000	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=728	[NULL]	=49	=10	=35001	=P-35001	=LSC Hersey Milk Chocolate 2.6oz 055874	=	=1	=0.9900	=B35001	[NULL]	=4	=3	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=729	[NULL]	=49	=10	=35002	=P-35002	=LSC Hersey Cookie&Creme 2.6oz 041269	=	=1	=0.9400	=B35002	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=730	[NULL]	=51	=12	=90010	=P-90010	=Special K Bar 0.81oz	=	=1	=0.3300	=90010	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=731	[NULL]	=34	[NULL]	=160059	=P-160059	=Don Miguel Mini Taco Boat 5oz	=	=1	=1.1900	=160059	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=732	[NULL]	=49	=10	=35003	=P-35003	=LSC Reeses 2.8oz	=	=1	=1.0000	=B35003	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=733	[NULL]	=50	=14	=50027	=P-50027	=Cracker Creations Chocolate Granola 1.2  103552	[NULL]	=1	=0.3800	=50027	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=734	[NULL]	=41	=82	=25017	=P-25017	=Barqs Root Beer 20oz 5991	[NULL]	=1	=0.6100	=25017	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=735	[NULL]	=41	=82	=25018	=P-25018	=Nestea Iced Tea 20oz	=	=1	=0.7200	=25018	=	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=736	[NULL]	=36	=94	=70014	=P-70014	=Dentyne Classic 7stick cinnamon	=	=1	=0.2500	=70014	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=737	[NULL]	=23	=26	=40057	=P-40057	=Nathans Chili Cheese 0.75 oz	[NULL]	=1	=0.2400	=40057	[NULL]	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=738	[NULL]	=25	=37	=10034	=P-10034	=Dr Pepper Ten 12oz	=	=24	=0.3100	=10034	=	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=739	[NULL]	=25	=82	=10035	=P-10035	=Pibb Xtra 12oz can 5273	[NULL]	=24	=0.3300	=10035	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=740	[NULL]	=51	=9	=90011	=P-90011	=Cheerios Bar Strawberry 1.3oz	[NULL]	=96	=0.3500	=90011	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=741	[NULL]	=50	=9	=90012	=P-90012	=Gold Grahams Bars 1.06oz	[NULL]	=1	=0.3300	=90012	[NULL]	=5	=4	=1	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=742	[NULL]	=51	=9	=90013	=P-90013	=Cocoa Puffs Cereal Bar	[NULL]	=1	=0.3500	=90013	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=743	[NULL]	=47	=109	=60040	=P-60040	=PoppaD Nuts 2oz	[NULL]	=1	=0.4500	=60040	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=744	[NULL]	=23	=59	=40058	=P-40058	=Kettle Corn	[NULL]	=1	=0.3000	=40058	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=745	[NULL]	=23	=97	=40059	=P-40059	=Cheese Popper Jalapeno Curls 1oz  307	[NULL]	=1	=0.2700	=40059	[NULL]	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=746	[NULL]	=35	=110	=45061	=P-45061	=LSS Takis Fuego Rolled Tortilla 2oz  31505	[NULL]	=1	=0.4500	=45061	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=747	[NULL]	=35	=85	=45062	=P-45062	=LSS Doritos Chips Taco 1.75oz	[NULL]	=1	=0.4100	=45062	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=748	[NULL]	=46	=111	=60038	=P-60038	=Buzzstrg Cookie Chocolate Chip	[NULL]	=1	=0.4900	=60038	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=749	[NULL]	=50	=14	=80028	=P-80028	=Nekot Cookie Peanut Butter  1.75oz 743214	=	=1	=0.1720	=80028	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=750	[NULL]	=35	=59	=45063	=P-45063	=LSS Kettle Corn Whole Earth 1oz	[NULL]	=1	=0.3400	=45063	[NULL]	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=751	[NULL]	=48	=94	=70015	=P-70015	=Dentyine Fire Cinnamon	[NULL]	=1	=0.5700	=70015	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=752	[NULL]	=45	=92	=60041	=P-60041	=Mini Muffin Chocolate Chip 2.5oz	[NULL]	=1	=0.4200	=60041	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=753	[NULL]	=41	=37	=25019	=P-25019	=Sunkist Grape 20oz bottle  11640	[NULL]	=1	=0.7500	=25019	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=754	[NULL]	=25	=82	=10036	=P-10036	=Cherry Coke 12oz	[NULL]	=24	=0.3500	=10036	=9 MONTHS	=1	=2	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=755	[NULL]	=23	=41	=40060	=P-40060	=Pork Skin Salt Pepper Macs 1oz	[NULL]	=1	=0.2800	=40060	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=756	[NULL]	=43	=9	=45064	=P-45064	=LSS Simply Chex Cheddar 1.25oz	[NULL]	=1	=0.3900	=45064	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=757	[NULL]	=55	=84	=80029	=P-80029	=Kars Almonds 1oz	=	=1	=0.3900	=80029	[NULL]	=12	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=758	[NULL]	=48	=23	=70016	=P-70016	=Orbit Wintermint 619003	=	=1	=0.7200	=70016	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=759	[NULL]	=48	=23	=70017	=P-70017	=Orbit Cinnamint 044670	=	=1	=0.7200	=70017	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=760	[NULL]	=48	=87	=70018	=P-70018	=Stride Sweet Peppermint 043022	=	=1	=0.7500	=70018	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=761	[NULL]	=13	=16	=30038	=P-30038	=MM Peanut Butter 1.63oz 6072	=	=1	=0.5550	=B30038	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=762	[NULL]	=25	=82	=10037	=P-10037	=Cherry Coke Zero 12oz	=	=1	=0.3300	=10037	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=763	[NULL]	=45	=92	=60042	=P-60042	=Mini Muffin Blueberry 2.5oz 48201	[NULL]	=1	=0.4200	=60042	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=764	[NULL]	=48	=23	=70019	=P-70019	=Orbit Peppermint 14 piece	=	=1	=0.7200	=70019	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=765	[NULL]	=39	=82	=150011	=P-150011	=Minute Maid Orange Juice 15.2oz  4782	[NULL]	=1	=0.7700	=150011	[NULL]	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=766	[NULL]	=39	=82	=150012	=P-150012	=Minute Maid Apple Juice 15.2oz  4780	[NULL]	=1	=0.7700	=150012	[NULL]	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=767	[NULL]	=25	=37	=10038	=P-10038	=AW Cream Soda 12oz can	=	=1	=0.3100	=10038	[NULL]	=1	=2	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=768	[NULL]	=25	=37	=10039	=P-10039	=Canada Dry Ginger Ale 12oz can	[NULL]	=1	=0.3000	=10039	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=True	=False	
+=769	[NULL]	=35	=85	=45065	=P-45065	=LSS Lays Classic BLT 1.5 oz	[NULL]	=1	=0.4200	=45065	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=770	[NULL]	=35	=91	=45066	=P-45066	=LSS Southern Hot Pork Rind 0.875oz	=	=1	=0.3400	=45066	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=771	[NULL]	[NULL]	[NULL]	=V-46	=V-46	=Chip - Fit Pick	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=772	[NULL]	[NULL]	[NULL]	=V-47	=V-47	=LSS Chip - Fit Pick	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=773	[NULL]	[NULL]	[NULL]	=V-48	=V-48	=Candy - Fit Pick	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=774	[NULL]	[NULL]	[NULL]	=V-49	=V-49	=Pastry - Fit Pick	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=775	[NULL]	[NULL]	[NULL]	=V-50	=V-50	=Thin Snack - Fit Pick	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=776	[NULL]	[NULL]	[NULL]	=V-51	=V-51	=Pastry - Long Term	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=777	[NULL]	[NULL]	[NULL]	=V-52	=V-52	=Gum - Blister Pack	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=778	[NULL]	[NULL]	[NULL]	=V-53	=V-53	=Soft Drink - Bottle 16.9 oz	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=779	[NULL]	[NULL]	[NULL]	=V-54	=V-54	=Cookie - Fit Pick	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=780	[NULL]	=50	[NULL]	=900003	=P-900003	=Thin Snack	=	=1	=0.0000	=	[NULL]	=5	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=781	[NULL]	=51	[NULL]	=900004	=P-900004	=Thin Snack - Fit Pick	=	=1	=0.0000	=	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=782	[NULL]	=55	[NULL]	=900005	=P-900005	=Candy - Fit Pick	=	=1	=0.0000	=	[NULL]	=12	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=783	[NULL]	[NULL]	[NULL]	=V-55	=V-55	=Candy LSC	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=784	[NULL]	[NULL]	[NULL]	=V-56	=V-56	=Thin Snack	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=785	[NULL]	=13	=101	=30039	=P-30039	=Juicefuls Fruit Snacks  62473	[NULL]	=1	=0.4500	=B30039	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=786	[NULL]	=34	=114	=160060	=P-160060	=Yoplait Light S'berry Yogurt 6oz m	[NULL]	=1	=0.7500	=160060	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=787	[NULL]	=50	=18	=80030	=P-80030	=Ritz Crackerfuls	[NULL]	=1	=0.3400	=80030	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=788	[NULL]	=13	=112	=30040	=P-30040	=Clif  Chocolate Chip Bar	=	=1	=1.0000	=B30040	[NULL]	=4	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=789	[NULL]	=53	=113	=70020	=P-70020	=Altoids Peppermint	=	=1	=1.0000	=70020	[NULL]	=11	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=790	[NULL]	=34	=114	=160061	=P-160061	=Yoplait Light Yogurt S'berries Bananas m	[NULL]	=1	=0.7500	=160061	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=791	[NULL]	=52	=116	=170116	=P-170116	=Banana Pudding	=	=1	=1.3500	=170116	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=792	[NULL]	=52	=116	=170117	=P-170117	=Chocolate Pudding	=	=1	=1.3500	=170117	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=793	[NULL]	=52	=116	=170118	=P-170118	=Strawberry Shortcake	=	=1	=1.3500	=170118	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=794	[NULL]	=52	=116	=170135	=P-170135	=Boiled Egg Crackers	=	=1	=0.8500	=170135	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=795	[NULL]	=52	=116	=170141	=P-170141	=Fresh Fruit Cup 8oz	[NULL]	=1	=2.8500	=170141	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=796	[NULL]	=52	=116	=170142	=P-170142	=Fresh Fruit Cup 12oz	[NULL]	=1	=2.8500	=170142	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=797	[NULL]	=52	=116	=171021	=P-171021	=Sandwich Egg Salad Wheat	=	=1	=1.3500	=171021	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=798	[NULL]	=52	=116	=171041	=P-171041	=Sandwich Chicken Salad on Wheat	=	=1	=1.3500	=171041	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=799	[NULL]	=52	=116	=171910	=P-171910	=Sandwich Turkey Chs Hoagie Butcher Pape	=	=1	=2.8500	=171910	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=800	[NULL]	=52	=116	=171925	=P-171925	=Sandwich Poboy Hoagie Butcher Paper	=	=1	=2.8500	=171925	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=801	[NULL]	=52	=116	=172010	=P-172010	=Sandwich Double Cheeseburger	=	=1	=1.5000	=172010	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=802	[NULL]	=52	=116	=172210	=P-172210	=Sandwich Double Chili Cheese Dog	=	=1	=1.4500	=172210	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=803	[NULL]	=52	=116	=176005	=P-176005	=Salad Grilled Chicken	=	=1	=2.7100	=176005	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=804	[NULL]	=52	=116	=176010	=P-176010	=Salad Chef Salad	=	=1	=2.6600	=176010	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=805	[NULL]	=52	=116	=176025	=P-176025	=Salad BLT Grilled Chicken	=	=1	=3.0200	=176025	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=806	[NULL]	=52	=116	=176035	=P-176035	=Salad Cobb	=	=1	=3.2000	=176035	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=807	[NULL]	=52	=116	=177040	=P-177040	=Meal Chicken Salad Supreme	=	=1	=2.9500	=177040	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=808	[NULL]	=52	=116	=177135	=P-177135	=Deviled Boiled Eggs	=	=1	=1.0000	=177135	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=809	[NULL]	=52	=116	=177140	=P-177140	=Meal Philly Cheese Steak	=	=1	=3.2500	=177140	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=810	[NULL]	=52	=116	=177185	=P-177185	=Breakfast Meal Biscuit Gravy Sausage	=	=1	=2.3500	=177185	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=811	[NULL]	=52	=116	=177210	=P-177210	=Meal Double Roll Turkey	=	=1	=3.0500	=177210	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=812	[NULL]	=52	=116	=177216	=P-177216	=Meal Multigrain half Turkey Sandwich	=	=1	=3.2500	=177216	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=813	[NULL]	=52	=116	=177217	=P-177217	=Meal Multigrain Half Chick Sal Sandwich	=	=1	=3.2500	=177217	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=814	[NULL]	=52	=116	=177340	=P-177340	=Meal Three Meat Hoagie with Swiss	=	=1	=3.2500	=177340	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=815	[NULL]	=52	=116	=178000	=P-178000	=Meal Vegetable Lasagna	=	=1	=3.6500	=178000	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=816	[NULL]	=52	=116	=178005	=P-178005	=Meal Three Cheese Ravioli	=	=1	=3.6500	=178005	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=817	[NULL]	=52	=116	=178120	=P-178120	=Breakfast Meal Western Omelet Sandwich	=	=1	=2.3500	=178120	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=818	[NULL]	=52	=116	=178320	=P-178320	=Breakfast Meal Sausage Egg Texas Toast	=	=1	=2.3500	=178320	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=819	[NULL]	=52	=116	=178330	=P-178330	=Breakfast Meal Bacon Egg Texas Toast	=	=1	=2.3500	=178330	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=820	[NULL]	=53	=115	=180000	=P-180000	=Jack Links Jerky 0.9oz	=	=1	=0.9500	=180000	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=821	[NULL]	=53	[NULL]	=180001	=P-180001	=5 Hr Energy 680060	=	=12	=1.3900	=180001	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=822	[NULL]	=53	[NULL]	=180002	=P-180002	=Tic Tac Freshmints 1oz	=	=12	=0.7400	=180002	[NULL]	=2	=3	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=823	[NULL]	=53	=0	=180003	=P-180003	=Advil 2 tablets 6395	[NULL]	=50	=0.1900	=180003	[NULL]	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=824	[NULL]	=53	=0	=180004	=P-180004	=Slim Fast Chocolate 10oz	[NULL]	=1	=1.1200	=180004	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=825	[NULL]	=53	[NULL]	=180005	=P-180005	=Starbucks Frappuccino Vanilla 9.5oz 798852	=	=1	=1.0900	=180005	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=826	[NULL]	=53	=60	=180006	=P-180006	=Starbucks Frappuccino Mocha 9.5oz 690498	=	=1	=1.1500	=180006	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=827	[NULL]	=53	[NULL]	=180007	=P-180007	=Muscle Milk Chocolate 11oz 728691	=	=1	=1.5400	=180007	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=828	[NULL]	=54	[NULL]	=190000	=P-190000	=Swiss Miss Fudge Bar 3oz 253683	=	=1	=0.5500	=190000	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=829	[NULL]	=54	[NULL]	=190001	=P-190001	=Twix Ice Cream Bar 1.93oz	=	=1	=0.4200	=190001	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=830	[NULL]	=54	[NULL]	=190002	=P-190002	=Snickers Ice Cream Bar 2oz 025041	=	=1	=0.4200	=190002	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=831	[NULL]	=54	[NULL]	=190003	=P-190003	=Skinny Cow Cookies N Cream 4oz	=	=1	=0.4900	=190003	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=832	[NULL]	=54	[NULL]	=190004	=P-190004	=Healthy Choice Chicken Margherita 10oz	=	=1	=2.2100	=190004	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=833	[NULL]	=54	[NULL]	=190005	=P-190005	=Healthy Choice Chicken Marinara 10oz	=	=1	=2.2100	=190005	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=834	[NULL]	=54	[NULL]	=190006	=P-190006	=Lean Cuisine Sesame Chicken 9oz	=	=1	=1.7500	=190006	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=835	[NULL]	=54	[NULL]	=190007	=P-190007	=Lean Cuisine Ginger Garlic Stir Fry 9.9o	=	=1	=1.7500	=190007	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=836	[NULL]	=54	[NULL]	=190008	=P-190008	=Lean Cuisine Chicken Teriyaki 9oz	=	=1	=1.8300	=190008	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=837	[NULL]	[NULL]	[NULL]	=V-17	=V-17	=Fresh Food	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=838	[NULL]	[NULL]	[NULL]	=V-18	=V-18	=Micro Market Food	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=839	[NULL]	[NULL]	[NULL]	=V-19	=V-19	=Frozen Food	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=840	[NULL]	=53	=87	=30041	=P-30041	=Sour Patch Watermelon 5 oz.  007046206022400	[NULL]	=1	=0.8700	=B30041	[NULL]	=2	=3	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=841	[NULL]	=54	=19	=160062	=P-160062	=Lean Pocket Turkey Ham and Cheddar	=	=1	=0.9900	=160062	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=842	[NULL]	=25	=82	=10040	=P-10040	=Minute Maid Lemonade 12oz can 5263	[NULL]	=1	=0.3000	=10040	[NULL]	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=843	[NULL]	=52	[NULL]	=17900	=P-17900	=Banana	=	=1	=0.0000	=	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=844	[NULL]	=52	=0	=17901	=P-17901	=Orangex	[NULL]	=1	=0.5000	[NULL]	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=845	[NULL]	=52	[NULL]	=17902	=P-17902	=Apple	=	=1	=0.0000	=	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=846	[NULL]	=52	=116	=17903	=P-17903	=Ken's Italian Dressingx	[NULL]	=1	=0.3000	[NULL]	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=847	[NULL]	=52	=116	=17904	=P-17904	=Ken's Ranch Dressing 1.5 ozx	[NULL]	=1	=0.3000	[NULL]	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=848	[NULL]	=53	=0	=18010	=P-18010	=Frigo String Cheese	[NULL]	=1	=0.2500	[NULL]	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=849	[NULL]	=52	=116	=171225	=P-171225	=Sandwich Turkey & Swiss on Rye	=	=1	=1.4500	=171225	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=850	[NULL]	=52	=116	=171650	=P-171650	=Sandwich Ham and Swiss on Ciabatta	=	=1	=1.7000	=171650	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=851	[NULL]	=52	=116	=172110	=P-172110	=Sandwich Large Chopped BBQ	=	=1	=1.4500	=172110	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=852	[NULL]	=52	=116	=176015	=P-176015	=Salad Garden	=	=1	=2.1500	=176015	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=853	[NULL]	=52	=116	=176020	=P-176020	=Caesar Salad	=	=1	=2.4900	=176020	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=854	[NULL]	=53	=87	=180008	=P-180008	=Velveeta Shell & Cheese Cup 2.39 oz 947038	=	=1	=0.6200	=180008	[NULL]	=2	=4	=2	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=855	[NULL]	=53	[NULL]	=180009	=P-180009	=Maruchan Chicken Ramen Noodle Cup 2.25oz 180913	=	=1	=0.3000	=180009	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=856	[NULL]	=29	=37	=130009	=P-130009	=Venom Energy Black Mamba 16oz	=	=1	=1.1400	=130009	[NULL]	=15	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=857	[NULL]	=52	[NULL]	=179000	=P-179000	=Banana	=	=1	=0.2100	=179000	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=858	[NULL]	=52	[NULL]	=179001	=P-179001	=Orange	=	=1	=0.5300	=179001	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=859	[NULL]	=52	[NULL]	=179002	=P-179002	=Apple	=	=1	=0.5300	=179002	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=860	[NULL]	=52	=116	=179003	=P-179003	=Ken's Italian Dressing	=	=1	=0.3000	=179003	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=861	[NULL]	=52	=116	=179004	=P-179004	=Ken's Ranch Dressing 1.5 oz	[NULL]	=1	=0.3000	=179004	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=862	[NULL]	=53	[NULL]	=180010	=P-180010	=Frigo String Cheese 681926	=	=1	=0.1800	=180010	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=863	[NULL]	=45	=92	=60043	=P-60043	=Mini Brownies Chocolate 2.5oz	[NULL]	=1	=0.4200	=60043	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=864	[NULL]	=45	=92	=60044	=P-60044	=Blasters Strawberry 4oz	=	=1	=0.5200	=60044	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=865	[NULL]	=45	=0	=60045	=P-60045	=Apple Ugly 4oz	[NULL]	=1	=0.5000	=60045	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=866	[NULL]	=54	[NULL]	=190009	=P-190009	=Skinny Cow Vanilla	=	=1	=0.4900	=190009	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=867	[NULL]	=54	=87	=190010	=P-190010	=Toll House Ice Cream Sandwiches 484795	=	=1	=0.7500	=190010	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=868	[NULL]	=54	[NULL]	=190011	=P-190011	=Lean Cuisine Spaghetti & Meat Balls	=	=1	=1.3700	=190011	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=869	[NULL]	=54	[NULL]	=190012	=P-190012	=Lean Cuisine Chicken Parmesan	=	=1	=1.3700	=190012	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=870	[NULL]	=41	=82	=25020	=P-25020	=Minute Maid Fruit Punch 20oz 6246	[NULL]	=1	=0.6200	=25020	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=871	[NULL]	=53	=0	=30042	=P-30042	=Gummi Gold Bears 5 oz  30220	[NULL]	=1	=0.9600	=B30042	[NULL]	=2	=3	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=872	[NULL]	=53	[NULL]	=30043	=P-30043	=Haribo Happy Cola Gummi 5 oz	=	=1	=0.9600	=B30043	[NULL]	=2	=3	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=873	[NULL]	=52	=116	=172360	=P-172360	=Sandwich Grilled Chicken Breast 5oz	=	=1	=1.7500	=172360	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=874	[NULL]	=52	=116	=174097	=P-174097	=Meal Burrito Dinner 9oz	=	=1	=1.9500	=174097	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=875	[NULL]	=52	=116	=174098	=P-174098	=Meal Enchilada Dinner 9oz	=	=1	=1.9500	=174098	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=876	[NULL]	=34	=19	=160063	=P-160063	=Hot Pockets Bacon Egg Cheese 4oz 755147	[NULL]	=1	=0.7600	=160063	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=877	[NULL]	=34	=114	=160064	=P-160064	=Yoplait Light Yogurt S'berry 6oz s	[NULL]	=1	=0.4300	=160064	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=878	[NULL]	=34	=114	=160065	=P-160065	=Yoplait Light Yogurt Blueberry 6oz s	[NULL]	=1	=0.4300	=160065	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=879	[NULL]	=34	=114	=160066	=P-160066	=Yoplait Light Yogurt Peach 6oz s	[NULL]	=1	=0.4300	=160066	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=880	[NULL]	=54	=19	=160067	=P-160067	=Hot Pocket Pepperoni 4.5 oz S 11109	=	=1	=0.7580	=160067	=8 MONTHS	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=881	[NULL]	=52	=116	=177215	=P-177215	=Meal Multigrain Ham Sandwich	=	=1	=3.2500	=177215	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=882	[NULL]	=28	=19	=110014	=P-110014	=Perrier 11 oz 356767	=11 oz	=24	=0.6200	=110014	=one year	=14	=6	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=883	[NULL]	=52	=116	=173000	=P-173000	=Sandwich Chicken Fajita	=	=1	=1.6500	=173000	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=884	[NULL]	=52	=116	=171234	=P-171234	=Sandwich Roast Beef Chs Let Tom Wheat	=	=1	=1.5500	=171234	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=885	[NULL]	=52	=116	=173230	=P-173230	=Breakfast Triangle Bacon Egg on Toast	=	=1	=1.3500	=173230	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=886	[NULL]	=52	=116	=171340	=P-171340	=Sandwich Ham Turkey Roast Hoagie	=	=1	=1.8000	=171340	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=887	[NULL]	=52	=116	=179005	=P-179005	=Ken's Lite Ranch Dressing 1.5oz	[NULL]	=1	=0.3000	=179005	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=888	[NULL]	=52	=116	=179006	=P-179006	=Ken's Caesar Dressing 1.5oz	[NULL]	=1	=0.3000	=179006	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=889	[NULL]	=52	=116	=172150	=P-172150	=Sandwich BBQ Chicken Breast	=	=1	=1.6500	=172150	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=890	[NULL]	=52	=116	=173160	=P-173160	=Breakfast Biscuit Double Sausage Egg Chs	=	=1	=1.8000	=173160	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=891	[NULL]	=35	=85	=45067	=P-45067	=LSS Lays Kettle Applewood Smkd BBQ 1.375  09598	[NULL]	=1	=0.4200	=45067	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=892	[NULL]	=45	=0	=60046	=P-60046	=Heritage Apple Danish 4 oz.  36049952	[NULL]	=1	=0.4700	=60046	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=893	[NULL]	=45	=0	=60047	=P-60047	=Blueberry Ugly 4 oz.	[NULL]	=1	=0.5000	=60047	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=894	[NULL]	=52	=116	=172050	=P-172050	=Sandwich Bacon Cheeseburger	=	=1	=1.4500	=172050	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=895	[NULL]	=52	=116	=172330	=P-172330	=Sandwich Steak Finger on Roll	=	=1	=1.3500	=172330	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=896	[NULL]	=52	=116	=175070	=P-175070	=Meal Grilled Chicken Sandwich Plate	[NULL]	=1	=1.9500	=175070	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=897	[NULL]	=52	=116	=177160	=P-177160	=Breakfast Bagel and Cream Cheese	=	=1	=1.5000	=177160	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=898	[NULL]	=52	=116	=178010	=P-178010	=Sandwich Classic Pastrami Roll	=	=1	=3.2500	=178010	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=899	[NULL]	=50	=84	=80031	=P-80031	=Kars Sweet n Spicy  1.75 oz  8984	[NULL]	=1	=0.4000	=80031	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=900	[NULL]	=52	=116	=170190	=P-170190	=Baked Potato with Chopped BBQ	=	=1	=2.0000	=170190	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=901	[NULL]	=52	=116	=171530	=P-171530	=Sandwich Club with Turk Bac Let Tom	=	=1	=1.7500	=171530	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=902	[NULL]	=52	=116	=173330	=P-173330	=Breakfast Sandwich Bacon Egg on Tex Tst	=	=1	=1.4500	=173330	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=903	[NULL]	=52	=116	=173410	=P-173410	=Breakfast Croissant Ham Egg Chs	=	=1	=1.5000	=173410	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=904	[NULL]	=13	=87	=30044	=P-30044	=Sour Patch Kids 2 oz. 674152	=	=1	=0.5550	=B30044	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=905	[NULL]	=45	=92	=60048	=P-60048	=Crunch Mini Donuts 3.5oz 63480	[NULL]	=1	=0.5400	=60048	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=906	[NULL]	=53	=0	=180011	=P-180011	=Tylenol Extra Strength  437498	[NULL]	=50	=0.1800	=180011	[NULL]	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=907	[NULL]	=52	=116	=171215	=P-171215	=Sandwich Ham & Swiss Rye Plate	=	=1	=1.4500	=171215	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=908	[NULL]	=52	=116	=171660	=P-171660	=Sandwich Turkey Swiss on Ciabatta	=	=1	=1.7000	=171660	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=909	[NULL]	=52	=116	=172011	=P-172011	=Sandwich Double Cheese Burger w let/tom	=	=1	=1.6000	=172011	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=910	[NULL]	=52	=116	=172365	=P-172365	=Sandwich Chicken Fried Chicken	=	=1	=1.7500	=172365	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=911	[NULL]	=13	=16	=35004	=P-35004	=LSC Twix 3.02 oz 328210	=	=1	=0.9700	=B35004	[NULL]	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=912	[NULL]	=54	=89	=190013	=P-190013	=Healthy Choice Chicken Linguini	=	=1	=2.0800	=190013	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=913	[NULL]	=54	=89	=190014	=P-190014	=Healthy Choice Seasame Chicken	=	=1	=2.0800	=190014	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=914	[NULL]	=54	=89	=160068	=P-160068	=Marie Calender Chicken Pot Pie 10 oz 286574	=	=1	=1.3600	=160068	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=915	[NULL]	=53	=99	=120019	=P-120019	=Oatmeal Cup Baked Apple 1.9oz	=	=1	=0.8500	=120019	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=916	[NULL]	=52	=116	=171011	=P-171011	=Sandwich Triangle Pimento Cheese Wheat	=	=1	=1.3500	=171011	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=917	[NULL]	=52	=116	=177450	=P-177450	=Meal Italian Meatball Hoagie	=	=1	=2.9500	=177450	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=918	[NULL]	=41	=82	=25021	=P-25021	=Fuze Iced Tea 20oz	=	=1	=0.6200	=25021	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=919	[NULL]	=46	=84	=60049	=P-60049	=Kar's Cranberry Almond 3oz	[NULL]	=1	=0.5000	=60049	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=920	[NULL]	=52	=116	=172350	=P-172350	=Sandwich Grilled Chicken Sourdough	=	=1	=1.8500	=172350	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=921	[NULL]	=52	=116	=173120	=P-173120	=Breakfast Sandwich Western Omlet Toast	=	=1	=1.4500	=173120	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=922	[NULL]	=56	=18	=200000	=P-200000	=Lorna Doone 100 cal pack	=	=1	=0.4500	=200000	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=923	[NULL]	=56	=18	=200001	=P-200001	=Ritz Snack Mix 100 cal pack	=	=1	=0.4500	=200001	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=924	[NULL]	=56	[NULL]	=200002	=P-200002	=SunMaid Raisin 0.5oz bag of 12	=	=1	=2.3100	=200002	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=925	[NULL]	=51	=12	=200003	=P-200003	=Nutrigrain Raspberry	=	=1	=0.3000	=200003	[NULL]	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=926	[NULL]	=56	[NULL]	=200004	=P-200004	=Special K Protein Meal Bar ChocoPB	=	=1	=1.0000	=200004	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=927	[NULL]	=56	[NULL]	=200005	=P-200005	=Special K Protein Meal Bar Strawberry	=	=1	=1.0000	=200005	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=928	[NULL]	[NULL]	[NULL]	=V-20	=V-20	=Grocery Items	=	=1	=0.0000	=	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=929	[NULL]	=52	=116	=172280	=P-172280	=Sandwich Double Corn Dog	=	=1	=1.3500	=172280	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=930	[NULL]	=46	=84	=80032	=P-80032	=Kars Cranberry Almond Delight 3oz	=	=1	=0.6000	=80032	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=931	[NULL]	=52	=116	=171515	=P-171515	=Large Italian Sub	=	=1	=1.7000	=171515	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=932	[NULL]	=52	=116	=173420	=P-173420	=Sausage Egg & Cheese on Croissant	=	=1	=1.4000	=173420	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=933	[NULL]	=52	=116	=172325	=P-172325	=Sandwich Pork Chop	=	=1	=1.4500	=172325	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=934	[NULL]	=52	=116	=170131	=P-170131	=Stuffed Baked Potato	=	=1	=2.0000	=170131	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=935	[NULL]	=52	=116	=170140	=P-170140	=Fresh Fruit Mix	=	=1	=2.0000	=170140	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=936	[NULL]	=52	=116	=172250	=P-172250	=Sandwich Footlong Cheese Dog	=	=1	=1.3500	=172250	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=937	[NULL]	=52	=116	=173140	=P-173140	=Breakfast Grilled Ham  Egg on Sourdough	=	=1	=1.4500	=173140	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=938	[NULL]	=52	=116	=175040	=P-175040	=Sandwich Cheese Burger Fries	=	=1	=1.9500	=175040	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=939	[NULL]	=52	=116	=176030	=P-176030	=Greek Salad	=	=1	=3.2900	=176030	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=940	[NULL]	=34	=117	=160069	=P-160069	=Chobani Strawberry Greek Yogurt 6oz	=	=1	=0.9700	=160069	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=941	[NULL]	=34	=117	=160070	=P-160070	=Chobani Peach Greek Yogurt 6oz	=	=1	=0.9700	=160070	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=942	[NULL]	=34	=117	=160071	=P-160071	=Chobani Blueberry Greek Yogurt 6oz	=	=1	=0.9700	=160071	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=943	[NULL]	=54	[NULL]	=190015	=P-190015	=Fat Boy Ice Cream Sandwich 5oz	=	=1	=0.4400	=190015	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=944	[NULL]	=52	=118	=170001	=P-170001	=SK Philly Cheese Steak Hoagie	=	=1	=2.1700	=170001	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=945	[NULL]	=52	=118	=170002	=P-170002	=SK Giant Grilled Chicken Sandwich	=	=1	=2.0000	=170002	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=946	[NULL]	=52	=118	=170004	=P-170004	=SK Giant Turkey Breast Sandwich	=	=1	=2.0000	=170004	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=947	[NULL]	=52	=118	=170006	=P-170006	=SK Tuna Hoagie	=	=1	=2.0000	=170006	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=948	[NULL]	=52	=118	=170010	=P-170010	=SK Chicken Salad Sandwich	=	=1	=2.0000	=170010	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=949	[NULL]	=52	=118	=170030	=P-170030	=SK Salad Grilled Chicken	=	=1	=3.0000	=170030	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=950	[NULL]	=52	=118	=170031	=P-170031	=SK Salad Chef	=	=1	=3.0000	=170031	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=951	[NULL]	=52	=116	=171640	=P-171640	=Sandwich Large Philly Steak	=	=1	=1.8500	=171640	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=952	[NULL]	=52	=116	=172450	=P-172450	=Sandwich Large Meatball Sub	=	=1	=1.6500	=172450	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=953	[NULL]	=44	=84	=80033	=P-80033	=Kars Trail Mix Original Unsalted	[NULL]	=1	=0.3600	=80033	[NULL]	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=True	=False	
+=954	[NULL]	=44	=84	=80034	=P-80034	=Kars All Energy Trail Mix Unsalted 2 oz  8952	[NULL]	=1	=0.3800	=80034	[NULL]	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=955	[NULL]	=52	=118	=170005	=P-170005	=SK Giant Po Boy	=	=1	=2.0000	=170005	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=956	[NULL]	=52	=118	=170007	=P-170007	=SK Ham and Cheese	=	=1	=2.0000	=170007	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=957	[NULL]	=53	=37	=180012	=P-180012	=Snapple Green Tea 16oz.	=	=1	=0.8300	=180012	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=958	[NULL]	=53	=37	=180013	=P-180013	=Snapple Kiwi Strawberry 16 oz.	=	=1	=0.8300	=180013	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=959	[NULL]	=53	=37	=180014	=P-180014	=Snapple Lemon Tea 16 oz.	=	=1	=0.8300	=180014	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=960	[NULL]	=53	=37	=180015	=P-180015	=Snapple Peach Tea 16 oz.	=	=1	=0.8300	=180015	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=961	[NULL]	=53	=37	=180016	=P-180016	=Snapple Raspberry Tea 16 oz.	=	=1	=0.8300	=180016	[NULL]	=2	=2	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=962	[NULL]	=53	=37	=180017	=P-180017	=Snapple Diet Peach Tea 16 oz.	=	=1	=0.8300	=180017	[NULL]	=2	=2	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=963	[NULL]	=52	[NULL]	=179185	=P-179185	=Salad Chef ReadyPac	=	=1	=3.2000	=179185	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=964	[NULL]	=52	[NULL]	=179186	=P-179186	=Salad Chicken Caesar ReadyPac	=	=1	=3.2000	=179186	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=965	[NULL]	=52	[NULL]	=179187	=P-179187	=Salad Turkey Bacon Cobb ReadyPac	=	=1	=3.2000	=179187	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=966	[NULL]	=52	[NULL]	=179188	=P-179188	=Salad Santa Fe ReadyPac	=	=1	=3.2000	=179188	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=967	[NULL]	=52	=116	=172355	=P-172355	=Sandwich Grill Chicken Sourdough w L/T	=	=1	=2.0000	=172355	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=968	[NULL]	=53	=18	=50028	=P-50028	=Chips Ahoy Cookies 12 oz.	=	=1	=1.5800	=50028	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=969	[NULL]	=41	=37	=25022	=P-25022	=Snapple Peach Tea 20 oz Plastic Bottle	=	=1	=0.9600	=25022	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=970	[NULL]	=41	=83	=25023	=P-25023	=Pepsi 20oz	=	=1	=0.8500	=25023	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=971	[NULL]	=35	=26	=45068	=P-45068	=LSS Vidalia Sweet Onion Petals 1.35 oz  43009	[NULL]	=1	=0.3900	=45068	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=972	[NULL]	=45	=47	=60050	=P-60050	=Mrs. Freshly Donut Sticks 3 oz  48033450	[NULL]	=1	=0.5100	=60050	[NULL]	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=973	[NULL]	=47	[NULL]	=60051	=P-60051	=Sconza Sour Worms 4oz	=	=1	=0.6000	=60051	[NULL]	=10	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=974	[NULL]	=47	=0	=60052	=P-60052	=Sconza Gummy Bears 4oz  10500	[NULL]	=1	=0.6000	=60052	[NULL]	=10	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=975	[NULL]	=54	=0	=160072	=P-160072	=Owens Sausage Egg & Cheese Burrito  005663	[NULL]	=1	=0.4900	=160072	[NULL]	=2	=4	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=976	[NULL]	=41	=37	=25024	=P-25024	=Dr Pepper Ten 20oz	=	=1	=0.7500	=25024	[NULL]	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=977	[NULL]	=52	=116	=172020	=P-172020	=Single Cheese Burger	=	=1	=1.2000	=172020	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=978	[NULL]	=53	=119	=180018	=P-180018	=GoPicnic Hummus and Crackers	=	=1	=8.0000	=180018	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=979	[NULL]	=53	=18	=180019	=P-180019	=Belvita Blueberry 1.76oz  00440000290800	[NULL]	=1	=0.7400	=180019	[NULL]	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=980	[NULL]	=35	=85	=45069	=P-45069	=LSS Ruffles Ultimate BBQ 1.5 oz.  14814	[NULL]	=1	=0.4200	[NULL]	[NULL]	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=981	[NULL]	=11	=0	=50029	[NULL]	=Sunmaid Cookie Oatmeal Raisin Apple 2 oz.  59861	=2 oz.	=60	=0.3160	[NULL]	=6 months	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=982	[NULL]	=45	=17	=80035	[NULL]	=Mrs. Freshley Pink Snowballs 4.5 oz.	=4.5 oz.	=48	=0.5270	=	=3 weeks	=10	=4	=2	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=983	[NULL]	=45	=24	=80036	[NULL]	=Cloverhill Blueberry Blasters  43100	=4 oz.	=36	=0.5180	[NULL]	=3 weeks	=10	=4	=2	[NULL]	[NULL]	=False	[NULL]	=True	=False	=False	
+=984	[NULL]	=56	=6	=180020	[NULL]	=Aleve 2's	=2	=6	=0.8800	=	=one year	=10	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=985	[NULL]	=56	=6	=180021	[NULL]	=Advil Pain 4 Tablets	=4	=6	=0.9900	=	=one year	=10	=6	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=986	[NULL]	=56	=6	=180022	[NULL]	=10 1/6' Plate	=170	=170	=12.9800	=	=one year	=17	=2	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=987	[NULL]	=56	=0	=200006	[NULL]	=SunMaid Raisin 1 oz.	=1 oz.	=6	=0.4500	=	=one year	=17	=6	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=988	[NULL]	=25	=5	=10041	[NULL]	=Minute Maid Fruit Punch 12oz can	=12oz	=24	=0.3400	=10041	=6 months	=1	=2	=1	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=989	[NULL]	=54	=16	=190016	[NULL]	=Mars Ice Cream Variety Pack	[NULL]	=18	=0.4400	[NULL]	=6 months	=17	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=990	[NULL]	=54	=19	=190017	[NULL]	=DrumStick Ice Cream Cone  136096	=4.6 oz	=16	=0.6200	[NULL]	=6 months	=17	=3	=2	=1	[NULL]	=False	[NULL]	=False	=False	=False	
+=991	[NULL]	=11	=8	=50030	[NULL]	=Grandma Big Oatmeal Raisin Cookie 2.5oz  45093	=2.5 oz.	=60	=0.2960	[NULL]	=6 months	=6	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=992	[NULL]	=50	=9	=90025	[NULL]	=Nature Valley Sweet & Salty Almond	=1.2 oz	=30	=0.2830	[NULL]	=6 months	=5	=4	=2	=1	[NULL]	=False	[NULL]	=False	=False	=False	
+=993	[NULL]	=54	=5	=190018	[NULL]	=Minute Maid Fozen Lemonade 8 oz 223408	=8 oz.	=12	=0.6900	[NULL]	=12 months	=17	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=994	[NULL]	=54	=68	=190019	[NULL]	=Tony's Pepperoni Pizza Singles 670805	=6 oz	=10	=1.0000	[NULL]	=8 months	=17	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=995	[NULL]	=13	=10	=30045	[NULL]	=Hershey's Cookies 'n Cream  52405	=1.55 oz.	=36	=0.5500	[NULL]	=one year	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=996	[NULL]	=45	=24	=60053	[NULL]	=Glazed Chocolate Double Donut 4oz 43640	[NULL]	=36	=0.4700	=60053	=4 WEEKS	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=997	[NULL]	=13	=0	=80037	[NULL]	=Corn Nuts - Ranch  00711590205200	=1.4 oz.	=36	=0.4000	[NULL]	=six months	=4	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=998	[NULL]	=54	=19	=190020	[NULL]	=Lean Cuisine 5 Cheese Rigatoni	=10oz	=1	=1.8800	=190020	=6 MONTHS	=2	=4	[NULL]	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=999	[NULL]	=54	=0	=190021	[NULL]	=lean cuisine french bread pepperoni pizza	=5.25 oz	=1	=1.8800	[NULL]	=6 months	=17	=6	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1000	[NULL]	=54	=19	=190022	[NULL]	=Stouffers macaroni & cheese	=12 oz.	=1	=1.8400	[NULL]	=six months	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1001	[NULL]	=54	=19	=190023	[NULL]	=Stouffers Lasagna 11.5oz	=11.1 oz	=1	=2.5000	[NULL]	=6 months	=2	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1002	[NULL]	=53	=6	=190024	[NULL]	=Healthy Choice Turkey Sweet Potatoes	[NULL]	=1	=2.0000	=190024	=1 YEAR	=2	=4	[NULL]	=2	[NULL]	=False	[NULL]	=False	=False	=False	
+=1003	[NULL]	=13	=19	=30046	[NULL]	=Raisinets 1.58oz 492837	[NULL]	=36	=0.5500	=30046	=180 days	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1004	[NULL]	=53	=0	=190025	[NULL]	=Sliced Apples and Caramel	[NULL]	=1	=1.0000	=190025	=21 Days	=2	=4	[NULL]	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1005	[NULL]	=53	=0	=190026	[NULL]	=Carrots and Ranch Dip	=2.75oz	=1	=1.0000	=190026	=21 Days	=2	=4	[NULL]	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1006	[NULL]	=50	=14	=80038	[NULL]	=Lance Whole Grain Crackers	[NULL]	=36	=0.2400	=80038	=120	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1007	[NULL]	=18	=102	=150013	[NULL]	=V-8 Splash 224397	=16 oz	=12	=0.8300	[NULL]	=six months	=16	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1008	[NULL]	=54	=0	=190027	[NULL]	=Marie Calendar Pot Roast	[NULL]	=1	=2.0000	=190027	=six months	=17	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1009	[NULL]	=52	=0	=190028	[NULL]	=Apple with Peanut Butter Dippin Stix	[NULL]	=1	=1.0000	=190028	=three weeks	=17	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1010	[NULL]	=50	=14	=80039	[NULL]	=Lance Toast Chee PB Cracker 1.5oz 142024	[NULL]	=40	=0.1700	=80039	=120 days	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1011	[NULL]	=39	=5	=25025	[NULL]	=Minute Maid Orange Juice 10 oz. 355940	=10 oz	=24	=0.5600	[NULL]	=3 months	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1012	[NULL]	=39	=5	=25026	[NULL]	=Minute Maid Apple Juice 10 oz.  349237	=10 oz.	=24	=0.5400	[NULL]	=3 months	=16	=5	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1013	[NULL]	=50	=18	=90026	[NULL]	=Fig Newton 2 oz. 222616	=2 oz	=24	=0.3400	[NULL]	=4 months	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1014	[NULL]	=53	=0	=180023	[NULL]	=Flipz White Fudge Pretzels 5 oz.	=5 oz.	=1	=1.9300	=180023	=8 months	=2	=3	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1015	[NULL]	=50	=14	=80040	[NULL]	=Lance Toasty Crackers 1 1/4 oz.  142066	=1.25 oz.	=40	=0.1700	[NULL]	=4 months	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1016	[NULL]	=26	=5	=25027	[NULL]	=Minute Maid CranGrape 15.2 oz.  4785	=15.2 oz	=24	=0.7700	[NULL]	=4 months	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1017	[NULL]	=54	=19	=190029	[NULL]	=Skinny Cow Chocolate Ice Cream Sandwich	=4 oz	=10	=0.5000	[NULL]	=6 months	=2	=6	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1018	[NULL]	=35	=120	=45070	[NULL]	=PopChips Sweet Potato 0.8oz 700009	=0.8 oz	=72	=0.5700	=45070	=60	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1019	[NULL]	=50	=14	=50031	[NULL]	=VanOLunch Cookies 1.65oz	=1.65oz	=120	=0.2100	=50031	=180 days	=5	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1020	[NULL]	=52	=0	=160073	[NULL]	=Yoplait Fruplait	=4 oz.	=12	=0.4600	[NULL]	=4 weeks	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=1021	[NULL]	=53	=19	=190030	[NULL]	=Stouffers Lasagna 19oz	=19oz	=1	=2.0000	=190030	=12 months	=2	=4	[NULL]	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1022	[NULL]	=15	=116	=177320	[NULL]	=Turkey and Swiss Cheese Hoagie	[NULL]	=1	=2.9500	[NULL]	=7 days	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1023	[NULL]	=28	=80	=110015	[NULL]	=La Croix Lemon 12 oz	=12oz	=24	=0.3600	=110015	=365 days	=1	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1024	[NULL]	=50	=11	=80041	[NULL]	=Next Thin Snack Product	=2oz	=24	=0.3700	=80041	=180 days	=5	=4	[NULL]	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1025	[NULL]	=28	=80	=110016	[NULL]	=La Croix Lime 12oz can 151525	=12oz	=24	=0.3600	=110016	=365 days	=14	=1	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1026	[NULL]	=53	=0	=180024	[NULL]	=Flipz Milk Chocolate Pretzels 5oz	=5oz	=1	=1.0000	=180024	=8 months	=16	=4	[NULL]	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1027	[NULL]	=51	=0	=90027	[NULL]	=Appleways Apple 1.2oz 70120	=1.2 oz	=72	=0.2800	=90027	=90 days	=5	=4	=1	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1028	[NULL]	=35	=8	=45071	[NULL]	=Lays Cheesy Garlic Bread 1.5oz 23399	=1.5oz	=64	=0.4200	=45071	=45 days	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1029	[NULL]	=52	=121	=910625	[NULL]	=SF Chicken Salad on Italian Wheat	=4.4 oz.	=1	=1.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1030	[NULL]	=52	=121	=910632	[NULL]	=SF Tuna Salad on Italian Wheat	=4.3 oz.	=1	=1.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1031	[NULL]	=52	=121	=910649	[NULL]	=SF Ham & AMerican on Italian Wheat	=5.2 oz.	=1	=1.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1032	[NULL]	=52	=121	=910656	[NULL]	=SF Turkey & American on Italian Wheat	=5.2 oz.	=1	=1.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1033	[NULL]	=52	=121	=910557	[NULL]	=SF All American Foot Long	=9.02 oz.	=1	=2.7000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1034	[NULL]	=52	=121	=910045	[NULL]	=SF Turkey and Cheddar Hoagie	=7.3 oz.	=1	=2.6000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1035	[NULL]	=52	=121	=910052	[NULL]	=SF Ham and Cheddar Hoagie	=7.3 oz.	=1	=2.6000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1036	[NULL]	=15	=121	=910533	[NULL]	=SF Roast Beef Hoagie	=6.4 oz.	=1	=2.6000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1037	[NULL]	=15	=121	=910144	[NULL]	=SF Ham and Swiss Sandwich	=7.5 oz.	=1	=2.2500	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1038	[NULL]	=15	=121	=910113	[NULL]	=SF Peanut Butter, Jelly and Granola	=9.4 oz.	=1	=2.2500	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1039	[NULL]	=15	=121	=910212	[NULL]	=SF Club Sandwich	=7.1 oz.	=1	=2.3500	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1040	[NULL]	=15	=121	=910137	[NULL]	=SF Turkey and Cheddar Sandwich	=8.6 oz.	=1	=2.4000	[NULL]	=5 days	=2	=6	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1041	[NULL]	=52	=121	=910182	[NULL]	=SF Original Chicken Salad on Texas Toast	=7.4 oz.	=1	=2.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1042	[NULL]	=52	=121	=910311	[NULL]	=SF Chicken Salad on 9 Grain Bread	=7.4 oz.	=1	=2.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1043	[NULL]	=52	=121	=910175	[NULL]	=SF Tuna Salad on Wheat Berry	=7.4 oz.	=1	=2.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1044	[NULL]	=26	=37	=25028	[NULL]	=Diet AW Root Beer 20oz	=20oz	=24	=0.7000	=25028	=60 days	=3	=2	=2	=3	[NULL]	=False	[NULL]	=True	=False	=False	
+=1045	[NULL]	=54	=0	=190031	[NULL]	=Banana Dippers 76922	=.55 oz	=20	=0.4900	[NULL]	=6 months	=2	=3	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1046	[NULL]	=52	=121	=910281	[NULL]	=SF Honey Pecan Chicken Salad JalapenoCornBread	=8.2 oz.	=1	=2.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1047	[NULL]	=52	=121	=910298	[NULL]	=SF Italian on Ciabatta	=8.5 oz.	=1	=2.9000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1048	[NULL]	=52	=121	=910236	[NULL]	=SF Pulled Pork on Jalapeno Cheese Bun	=8.8 oz.	=1	=3.0000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1049	[NULL]	=52	=121	=910755	[NULL]	=SF Cubano Sandwich	=10.01 oz.	=1	=2.8000	[NULL]	=5 oz.	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1050	[NULL]	=52	=121	=910731	[NULL]	=SF Rajin Cajun Sandwich	=10 oz	=1	=2.8000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1051	[NULL]	=52	=121	=910243	[NULL]	=SF CAB Pastrami Hoagie	=9 oz	=1	=3.4000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1052	[NULL]	=52	=121	=910496	[NULL]	=SF Chicken Monterey	=7.4 oz.	=1	=3.0000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1053	[NULL]	=52	=121	=901048	[NULL]	=SF CAB Roast Beef & Rye	=7.5 oz.	=1	=3.7500	[NULL]	=5 days	=2	=6	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1054	[NULL]	=52	=121	=901047	[NULL]	=SF The Black Russian	=8.6 oz.	=1	=3.7500	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1055	[NULL]	=52	=121	=910120	[NULL]	=SF CAB Jalapeno Rio Roast Beef	=9.4 oz.	=1	=3.8000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1056	[NULL]	=52	=121	=910168	[NULL]	=SF Turkey Wrap	=8.9 oz.	=1	=2.8000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1057	[NULL]	=52	=121	=910151	[NULL]	=SF Ham Wrap	=8.9 oz.	=1	=2.8000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1058	[NULL]	=52	=121	=910786	[NULL]	=SF Cool Cucumber Hummus Wrap	=8 oz.	=1	=2.8000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1059	[NULL]	=52	=121	=910724	[NULL]	=SF Spinach Mozzarella Wrap	=7.25 oz.	=1	=3.1000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1060	[NULL]	=52	=121	=910779	[NULL]	=SF Southwest Style Bacon, Lettuce, Tomato Wrap	=7.4 oz.	=1	=3.1000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1061	[NULL]	=52	=121	=910762	[NULL]	=SF Whole Wheat Club Wrap	=9.4 oz.	=1	=3.1000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1062	[NULL]	=52	=121	=910687	[NULL]	=SF Garden Salad	=5 oz.	=1	=2.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1063	[NULL]	=52	=121	=910595	[NULL]	=SF Mixed Berry Salad	=5.1 oz.	=1	=2.6000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=False	=False	=False	
+=1064	[NULL]	=52	=121	=910717	[NULL]	=SF Chef Salad	=7.5 oz.	=1	=3.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1065	[NULL]	=52	=121	=910618	[NULL]	=SF Spinach Salad with Bacon	=8 oz.	=1	=3.5000	[NULL]	=5 days	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1066	[NULL]	=52	=121	=910694	[NULL]	=SF Chicken Caesar Salad	=7.5 oz.	=1	=3.7000	[NULL]	=5 days	=2	=6	=1	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1067	[NULL]	=23	=43	=40080	[NULL]	=Snyder's Hot Buffalo Wing	=1 oz.	=72	=0.2700	[NULL]	=6 weeks	=8	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1068	[NULL]	=13	=0	=30047	[NULL]	=Russell Sugar Free Pecan Delight	=1 oz.	=30	=0.6100	[NULL]	=5 months	=4	=3	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1069	[NULL]	=54	=0	=160074	[NULL]	=Burry Bagel with Cream Cheese	=4.7 oz.	=24	=0.8300	[NULL]	=3 weeks	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1070	[NULL]	=54	=0	=160075	[NULL]	=Jimmy Dean Delights Turkey Sausage Muffin	=5.1 oz.	=12	=1.0000	[NULL]	=6 months	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1071	[NULL]	=53	=99	=120020	[NULL]	=Apple Cinnamon Oatmeal	=1.51 oz	=24	=0.8500	[NULL]	=6 months	=2	=6	=2	=2	[NULL]	=False	[NULL]	=True	=True	=False	
+=1072	[NULL]	=53	=0	=30048	[NULL]	=Kind Bars	=1.4 oz.	=18	=1.0500	[NULL]	=8 months	=7	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1073	[NULL]	=35	=59	=45072	[NULL]	=LSS Guacachip Tortilla Chip 1.5 oz 274064	=1.5 oz.	=60	=0.3900	[NULL]	=2 months	=9	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1074	[NULL]	=53	=0	=180025	[NULL]	=Sabra Hummus with Pretzel 4.56 oz. 01195	=4.56 oz.	=12	=1.7900	[NULL]	=2 months	=2	=4	=2	=2	[NULL]	=False	[NULL]	=True	=False	=False	
+=1075	[NULL]	=35	=8	=45073	[NULL]	=LSS Miss Vickies Sea Salt Vinegar 1.375oz 44446	=1.375	=64	=0.4500	=45073	=45 days	=9	=4	[NULL]	=1	[NULL]	=False	[NULL]	=True	=False	=False	
+=1076	[NULL]	=45	=0	=60054	[NULL]	=Sugar Donuts 3 oz 766136	=3 oz.	=12	=0.4300	[NULL]	=6 weeks	=10	=4	=2	=1	[NULL]	=False	[NULL]	=True	=False	=False	

@@ -1,0 +1,10 @@
+{
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [],
+  "ErrorKeys": [
+    4
+  ],
+  "ErrorMessages": [
+    "'Repeat Every' should not exceed 10 years"
+  ]
+}

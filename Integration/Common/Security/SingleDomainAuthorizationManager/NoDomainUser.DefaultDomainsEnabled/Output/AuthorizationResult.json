@@ -1,0 +1,6 @@
+{
+  "Principal": null,
+  "NotVerifiedUserEmail": null,
+  "Successful": false,
+  "ErrorMessage": "User has no default domain."
+}

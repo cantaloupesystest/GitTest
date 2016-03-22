@@ -1,0 +1,480 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Manufacturer",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Size",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Unit Cost",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Pick Order",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Case Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Case Barcode(s)",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Box Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Box Barcode(s)",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Each Barcode(s)",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Custom Pack",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Custom Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Custom Barcode(s)",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Auto-Transfer",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Invoice-Only",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Coca-Cola",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Coca-Cola",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Dr Pepper",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Dr Pepper",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: HEB",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: HEB",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Kar's",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Kar's",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Kroger",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Kroger",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Merchant's Mart",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Merchant's Mart",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Poppa D Nuts",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Poppa D Nuts",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Randalls",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Randalls",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Road Runner Distributing",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Road Runner Distributing",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Sam's Club",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Sam's Club",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Sandwich King",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Sandwich King",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Silver Eagle",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Silver Eagle",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Vistar",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Vistar",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier: Walmart",
+        "SorterName": null,
+        "CssClassName": null
+      },
+      {
+        "Name": "Supplier Code: Walmart",
+        "SorterName": "text",
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "10000499",
+          "Powerade Lemon Lime  599499",
+          "Sports Drink",
+          "Coca Cola",
+          null,
+          24,
+          0.59,
+          "100004",
+          24,
+          "49044303697",
+          null,
+          null,
+          "49008803697",
+          null,
+          null,
+          null,
+          true,
+          false,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null,
+          true,
+          null
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10000499",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Lemon Lime  599499",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          },
+          {
+            "Value": "100004",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "49044303697",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "49008803697",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": "No",
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": []
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Branch",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Code",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Address",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "City",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "State",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Country",
+        "SorterName": "text",
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "Customer Import/Export First Branch (FB)",
+          "NameUniqnessBetweenBranch",
+          "UPC ",
+          "Address ",
+          "City ",
+          "TX",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "Customer Import/Export First Branch (FB)",
+            "OldValue": null
+          },
+          {
+            "Value": "NameUniqnessBetweenBranch",
+            "OldValue": null
+          },
+          {
+            "Value": "UPC ",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "TX",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Imort/Export Second Branch (SB)",
+          "NameUniqnessBetweenBranch",
+          "UPC ",
+          "Address ",
+          "City ",
+          "TX",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "Customer Imort/Export Second Branch (SB)",
+            "OldValue": null
+          },
+          {
+            "Value": "NameUniqnessBetweenBranch",
+            "OldValue": null
+          },
+          {
+            "Value": "UPC ",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "TX",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Non Existing Branch",
+          "Name 4",
+          null,
+          "Address ",
+          "City ",
+          "NY",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [
+          "'Branch' must exist."
+        ],
+        "Values": [
+          {
+            "Value": "Non Existing Branch",
+            "OldValue": null
+          },
+          {
+            "Value": "Name 4",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          null,
+          "Name 5",
+          null,
+          "Address ",
+          "City ",
+          "NY",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 5,
+        "Errors": [
+          "'Branch' required."
+        ],
+        "Values": [
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Name 5",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export First Branch (FB)",
+          "Name 6",
+          null,
+          "Address ",
+          "City ",
+          "NY",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 6,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Customer Import/Export First Branch (FB)",
+            "OldValue": null
+          },
+          {
+            "Value": "Name 6",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export First Branch (FB)",
+          "Name 6",
+          null,
+          "Address ",
+          "City ",
+          "NY",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 7,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Customer Import/Export First Branch (FB)",
+            "OldValue": null
+          },
+          {
+            "Value": "Name 6",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export First Branch (FB)",
+          "Name 8",
+          "Code 8",
+          "Address ",
+          "City ",
+          "NY",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 8,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Customer Import/Export First Branch (FB)",
+            "OldValue": null
+          },
+          {
+            "Value": "Name 8",
+            "OldValue": null
+          },
+          {
+            "Value": "Code 8",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export First Branch (FB)",
+          "Name 9",
+          "Code 8",
+          "Address ",
+          "City ",
+          "NY",
+          "United States"
+        ],
+        "SourceDocumentRowNumber": 9,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Customer Import/Export First Branch (FB)",
+            "OldValue": null
+          },
+          {
+            "Value": "Name 9",
+            "OldValue": null
+          },
+          {
+            "Value": "Code 8",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/Customer/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

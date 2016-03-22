@@ -1,0 +1,9 @@
+Id	PaymentDate	CustomerId	LocationId	MachineId	PaymentMethod	AmountInCents	AllocatedAmountInCents	ReferenceNumber	Description	DeletedUtcDateTime	DeletedByUserId	
+=1000	=02/20/2014 00:00:00	[NULL]	[NULL]	=999999	=UNK	=119811	=119811	[NULL]	=Created automatically to account for payment recorded on 2014-02-20.	[NULL]	[NULL]	
+=1001	=02/20/2014 00:00:00	[NULL]	[NULL]	=999997	=UNK	=54895	=54895	[NULL]	=Created automatically to account for payment recorded on 2014-02-20.	[NULL]	[NULL]	
+=1006	=03/04/2015 00:00:00	=1002	[NULL]	[NULL]	=ICR	=32004	=0	=I1003	=This payment was created automatically from an invoice with a negative balance	=01/30/2014 20:00:00	=3363	
+=1007	=03/04/2015 00:00:00	=1002	[NULL]	[NULL]	=ICH	=-32004	=0	=I1003	=This payment was created automatically from an invoice with a negative balance	=01/30/2014 20:00:00	=3363	
+=1008	=02/24/2014 00:00:00	=1004	[NULL]	[NULL]	=ICR	=2060	=0	=I1013	=This payment was created automatically from an invoice with a negative balance	[NULL]	[NULL]	
+=1009	=02/24/2014 00:00:00	=1004	[NULL]	[NULL]	=ICH	=-2060	=0	=I1013	=This payment was created automatically from an invoice with a negative balance	[NULL]	[NULL]	
+=1010	=02/24/2014 00:00:00	=1003	[NULL]	[NULL]	=ICR	=3828	=0	=I1010	=This payment was created automatically from an invoice with a negative balance	[NULL]	[NULL]	
+=1011	=02/24/2014 00:00:00	=1003	[NULL]	[NULL]	=ICH	=-3828	=0	=I1010	=This payment was created automatically from an invoice with a negative balance	[NULL]	[NULL]	

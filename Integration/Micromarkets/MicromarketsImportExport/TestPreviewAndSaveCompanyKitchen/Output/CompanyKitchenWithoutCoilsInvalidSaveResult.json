@@ -1,0 +1,862 @@
+{
+  "Rows": [
+    {
+      "OriginalValues": [
+        "100",
+        "A",
+        "A",
+        5,
+        3,
+        3,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 2,
+      "Errors": [
+        "'BusinessId' doesn't match current MicromarketId."
+      ],
+      "Values": [
+        {
+          "Value": "100",
+          "OldValue": null
+        },
+        {
+          "Value": "A",
+          "OldValue": null
+        },
+        {
+          "Value": "A",
+          "OldValue": null
+        },
+        {
+          "Value": "5",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "ck2-K",
+        "B",
+        5,
+        3,
+        3,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 3,
+      "Errors": [
+        "Import is not allowed for 'Kiosk'."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "ck2-K",
+          "OldValue": null
+        },
+        {
+          "Value": "B",
+          "OldValue": null
+        },
+        {
+          "Value": "5",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "NotExistingAssetID",
+        "K",
+        819,
+        3,
+        3,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 4,
+      "Errors": [
+        "'AssetId' must exist."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "NotExistingAssetID",
+          "OldValue": null
+        },
+        {
+          "Value": "K",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "A",
+        819,
+        3,
+        4,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 5,
+      "Errors": [
+        "'Reorder Point' must be equal to or less than 'Max'."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "A",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "4",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "B",
+        -1,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 6,
+      "Errors": [
+        "'Item Code' must exist."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "B",
+          "OldValue": null
+        },
+        {
+          "Value": "-1",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "C",
+        819,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 7,
+      "Errors": [
+        "Is a duplicate row."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "C",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "C",
+        819,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 8,
+      "Errors": [
+        "Is a duplicate row."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "C",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "D",
+        819,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 9,
+      "Errors": [
+        "Duplicate 'Item Code' 819 in /E2, NotExistingAssetID/K, SectionWithoutCoilsCK/, SectionWithoutCoilsCK/A, SectionWithoutCoilsCK/C, SectionWithoutCoilsCK/C, SectionWithoutCoilsCK/E1, SectionWithoutCoilsCK/E4, SectionWithoutCoilsCK/E5, SectionWithoutCoilsCK/E6, SectionWithoutCoilsCK/Y, SectionWithoutCoilsCK/Z."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "D",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "X",
+        820,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 10,
+      "Errors": [
+        "Item 'DeletedItem' is not active."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "X",
+          "OldValue": null
+        },
+        {
+          "Value": "820",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "Y",
+        819,
+        3,
+        2,
+        0.0
+      ],
+      "SourceDocumentRowNumber": 11,
+      "Errors": [
+        "'Price' must be between $0.01 and $30.00."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "Y",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$0.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "Z",
+        819,
+        3,
+        2,
+        30.01
+      ],
+      "SourceDocumentRowNumber": 12,
+      "Errors": [
+        "'Price' must be between $0.01 and $30.00."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "Z",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$30.01",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        null,
+        "SectionWithoutCoilsCK",
+        "E1",
+        819,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 13,
+      "Errors": [
+        "'BusinessId' required."
+      ],
+      "Values": [
+        {
+          "Value": null,
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "E1",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        null,
+        "E2",
+        819,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 14,
+      "Errors": [
+        "'AssetId' required."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": null,
+          "OldValue": null
+        },
+        {
+          "Value": "E2",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        null,
+        819,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 15,
+      "Errors": [
+        "'Coil' required."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": null,
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "E3",
+        null,
+        3,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 16,
+      "Errors": [
+        "'Item Code' required."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "E3",
+          "OldValue": null
+        },
+        {
+          "Value": null,
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "E4",
+        819,
+        null,
+        2,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 17,
+      "Errors": [
+        "'Max' required."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "E4",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": null,
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "E5",
+        819,
+        3,
+        null,
+        3.0
+      ],
+      "SourceDocumentRowNumber": 18,
+      "Errors": [
+        "'Reorder Point' required."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "E5",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": null,
+          "OldValue": null
+        },
+        {
+          "Value": "$3.00",
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "E6",
+        819,
+        3,
+        2,
+        null
+      ],
+      "SourceDocumentRowNumber": 19,
+      "Errors": [
+        "'Price' required."
+      ],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "E6",
+          "OldValue": null
+        },
+        {
+          "Value": "819",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": null,
+          "OldValue": null
+        }
+      ]
+    },
+    {
+      "OriginalValues": [
+        "CK2",
+        "SectionWithoutCoilsCK",
+        "F",
+        1,
+        3,
+        2,
+        3.56
+      ],
+      "SourceDocumentRowNumber": 20,
+      "Errors": [],
+      "Values": [
+        {
+          "Value": "CK2",
+          "OldValue": null
+        },
+        {
+          "Value": "SectionWithoutCoilsCK",
+          "OldValue": null
+        },
+        {
+          "Value": "F",
+          "OldValue": null
+        },
+        {
+          "Value": "1",
+          "OldValue": null
+        },
+        {
+          "Value": "3",
+          "OldValue": null
+        },
+        {
+          "Value": "2",
+          "OldValue": null
+        },
+        {
+          "Value": "$3.56",
+          "OldValue": null
+        }
+      ]
+    }
+  ],
+  "RedirectUrl": null,
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+  ]
+}

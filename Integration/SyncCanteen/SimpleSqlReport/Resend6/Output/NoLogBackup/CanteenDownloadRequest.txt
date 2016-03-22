@@ -1,0 +1,13 @@
+Id	IsRecentCreatedUtcDateTime	CreatedByUserId	AttemptsCount	CompletedUtcDateTime	CatalogId	RouteImportId	ScheduleDateOnly	CanteenErrorCode	ErrorMessage	ResendReason	
+=160	=False	=3369	=2	=07/14/2014 13:17:04	=779	=2223	=07/12/2014 00:00:00	[NULL]	=Schedule date 07/12/2014 00:00:00 cannot be in past.	[NULL]	
+=161	=False	=3369	=2	[NULL]	=779	=2223	=07/15/2014 00:00:00	[NULL]	=The remote name could not be resolved: 'xxx'	[NULL]	
+=162	=False	=3369	=2	=07/14/2014 18:01:34	=779	=633	=07/15/2014 00:00:00	[NULL]	=The remote name could not be resolved: 'xxx'	[NULL]	
+=163	=False	=3369	=1	[NULL]	=779	=633	=07/16/2014 00:00:00	[NULL]	=The remote name could not be resolved: 'xxx'	[NULL]	
+=164	=False	=3369	=0	[NULL]	=779	=1558	=07/16/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=165	=False	=3369	=0	[NULL]	=779	=2920	=07/16/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=166	=False	=3369	=0	[NULL]	=779	=2920	=07/16/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=167	=False	=3369	=0	[NULL]	=779	=2389	=07/16/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=168	=False	=3369	=0	[NULL]	=779	=2935	=07/15/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=169	=False	=3369	=0	[NULL]	=779	=2910	=07/16/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=170	=False	=3369	=0	[NULL]	=779	=2910	=07/17/2014 00:00:00	[NULL]	[NULL]	[NULL]	
+=171	=False	=3369	=0	[NULL]	=779	=2910	=07/18/2014 00:00:00	[NULL]	[NULL]	[NULL]	

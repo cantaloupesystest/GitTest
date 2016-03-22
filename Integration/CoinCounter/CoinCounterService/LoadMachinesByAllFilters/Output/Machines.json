@@ -1,0 +1,24 @@
+[
+  {
+    "AssetId": "#12",
+    "BagNumber": null,
+    "CoinRefillAmountInCents": 0,
+    "CoinsInTubeAmountInCents": null,
+    "CollectedBillsAmountInCents": 13,
+    "CollectedCoinsAmountInCents": 51,
+    "CollectedTokensCount": 0,
+    "CollectedTokensValueInCents": 0,
+    "CurrentMachineCollectionDetailId": null,
+    "LocationName": "TMCC Main Facilities",
+    "MachineCollectionId": null,
+    "MachineId": 22,
+    "MachineType": "Vendo V540",
+    "Place": "Facilities",
+    "RefundAmountInCents": 0,
+    "RouteDescription": "TMCC Off Site - 2",
+    "ScheduleDate": "2013-08-21T00:00:00",
+    "Scheduled": false,
+    "TestVendAmountInCents": null,
+    "IsNonRevenue": false
+  }
+]

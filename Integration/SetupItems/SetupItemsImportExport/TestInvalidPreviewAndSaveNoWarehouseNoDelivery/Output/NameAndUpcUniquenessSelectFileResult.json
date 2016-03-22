@@ -1,0 +1,244 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Manufacturer",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Unit Cost",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "10000499",
+          "Powerade Lemon Lime  599499",
+          "Sports Drink99",
+          "Coca Cola99",
+          249,
+          99.0
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "10000499",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Lemon Lime  599499",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink99",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola99",
+            "OldValue": null
+          },
+          {
+            "Value": "249",
+            "OldValue": null
+          },
+          {
+            "Value": "$99.00",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10000499",
+          "Powerade Fruit Punch  5995",
+          "Sports Drink8",
+          "Coca Cola",
+          24,
+          0.59
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "10000499",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Fruit Punch  5995",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink8",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100006",
+          "Powerade Mountain Berry Blast  4035",
+          "Sports Drink",
+          "Coca Cola",
+          5,
+          0.59
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [
+          "'Name' must be unique."
+        ],
+        "Values": [
+          {
+            "Value": "100006",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Mountain Berry Blast  4035",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "5",
+            "OldValue": "24"
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10001",
+          "Powerade Mountain Berry Blast  4035",
+          "Soft Drink - can",
+          "Coca Cola",
+          24,
+          1.0
+        ],
+        "SourceDocumentRowNumber": 5,
+        "Errors": [
+          "'Name' must be unique."
+        ],
+        "Values": [
+          {
+            "Value": "10001",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Mountain Berry Blast  4035",
+            "OldValue": "Diet Coke 12oz can 1003"
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$1.00",
+            "OldValue": "$0.36"
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10002",
+          "7 Up 12oz can 109712",
+          "Soft Drink - can",
+          "Beverage",
+          50,
+          2.0
+        ],
+        "SourceDocumentRowNumber": 6,
+        "Errors": [
+          "'Name' must be unique."
+        ],
+        "Values": [
+          {
+            "Value": "10002",
+            "OldValue": null
+          },
+          {
+            "Value": "7 Up 12oz can 109712",
+            "OldValue": "Dr Pepper 12oz can"
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": "Dr. Pepper"
+          },
+          {
+            "Value": "50",
+            "OldValue": "24"
+          },
+          {
+            "Value": "$2.00",
+            "OldValue": "$0.30"
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

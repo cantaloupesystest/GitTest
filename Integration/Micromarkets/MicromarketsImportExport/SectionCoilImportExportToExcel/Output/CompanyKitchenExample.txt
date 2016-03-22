@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Section Coils",
+    "Columns": [
+      {
+        "Caption": "BusinessId",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "AssetId",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Coil",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Item Code",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Max",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Reorder Point",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Price",
+        "DataFormat": null,
+        "WrapText": false
+      }
+    ],
+    "Rows": [],
+    "Description": null
+  }
+]

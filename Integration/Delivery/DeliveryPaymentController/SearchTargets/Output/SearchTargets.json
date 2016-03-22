@@ -1,0 +1,104 @@
+[
+  {
+    "Customer": {
+      "Id": 1156,
+      "Name": "Delivery 1"
+    },
+    "Location": null,
+    "Machine": null,
+    "UnpaidAmount": 109.11
+  },
+  {
+    "Customer": {
+      "Id": 1157,
+      "Name": "Delivery 2"
+    },
+    "Location": null,
+    "Machine": null,
+    "UnpaidAmount": null
+  },
+  {
+    "Customer": null,
+    "Location": {
+      "Id": 1161,
+      "Name": "Delivery 1"
+    },
+    "Machine": null,
+    "UnpaidAmount": 109.11
+  },
+  {
+    "Customer": null,
+    "Location": {
+      "Id": 1162,
+      "Name": "Delivery 2"
+    },
+    "Machine": null,
+    "UnpaidAmount": null
+  },
+  {
+    "Customer": null,
+    "Location": null,
+    "Machine": {
+      "Id": 999945,
+      "AssetId": "Del Point 1",
+      "Location": "Delivery 1",
+      "Place": null
+    },
+    "UnpaidAmount": 109.11
+  },
+  {
+    "Customer": null,
+    "Location": null,
+    "Machine": {
+      "Id": 999944,
+      "AssetId": "Del Point 2",
+      "Location": "Delivery 1",
+      "Place": null
+    },
+    "UnpaidAmount": null
+  },
+  {
+    "Customer": null,
+    "Location": null,
+    "Machine": {
+      "Id": 1192859,
+      "AssetId": "Del Point 3",
+      "Location": "Delivery 2",
+      "Place": null
+    },
+    "UnpaidAmount": null
+  },
+  {
+    "Customer": null,
+    "Location": null,
+    "Machine": {
+      "Id": 1192860,
+      "AssetId": "Del Point 4",
+      "Location": "Delivery 2",
+      "Place": null
+    },
+    "UnpaidAmount": null
+  },
+  {
+    "Customer": null,
+    "Location": null,
+    "Machine": {
+      "Id": 1192861,
+      "AssetId": "Del Point 5",
+      "Location": "Delivery 2",
+      "Place": null
+    },
+    "UnpaidAmount": null
+  },
+  {
+    "Customer": null,
+    "Location": null,
+    "Machine": {
+      "Id": 1192862,
+      "AssetId": "Del Point 6",
+      "Location": "Delivery 2",
+      "Place": null
+    },
+    "UnpaidAmount": null
+  }
+]

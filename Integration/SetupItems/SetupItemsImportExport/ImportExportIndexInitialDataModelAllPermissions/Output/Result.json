@@ -1,0 +1,283 @@
+{
+  "PageTitle": null,
+  "FileUploadUrl": "/SetupItems/ImportExportSelectFile",
+  "ExcelExportInitialData": {
+    "InitializeDownloadUrl": "/SetupItems/ImportInitializeExportToExcel",
+    "DownloadUrl": "/SetupItems/ImportExportToExcel"
+  },
+  "ExportColumns": [
+    {
+      "Name": "Branch",
+      "Caption": "Branch",
+      "IsColumnRequired": true
+    },
+    {
+      "Name": "UPC",
+      "Caption": "UPC",
+      "IsColumnRequired": true
+    },
+    {
+      "Name": "Name",
+      "Caption": "Name",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Category",
+      "Caption": "Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Finance Category",
+      "Caption": "Finance Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Commission Category",
+      "Caption": "Commission Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Tax Category",
+      "Caption": "Tax Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Deposit Category",
+      "Caption": "Deposit Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Manufacturer",
+      "Caption": "Manufacturer",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Size",
+      "Caption": "Size",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Count",
+      "Caption": "Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Unit Cost",
+      "Caption": "Unit Cost",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Pick Order",
+      "Caption": "Pick Order",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Case Count",
+      "Caption": "Case Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Case Barcode(s)",
+      "Caption": "Case Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Box Count",
+      "Caption": "Box Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Box Barcode(s)",
+      "Caption": "Box Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Each Barcode(s)",
+      "Caption": "Each Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Custom Pack",
+      "Caption": "Custom Pack",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Custom Count",
+      "Caption": "Custom Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Custom Barcode(s)",
+      "Caption": "Custom Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Auto-Transfer",
+      "Caption": "Auto-Transfer",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Invoice-Only",
+      "Caption": "Invoice-Only",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Receive Pack",
+      "Caption": "Receive Pack",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Transfer Pack",
+      "Caption": "Transfer Pack",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Delivery Pack",
+      "Caption": "Delivery Pack",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Coca-Cola",
+      "Caption": "Supplier: Coca-Cola",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Coca-Cola",
+      "Caption": "Supplier Code: Coca-Cola",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Dr Pepper",
+      "Caption": "Supplier: Dr Pepper",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Dr Pepper",
+      "Caption": "Supplier Code: Dr Pepper",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: HEB",
+      "Caption": "Supplier: HEB",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: HEB",
+      "Caption": "Supplier Code: HEB",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Kar's",
+      "Caption": "Supplier: Kar's",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Kar's",
+      "Caption": "Supplier Code: Kar's",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Kroger",
+      "Caption": "Supplier: Kroger",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Kroger",
+      "Caption": "Supplier Code: Kroger",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Merchant's Mart",
+      "Caption": "Supplier: Merchant's Mart",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Merchant's Mart",
+      "Caption": "Supplier Code: Merchant's Mart",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Poppa D Nuts",
+      "Caption": "Supplier: Poppa D Nuts",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Poppa D Nuts",
+      "Caption": "Supplier Code: Poppa D Nuts",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Randalls",
+      "Caption": "Supplier: Randalls",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Randalls",
+      "Caption": "Supplier Code: Randalls",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Road Runner Distributing",
+      "Caption": "Supplier: Road Runner Distributing",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Road Runner Distributing",
+      "Caption": "Supplier Code: Road Runner Distributing",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Sam's Club",
+      "Caption": "Supplier: Sam's Club",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Sam's Club",
+      "Caption": "Supplier Code: Sam's Club",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Sandwich King",
+      "Caption": "Supplier: Sandwich King",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Sandwich King",
+      "Caption": "Supplier Code: Sandwich King",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Silver Eagle",
+      "Caption": "Supplier: Silver Eagle",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Silver Eagle",
+      "Caption": "Supplier Code: Silver Eagle",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Vistar",
+      "Caption": "Supplier: Vistar",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Vistar",
+      "Caption": "Supplier Code: Vistar",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier: Walmart",
+      "Caption": "Supplier: Walmart",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Supplier Code: Walmart",
+      "Caption": "Supplier Code: Walmart",
+      "IsColumnRequired": false
+    }
+  ],
+  "CancelUrl": "/SetupItems",
+  "ExcelFileDisplayName": "File",
+  "NoRowsSelectedMessage": "At least one row must be selected."
+}

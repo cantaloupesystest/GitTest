@@ -1,0 +1,193 @@
+{
+  "PricingPlan": {
+    "EffectiveUtcDateTime": "2014-03-12T07:02:49.58Z",
+    "Id": 1,
+    "CostPlusRate": 0.13000,
+    "PackFilterType": 0,
+    "PackRules": [
+      {
+        "Key": 858,
+        "Value": {
+          "Id": 1,
+          "PackId": 858,
+          "ItemId": 358,
+          "ItemsCount": 36,
+          "CostPlusRate": null,
+          "Price": 12.0
+        }
+      },
+      {
+        "Key": 1074,
+        "Value": {
+          "Id": 4,
+          "PackId": 1074,
+          "ItemId": 336,
+          "ItemsCount": 104,
+          "CostPlusRate": 0.25000,
+          "Price": null
+        }
+      },
+      {
+        "Key": 1300,
+        "Value": {
+          "Id": 3,
+          "PackId": 1300,
+          "ItemId": 926,
+          "ItemsCount": 7,
+          "CostPlusRate": 0.10000,
+          "Price": null
+        }
+      },
+      {
+        "Key": 1324,
+        "Value": {
+          "Id": 2,
+          "PackId": 1324,
+          "ItemId": 336,
+          "ItemsCount": 50,
+          "CostPlusRate": null,
+          "Price": 15.0
+        }
+      }
+    ],
+    "ItemCategoryRules": [
+      {
+        "Key": 11,
+        "Value": {
+          "Id": 2,
+          "ItemCategoryId": 11,
+          "CostPlusRate": null,
+          "Price": 1.15
+        }
+      },
+      {
+        "Key": 52,
+        "Value": {
+          "Id": 1,
+          "ItemCategoryId": 52,
+          "CostPlusRate": 0.20000,
+          "Price": null
+        }
+      }
+    ]
+  },
+  "CalculatedPacks": [
+    {
+      "PackSummary": {
+        "PackId": 1127,
+        "ItemId": 726,
+        "ProductCode": "10033",
+        "PackName": "Case",
+        "PackItemsCount": 24,
+        "ItemCategoryId": 25,
+        "ItemUnitCost": 0.3400
+      },
+      "PriceAmount": 9.22,
+      "Description": "base cost plus"
+    },
+    {
+      "PackSummary": {
+        "PackId": 1324,
+        "ItemId": 336,
+        "ProductCode": "40030",
+        "PackName": "MM box",
+        "PackItemsCount": 50,
+        "ItemCategoryId": 23,
+        "ItemUnitCost": 0.2200
+      },
+      "PriceAmount": 15.0,
+      "Description": "pack fixed price"
+    },
+    {
+      "PackSummary": {
+        "PackId": 1074,
+        "ItemId": 336,
+        "ProductCode": "40030",
+        "PackName": "Box",
+        "PackItemsCount": 104,
+        "ItemCategoryId": 23,
+        "ItemUnitCost": 0.2200
+      },
+      "PriceAmount": 28.60,
+      "Description": "pack cost plus"
+    },
+    {
+      "PackSummary": {
+        "PackId": 1305,
+        "ItemId": 991,
+        "ProductCode": "50030",
+        "PackName": "Case",
+        "PackItemsCount": 60,
+        "ItemCategoryId": 11,
+        "ItemUnitCost": 0.2960
+      },
+      "PriceAmount": 69.00,
+      "Description": "item category fixed price"
+    },
+    {
+      "PackSummary": {
+        "PackId": 1441,
+        "ItemId": 897,
+        "ProductCode": "177160",
+        "PackName": "Box",
+        "PackItemsCount": 24,
+        "ItemCategoryId": 52,
+        "ItemUnitCost": 1.5000
+      },
+      "PriceAmount": 43.20,
+      "Description": "item category cost plus"
+    },
+    {
+      "PackSummary": {
+        "PackId": 363,
+        "ItemId": 358,
+        "ProductCode": "50009",
+        "PackName": "Each",
+        "PackItemsCount": 1,
+        "ItemCategoryId": 11,
+        "ItemUnitCost": 0.2500
+      },
+      "PriceAmount": 0.33,
+      "Description": "fixed price pack in same item"
+    },
+    {
+      "PackSummary": {
+        "PackId": 265,
+        "ItemId": 336,
+        "ProductCode": "40030",
+        "PackName": "Each",
+        "PackItemsCount": 1,
+        "ItemCategoryId": 23,
+        "ItemUnitCost": 0.2200
+      },
+      "PriceAmount": 0.3,
+      "Description": "fixed price pack in same item"
+    },
+    {
+      "PackSummary": {
+        "PackId": 1102,
+        "ItemId": 926,
+        "ProductCode": "200004",
+        "PackName": "Box",
+        "PackItemsCount": 6,
+        "ItemCategoryId": 56,
+        "ItemUnitCost": 1.0000
+      },
+      "PriceAmount": 6.60,
+      "Description": "cost plus price pack in same item"
+    },
+    {
+      "PackSummary": {
+        "PackId": 698,
+        "ItemId": 926,
+        "ProductCode": "200004",
+        "PackName": "Each",
+        "PackItemsCount": 1,
+        "ItemCategoryId": 56,
+        "ItemUnitCost": 1.0000
+      },
+      "PriceAmount": 1.10,
+      "Description": "cost plus price pack in same item"
+    }
+  ]
+}

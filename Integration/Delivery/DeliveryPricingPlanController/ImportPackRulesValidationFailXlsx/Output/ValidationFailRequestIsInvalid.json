@@ -1,0 +1,10 @@
+{
+  "PackRules": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Row 3, UPC '60054', Item Name '': Category Price Overrides not set.",
+    "Row 4, UPC '', Item Name 'Green Tea Lipton 16.9oz bottle': Category Price Overrides must be unique.",
+    "Row 5, UPC '150007', Item Name '': Base Cost Plus not set.",
+    "Row 6, UPC '50004', Item Name '': Pack 'Box' not found."
+  ]
+}

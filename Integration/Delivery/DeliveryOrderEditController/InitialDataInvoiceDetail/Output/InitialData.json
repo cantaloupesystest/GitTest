@@ -1,0 +1,289 @@
+{
+  "MachineId": 999945,
+  "OrderInitialData": {
+    "DeliveryDateChooser": {
+      "ScheduleDateOnly": "2013-12-16T00:00:00",
+      "CanSelectCustomDate": true
+    },
+    "OrderId": 1001,
+    "OrderTitle": "I1001",
+    "IsInvoice": true,
+    "DriverUserId": 107,
+    "EmailSending": null,
+    "DeliveredDateTime": "2013-12-16T02:00:00",
+    "DepositAmount": null,
+    "TaxAmount": 8.31600,
+    "CanEditPar": true,
+    "SaveStandardOrderUrl": "/DeliveryOrderEdit/SaveStandardOrder",
+    "MarkOrderAsDeliveredUrl": null,
+    "MarkOrderAsApprovedUrl": null,
+    "MarkOrderAsUnapprovedUrl": null,
+    "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1001",
+    "DeleteStandardOrderUrl": "/DeliveryOrderEdit/DeleteStandardOrder",
+    "CreateNewDeliveryOrderUrl": "/DeliveryOrderEdit",
+    "MarkOrderAsUndeliveredUrl": "/DeliveryCommon/MarkOrderAsUndelivered",
+    "PdfUrl": "/DeliveryCommon/Pdf?OrderId=1001",
+    "SignatureImageUrl": null,
+    "PreviousOrderUrl": null,
+    "StandardOrderUrl": null,
+    "PhotoAuditThumbnailImageUrl": null,
+    "PhotoAuditImageUrl": null,
+    "DriverUserEditUrl": "/User/Edit?UserId=107",
+    "OpenOrders": [],
+    "Drivers": [
+      {
+        "Id": 107,
+        "Name": "Mike Glimpse"
+      },
+      {
+        "Id": 4105,
+        "Name": "Scott Masek"
+      }
+    ],
+    "ScheduleDateDisplayName": "Schedule Date",
+    "PackParDisplayName": "Par",
+    "DeleteStandardOrderConfirmationMessage": "Clear the Standard Order from this Delivery Point?"
+  },
+  "RecurringOrderInitialData": null,
+  "OrderPacks": [
+    {
+      "Item": {
+        "Id": 248,
+        "Caption": "10001 - Diet Coke 12oz can 1003",
+        "OrderedPacks": [
+          {
+            "Id": 12,
+            "ItemsCount": 1,
+            "Caption": "Each",
+            "Price": 0.41,
+            "IsEach": true,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1209,
+            "ItemsCount": 24,
+            "Caption": "Case (24ct)",
+            "Price": 9.76,
+            "IsEach": false,
+            "IsDefault": true,
+            "Par": null
+          }
+        ],
+        "Histories": [],
+        "HasMoreItemHistory": false
+      },
+      "PackId": 1209,
+      "Price": 9.84,
+      "OriginalPriceAmount": 9.84,
+      "Quantity": 5
+    },
+    {
+      "Item": {
+        "Id": 269,
+        "Caption": "10022 - Sprite Zero 12oz can 4807",
+        "OrderedPacks": [
+          {
+            "Id": 33,
+            "ItemsCount": 1,
+            "Caption": "Each",
+            "Price": 0.42,
+            "IsEach": true,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1211,
+            "ItemsCount": 12,
+            "Caption": "Fridge Pack (12ct)",
+            "Price": 5.02,
+            "IsEach": false,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1236,
+            "ItemsCount": 24,
+            "Caption": "Case (24ct)",
+            "Price": 10.03,
+            "IsEach": false,
+            "IsDefault": true,
+            "Par": null
+          }
+        ],
+        "Histories": [],
+        "HasMoreItemHistory": false
+      },
+      "PackId": 1211,
+      "Price": 5.04,
+      "OriginalPriceAmount": 5.04,
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "Id": 726,
+        "Caption": "10033 - Fanta Orange Soda 12oz",
+        "OrderedPacks": [
+          {
+            "Id": 44,
+            "ItemsCount": 1,
+            "Caption": "Each",
+            "Price": 0.38,
+            "IsEach": true,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1290,
+            "ItemsCount": 12,
+            "Caption": "fridge pack  (12ct)",
+            "Price": 4.61,
+            "IsEach": false,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1127,
+            "ItemsCount": 24,
+            "Caption": "Case (24ct)",
+            "Price": 9.22,
+            "IsEach": false,
+            "IsDefault": true,
+            "Par": null
+          }
+        ],
+        "Histories": [],
+        "HasMoreItemHistory": false
+      },
+      "PackId": 1127,
+      "Price": 9.12,
+      "OriginalPriceAmount": 9.12,
+      "Quantity": 4
+    }
+  ],
+  "TotalAmount": 109.11,
+  "Description": null,
+  "PageTitle": "Invoice Detail",
+  "IsReadOnly": true,
+  "CanEditPrices": true,
+  "SaveUrl": "/DeliveryOrderEdit/SaveOrder",
+  "EditUrl": "/DeliveryOrderEdit?OrderId=1001",
+  "DeleteUrl": "/DeliveryCommon/Delete",
+  "CancelUrl": "/DeliveryOrders",
+  "SearchItemsUrl": "/DeliveryOrderEdit/SearchItems",
+  "ItemHistoriesUrl": "/DeliveryOrderEdit/ItemHistories",
+  "Customers": [
+    {
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/Customer/Edit?Id=1156",
+      "DetailUrl": "/Customer/Detail?CustomerId=1156",
+      "RecentInvoices": [
+        {
+          "Title": "I1001",
+          "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1001",
+          "ScheduleDateOnly": "2013-12-16T00:00:00",
+          "AgeInDays": 215,
+          "Amount": 109.11,
+          "OrderId": 1001,
+          "DeliveredUtcDateTime": "2013-12-16T10:00:00",
+          "PaidAmount": 0.0,
+          "UnpaidAmount": 109.11,
+          "OrderUrlModel": {
+            "PrintUrl": "/DeliveryCommon/Pdf?OrderId=1001",
+            "CreatePaymentUrl": "/DeliveryPayment/Edit?CreateMachineId=999945",
+            "MarkOrderAsUnapprovedUrl": null,
+            "MarkOrderAsApprovedUrl": null,
+            "MarkOrderAsDeliveredUrl": null,
+            "EditUrl": "/DeliveryOrderEdit?OrderId=1001",
+            "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1001",
+            "PhotoAuditImageUrl": null
+          },
+          "Paid": false,
+          "Payments": null
+        }
+      ],
+      "Id": 1156,
+      "Name": "Delivery 1"
+    }
+  ],
+  "Locations": [
+    {
+      "CustomerId": 1156,
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/Location/Edit?Id=1161",
+      "DetailUrl": "/Location/Detail?LocationId=1161",
+      "Id": 1161,
+      "Name": "Delivery 1"
+    }
+  ],
+  "Machines": [
+    {
+      "Id": 999945,
+      "LocationId": 1161,
+      "AssetId": "Del Point 1",
+      "Place": null,
+      "PricingPlanId": 1,
+      "PricingPlanName": "Simple",
+      "PricingPlanUrl": "/DeliveryPricingPlan/Detail?PricingPlanId=1",
+      "EditUrl": "/DeliveryPoint/Edit?Id=999945&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D999945",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=999945",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2013-12-16T00:00:00",
+          "Title": "12/16/2013 - next scheduled visit (215 days ago)"
+        },
+        {
+          "DateOnly": "2014-07-21T00:00:00",
+          "Title": "7/21/2014 (in 2 days)"
+        },
+        {
+          "DateOnly": "2014-07-22T00:00:00",
+          "Title": "7/22/2014 (in 3 days)"
+        },
+        {
+          "DateOnly": "2014-07-23T00:00:00",
+          "Title": "7/23/2014 (in 4 days)"
+        },
+        {
+          "DateOnly": "2014-07-28T00:00:00",
+          "Title": "7/28/2014 (in 9 days)"
+        },
+        {
+          "DateOnly": "2014-07-29T00:00:00",
+          "Title": "7/29/2014 (in 10 days)"
+        },
+        {
+          "DateOnly": "2014-07-30T00:00:00",
+          "Title": "7/30/2014 (in 11 days)"
+        },
+        {
+          "DateOnly": "2014-08-04T00:00:00",
+          "Title": "8/4/2014 (in 16 days)"
+        },
+        {
+          "DateOnly": "2014-08-05T00:00:00",
+          "Title": "8/5/2014 (in 17 days)"
+        },
+        {
+          "DateOnly": "2014-08-06T00:00:00",
+          "Title": "8/6/2014 (in 18 days)"
+        },
+        {
+          "DateOnly": "2014-08-11T00:00:00",
+          "Title": "8/11/2014 (in 23 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": true,
+      "HasDeliveryStandardOrder": false
+    }
+  ],
+  "PackDisplayName": "Pack",
+  "PackQuantityDisplayName": "Qty",
+  "PackPriceDisplayName": "Price",
+  "DescriptionDisplayName": "Notes",
+  "DeleteConfirmationMessage": "Are you sure you want to delete this delivery order?"
+}

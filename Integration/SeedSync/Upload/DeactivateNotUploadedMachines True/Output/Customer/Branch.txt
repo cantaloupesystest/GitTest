@@ -1,0 +1,4 @@
+Id	Name	SeedSyncUploadOfflineMachines	Deleted	
+=1	=Treat America North	=False	=False	
+=1001	=Kansas City	=False	=False	
+=1003	=Treat Indy	=False	=False	

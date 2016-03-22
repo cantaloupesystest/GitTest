@@ -1,0 +1,210 @@
+[
+  {
+    "Name": "Customers",
+    "Columns": [
+      {
+        "Caption": "Name",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Code",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Address",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "City",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "State",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Zip",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Country",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Phone",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Fax",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Email",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Management Code",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Salesperson",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Account Manager",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Start Date",
+        "DataFormat": "m/d/yy",
+        "WrapText": false
+      },
+      {
+        "Caption": "End Date",
+        "DataFormat": "m/d/yy",
+        "WrapText": false
+      },
+      {
+        "Caption": "Description",
+        "DataFormat": null,
+        "WrapText": false
+      }
+    ],
+    "Rows": [
+      {
+        "Items": [
+          "Unassigned (in model DB warehouse)",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "Unassigned (in Customer Import/Export First Branch (FB) warehouse)",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "Unassigned (in Customer Imort/Export Second Branch (SB) warehouse)",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "Customer Import/Export Existing FB",
+          "Already Existing FB Code",
+          "Abc",
+          "Zbc",
+          "AR",
+          "Zip",
+          "United States",
+          "+123-546-987-45",
+          null,
+          "Already@Existent.Code",
+          "Already Existent Management Code",
+          null,
+          null,
+          "2015-10-01T00:00:00",
+          "2015-11-30T00:00:00",
+          "$Description$"
+        ]
+      },
+      {
+        "Items": [
+          "Customer Import/Export Existing FB 2",
+          null,
+          "Address",
+          "City",
+          "CA",
+          null,
+          "United States",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "CashlessWelcomeMessage",
+          null,
+          "1",
+          "2",
+          "AL",
+          null,
+          "United States",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "Description": null
+  }
+]

@@ -1,0 +1,100 @@
+MachineId	AssetId	CustomerId	CustomerName	LocationId	LocationName	MachinePlace	MachineType	OfflineMachineType	RestockDateTime	IsOutOfTouch	NeedsInventory	
+=999947	=AHOU1015C	=1152	=Texas Ironworkers Apprenticeship Program	=1156	=Texas Ironworkers Apprenticeship Program	=Warehouse	=Bev (Royal GIII)	[NULL]	=11/04/2013 13:00:18	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=11/08/2013 10:21:40	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=11/13/2013 10:28:04	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=11/18/2013 11:20:13	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=11/20/2013 09:56:13	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=11/25/2013 10:37:45	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=12/03/2013 09:20:42	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=12/05/2013 13:37:28	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=12/10/2013 11:33:31	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=12/12/2013 10:03:14	=True	=False	
+=999948	=AHOU1103	=1153	=Entrance Software	=1158	=Entrance Software	=Fishbowl	=Bev (DN 600E)	[NULL]	=12/17/2013 11:44:26	=True	=False	
+=999954	=AHOU1101	=1150	=Nexen Energy	=1154	=Nexen Energy	=17th Floor Break Room	=Bev (DN 600E)	[NULL]	=12/10/2013 09:22:05	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/06/2013 06:03:51	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/08/2013 12:08:52	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/11/2013 05:50:18	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/13/2013 05:59:02	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/15/2013 05:44:38	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/21/2013 08:04:08	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=11/26/2013 05:49:10	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=12/03/2013 05:51:52	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=12/06/2013 06:00:55	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=12/10/2013 08:35:31	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=12/13/2013 12:21:45	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=12/18/2013 06:05:37	=True	=False	
+=999955	=AHOU1100	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room by Reception	=Bev (DN 600E)	[NULL]	=12/30/2013 07:23:03	=True	=False	
+=999956	=AHOU1011C	=1149	=WidgetCo	=1153	=WidgetCo	=Warehouse	=Bev (Royal GIII)	[NULL]	=11/01/2013 10:32:36	=True	=False	
+=999971	=AHOU1097	=1121	=Nexen USA	=1125	=Nexen USA	=7th Floor	=Dixie Narco 600E	[NULL]	=11/07/2013 06:35:02	=True	=False	
+=999971	=AHOU1097	=1121	=Nexen USA	=1125	=Nexen USA	=7th Floor	=Dixie Narco 600E	[NULL]	=11/13/2013 11:10:55	=True	=False	
+=999971	=AHOU1097	=1121	=Nexen USA	=1125	=Nexen USA	=7th Floor	=Dixie Narco 600E	[NULL]	=11/20/2013 06:08:51	=True	=False	
+=999971	=AHOU1097	=1121	=Nexen USA	=1125	=Nexen USA	=7th Floor	=Dixie Narco 600E	[NULL]	=11/27/2013 06:05:47	=True	=False	
+=999971	=AHOU1097	=1121	=Nexen USA	=1125	=Nexen USA	=7th Floor	=Dixie Narco 600E	[NULL]	=12/06/2013 12:49:01	=True	=False	
+=999971	=AHOU1097	=1121	=Nexen USA	=1125	=Nexen USA	=7th Floor	=Dixie Narco 600E	[NULL]	=12/12/2013 11:44:25	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=11/01/2013 07:00:34	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=11/07/2013 06:18:34	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=11/13/2013 11:19:49	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=11/20/2013 06:30:59	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=11/25/2013 11:21:56	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=12/04/2013 10:53:36	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=12/11/2013 10:42:22	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=12/19/2013 11:47:50	=True	=False	
+=999972	=AHOU1099	=1121	=Nexen USA	=1125	=Nexen USA	=9th Floor	=Dixie Narco 600E	[NULL]	=12/27/2013 12:03:48	=True	=False	
+=999974	=AHOU1096	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor West	=Dixie Narco 501E	[NULL]	=11/21/2013 06:13:41	=True	=False	
+=999974	=AHOU1096	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor West	=Dixie Narco 501E	[NULL]	=12/06/2013 12:37:00	=True	=False	
+=999974	=AHOU1096	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor West	=Dixie Narco 501E	[NULL]	=12/19/2013 11:40:10	=True	=False	
+=999975	=AHOU1095	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor East	=Dixie Narco 501E	[NULL]	=11/13/2013 11:30:13	=True	=False	
+=999975	=AHOU1095	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor East	=Dixie Narco 501E	[NULL]	=11/21/2013 06:02:56	=True	=False	
+=999975	=AHOU1095	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor East	=Dixie Narco 501E	[NULL]	=12/04/2013 10:06:25	=True	=False	
+=999975	=AHOU1095	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor East	=Dixie Narco 501E	[NULL]	=12/10/2013 06:02:47	=True	=False	
+=999975	=AHOU1095	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor East	=Dixie Narco 501E	[NULL]	=12/12/2013 11:33:40	=True	=False	
+=999975	=AHOU1095	=1121	=Nexen USA	=1125	=Nexen USA	=14th Floor East	=Dixie Narco 501E	[NULL]	=12/20/2013 11:52:28	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=11/06/2013 06:12:20	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=11/08/2013 13:07:07	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=11/13/2013 06:09:29	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=11/18/2013 06:03:56	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=11/21/2013 08:17:03	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=11/27/2013 07:22:20	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=12/04/2013 06:16:53	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=12/06/2013 06:14:14	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=12/10/2013 08:22:19	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=12/12/2013 10:55:45	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=12/18/2013 06:13:22	=True	=False	
+=999976	=AHOU1093	=1141	=Maersk Drilling	=1144	=Maersk Drilling	=Break Room East	=Dixie Narco 600E	[NULL]	=12/31/2013 07:29:07	=True	=False	
+=999977	=AHOU1082	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Left	=Dixie Narco 600E	[NULL]	=11/14/2013 12:13:11	=True	=False	
+=999977	=AHOU1082	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Left	=Dixie Narco 600E	[NULL]	=11/21/2013 07:24:00	=True	=False	
+=999977	=AHOU1082	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Left	=Dixie Narco 600E	[NULL]	=12/03/2013 13:15:28	=True	=False	
+=999977	=AHOU1082	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Left	=Dixie Narco 600E	[NULL]	=12/11/2013 11:07:02	=True	=False	
+=999977	=AHOU1082	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Left	=Dixie Narco 600E	[NULL]	=12/17/2013 06:15:54	=True	=False	
+=1011774	=AHOU1070	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Right	=Dixie Narco 600E	[NULL]	=11/12/2013 12:07:01	=True	=False	
+=1011774	=AHOU1070	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Right	=Dixie Narco 600E	[NULL]	=11/27/2013 06:28:57	=True	=False	
+=1011774	=AHOU1070	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Right	=Dixie Narco 600E	[NULL]	=12/06/2013 13:01:35	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=11/06/2013 07:12:46	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=11/11/2013 08:39:30	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=11/13/2013 10:52:46	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=11/18/2013 11:52:10	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=11/21/2013 07:00:14	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=11/27/2013 06:39:51	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=12/04/2013 11:02:44	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=12/10/2013 06:23:29	=True	=False	
+=1037295	=AHOU1044	=1121	=Nexen USA	=1125	=Nexen USA	=11th Floor	=Dixie Narco 600E	[NULL]	=12/20/2013 12:05:23	=True	=False	
+=1037533	=AHOU1043	=1121	=Nexen USA	=1125	=Nexen USA	=13th Floor	=Dixie Narco 600E	[NULL]	=11/13/2013 10:40:47	=True	=False	
+=1037533	=AHOU1043	=1121	=Nexen USA	=1125	=Nexen USA	=13th Floor	=Dixie Narco 600E	[NULL]	=11/22/2013 12:46:15	=True	=False	
+=1037533	=AHOU1043	=1121	=Nexen USA	=1125	=Nexen USA	=13th Floor	=Dixie Narco 600E	[NULL]	=12/04/2013 10:31:37	=True	=False	
+=1037533	=AHOU1043	=1121	=Nexen USA	=1125	=Nexen USA	=13th Floor	=Dixie Narco 600E	[NULL]	=12/11/2013 10:19:15	=True	=False	
+=1037533	=AHOU1043	=1121	=Nexen USA	=1125	=Nexen USA	=13th Floor	=Dixie Narco 600E	[NULL]	=12/19/2013 12:17:41	=True	=False	
+=1114470	=BHOU1043	=1070	=National Oilwell Varco	=1074	=National Oilwell Varco	=3rd Floor New Bldg	=AP Snackshop 113	[NULL]	=11/11/2013 12:32:16	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=11/11/2013 08:47:25	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=11/14/2013 11:55:20	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=11/20/2013 06:21:04	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=11/25/2013 11:08:47	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=12/04/2013 10:15:25	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=12/10/2013 06:14:31	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=12/16/2013 11:56:38	=True	=False	
+=1142313	=AHOU1058	=1121	=Nexen USA	=1125	=Nexen USA	=8th Floor	=Dixie Narco 600E	[NULL]	=12/19/2013 12:05:31	=True	=False	
+=1146935	=AHOU1062	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Center	=Dixie Narco 600E	[NULL]	=11/21/2013 06:43:55	=True	=False	
+=1146935	=AHOU1062	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Center	=Dixie Narco 600E	[NULL]	=11/27/2013 05:54:54	=True	=False	
+=1146935	=AHOU1062	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Center	=Dixie Narco 600E	[NULL]	=12/06/2013 13:10:29	=True	=False	
+=1146935	=AHOU1062	=1121	=Nexen USA	=1125	=Nexen USA	=12th Floor Center	=Dixie Narco 600E	[NULL]	=12/18/2013 12:40:07	=True	=False	
+=1192845	=AHOU1009C	=1139	=Walker Engineering	=1142	=Walker Engineering	=Coke Right	=Royal 804 - 8 Selection	[NULL]	=12/13/2013 13:00:00	=True	=False	
+=1192845	=AHOU1009C	=1139	=Walker Engineering	=1142	=Walker Engineering	=Coke Right	=Royal 804 - 8 Selection	[NULL]	=12/30/2013 12:00:00	=True	=False	

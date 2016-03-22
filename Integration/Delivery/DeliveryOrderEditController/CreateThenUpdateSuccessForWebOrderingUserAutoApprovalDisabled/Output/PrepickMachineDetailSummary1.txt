@@ -1,0 +1,8 @@
+PrepickId	ScheduleId	Deleted	CreatedByUserId	CreatedUtcDateTime	FromWarehouseId	PrepickMachineId	MachineId	TruckId	PrepickMachineDetailId	PendingPlanogramChangeCoilId	CoilId	Need	OriginalNeed	Extra	OriginalExtra	UserExtra	SpreadoutQuantity	InitialInventoryLevel	ExpectedInventoryLevel	ItemId	NewItemId	PackId	Par	Capacity	PriceInCents	RoundTo	RoundingThresholdInPercents	PickThresholdInPercents	Note	
+=1982	=2378	=False	[NULL]	=02/06/2014 12:20:53	[NULL]	=2007	=999945	=3	=3	[NULL]	[NULL]	=4	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=1127	[NULL]	[NULL]	=912	[NULL]	[NULL]	[NULL]	[NULL]	
+=1982	=2378	=False	[NULL]	=02/06/2014 12:20:53	[NULL]	=2007	=999945	=3	=1	[NULL]	[NULL]	=5	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=1209	[NULL]	[NULL]	=984	[NULL]	[NULL]	[NULL]	[NULL]	
+=1982	=2378	=False	[NULL]	=02/06/2014 12:20:53	[NULL]	=2007	=999945	=3	=2	[NULL]	[NULL]	=3	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=1211	[NULL]	[NULL]	=504	[NULL]	[NULL]	[NULL]	[NULL]	
+=1983	=2379	=False	[NULL]	=02/06/2014 12:21:42	[NULL]	=2008	=999944	=3	=5	[NULL]	[NULL]	=4	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=625	[NULL]	[NULL]	=113	[NULL]	[NULL]	[NULL]	[NULL]	
+=1983	=2379	=False	[NULL]	=02/06/2014 12:21:42	[NULL]	=2008	=999944	=3	=4	[NULL]	[NULL]	=3	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=872	[NULL]	[NULL]	=1118	[NULL]	[NULL]	[NULL]	[NULL]	
+=1983	=2379	=False	[NULL]	=02/06/2014 12:21:42	[NULL]	=2008	=999944	=3	=7	[NULL]	[NULL]	=3	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=939	[NULL]	[NULL]	=1008	[NULL]	[NULL]	[NULL]	[NULL]	
+=1983	=2379	=False	[NULL]	=02/06/2014 12:21:42	[NULL]	=2008	=999944	=3	=6	[NULL]	[NULL]	=1	[NULL]	=0	=0	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	=1246	[NULL]	[NULL]	=1476	[NULL]	[NULL]	[NULL]	[NULL]	

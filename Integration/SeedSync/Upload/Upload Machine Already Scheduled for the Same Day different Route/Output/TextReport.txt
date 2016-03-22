@@ -1,0 +1,25 @@
+WARNINGS                  	                                      	                                                                   	  
+Machine warnings          	                                      	                                                                   	  
+Route Name                	Asset Id                              	Message                                                            	  
+RT 13                     	208157                                	Machine is already scheduled on 11/06/2012 for the different route.	  
+Machine route changed     	                                      	                                                                   	  
+Asset Id                  	Old Route                             	New Route                                                          	  
+207387                    	RT 15                                 	RT 13                                                              	  
+208157                    	RT 15                                 	RT 13                                                              	  
+INFORMATION               	                                      	                                                                   	  
+Summary                   	                                      	                                                                   	  
+Data Building Time:       	0h:0m:40s                             	                                                                   	  
+Data Processing Time:     	0h:0m:0s                              	                                                                   	  
+Product Manufacturers:    	2                                     	Machines:                                                          	2 
+Product Categories:       	3                                     	Inventories:                                                       	12
+Products:                 	10                                    	Machine Visits:                                                    	0 
+Routes:                   	1                                     	Machine Visit Details:                                             	0 
+Customers:                	2                                     	Route Schedules:                                                   	1 
+Locations:                	2                                     	Machine Route Schedules:                                           	2 
+TECHNICAL INFORMATION     	                                      	                                                                   	  
+Reporting Version:        	0.0                                   	                                                                   	  
+Client:                   	Processor=Vendmax, Version=2.0.0.29859	                                                                   	  
+Request URL:              	http://test.org/                      	                                                                   	  
+Username:                 	test@test.com                         	                                                                   	  
+Transaction Id:           	0                                     	                                                                   	  
+Highest Framework Version:	4.0.30319                             	                                                                   	  

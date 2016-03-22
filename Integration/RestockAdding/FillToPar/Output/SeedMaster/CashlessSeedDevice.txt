@@ -1,0 +1,9 @@
+Id	DeviceSerialNumber	WelcomeMessage1	DownMessage1	WelcomeMessage2	DownMessage2	LastUpdatedBy	
+=4858	=144744	=Please Swipe Card	=Please Use Cash	=Refill set for Thu 08/22	=Refill set for Thu 08/22	=UniversalDBCommander	
+=4859	=136689	=Please Swipe Card	=Please Use Cash	=Refill set for Tue 04/01	=Refill set for Thu 08/22	=UniversalDBCommander	
+=4860	=10849	=Please Swipe Card	=Please Use Cash	=Refill set for Thu 08/22	=Refill set for Thu 08/22	=UniversalDBCommander	
+=4861	=10897	=Please Swipe Card	=Please Use Cash	=Refill set for Thu 08/22	=Refill set for Thu 08/22	=UniversalDBCommander	
+=4862	=11042	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	=Test	
+=4863	=12024	=Please Swipe Card	=Please Use Cash	=Refill set for Thu 08/22	=Refill set for Thu 08/22	=UniversalDBCommander	
+=4864	=13691	=Please Swipe Card	=Please Use Cash	=Refill set for Thu 08/22	=Refill set for Thu 08/22	=UniversalDBCommander	
+=4865	=22224	=Please Swipe Card	=Please Use Cash	=Refill set for Thu 08/22	=Refill set for Thu 08/22	=UniversalDBCommander	

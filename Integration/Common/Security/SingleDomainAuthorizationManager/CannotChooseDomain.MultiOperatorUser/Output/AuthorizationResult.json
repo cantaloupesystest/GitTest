@@ -1,0 +1,6 @@
+{
+  "Principal": null,
+  "NotVerifiedUserEmail": null,
+  "Successful": false,
+  "ErrorMessage": "User has many domains; specify it explicitly."
+}

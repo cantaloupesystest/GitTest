@@ -1,0 +1,1 @@
+Id	InventoryLevel	ItemId	CoilId	IsRecentCreatedDateTime	

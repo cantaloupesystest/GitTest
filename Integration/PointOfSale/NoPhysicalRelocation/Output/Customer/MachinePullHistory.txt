@@ -1,0 +1,1 @@
+Id	PulledMachineId	MachineId	PullRestockId	PullRestockToWarehouseId	PulledUtcDateTime	

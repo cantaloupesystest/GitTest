@@ -1,0 +1,22 @@
+{
+  "AssetId": "#55",
+  "BagNumber": null,
+  "CoinRefillAmountInCents": 1,
+  "CoinsInTubeAmountInCents": 2,
+  "CollectedBillsAmountInCents": 3,
+  "CollectedCoinsAmountInCents": 4,
+  "CollectedTokensCount": 5,
+  "CollectedTokensValueInCents": 6,
+  "CurrentMachineCollectionDetailId": 2,
+  "LocationName": null,
+  "MachineCollectionId": 2,
+  "MachineId": 0,
+  "MachineType": null,
+  "Place": null,
+  "RefundAmountInCents": 7,
+  "RouteDescription": null,
+  "ScheduleDate": "2013-08-21T00:00:00",
+  "Scheduled": false,
+  "TestVendAmountInCents": 8,
+  "IsNonRevenue": false
+}

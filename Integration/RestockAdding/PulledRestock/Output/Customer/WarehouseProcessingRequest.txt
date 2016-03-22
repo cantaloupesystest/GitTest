@@ -1,0 +1,3 @@
+Id	PrepickId	MachineCoilHistoryId	CompletedUtcDateTime	CreatedByUserId	
+=1	[NULL]	=13661	[NULL]	=2972	
+=2	[NULL]	=13662	[NULL]	=2678	

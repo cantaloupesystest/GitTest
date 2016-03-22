@@ -1,0 +1,94 @@
+{
+  "TransactionPacks": [
+    {
+      "Item": {
+        "Id": 79,
+        "Caption": "GEM33550 - Nature Valley Peanutbutter Granola Bar",
+        "Packs": [
+          {
+            "Id": 91,
+            "ItemsCount": 1,
+            "Name": "Each",
+            "Caption": "Each",
+            "ItemsCountCaption": null,
+            "Enabled": true
+          }
+        ],
+        "ItemHistory": null,
+        "HasMoreItemHistory": false,
+        "DefaultPackId": null,
+        "DefaultCostAmount": 0.00003000000000000000000
+      },
+      "PackId": 91,
+      "PackQuantity": null,
+      "CostPackId": null,
+      "PackCostAmount": null
+    },
+    {
+      "Item": {
+        "Id": 192,
+        "Caption": "6121 - Tonys 4x6 Pepperoni Pizza",
+        "Packs": [
+          {
+            "Id": 223,
+            "ItemsCount": 1,
+            "Name": "Each",
+            "Caption": "Each",
+            "ItemsCountCaption": null,
+            "Enabled": true
+          },
+          {
+            "Id": 681,
+            "ItemsCount": 24,
+            "Name": "test",
+            "Caption": "test (24ct)",
+            "ItemsCountCaption": "(24ct)",
+            "Enabled": true
+          }
+        ],
+        "ItemHistory": null,
+        "HasMoreItemHistory": false,
+        "DefaultPackId": null,
+        "DefaultCostAmount": 0.00009000000000000000000
+      },
+      "PackId": 681,
+      "PackQuantity": 8,
+      "CostPackId": null,
+      "PackCostAmount": null
+    },
+    {
+      "Item": {
+        "Id": 677,
+        "Caption": "MMM45985 - Dove Dark Chocolate",
+        "Packs": [
+          {
+            "Id": 677,
+            "ItemsCount": 1,
+            "Name": "Each",
+            "Caption": "Each",
+            "ItemsCountCaption": null,
+            "Enabled": true
+          },
+          {
+            "Id": 684,
+            "ItemsCount": 2,
+            "Name": "Default Receive Pack",
+            "Caption": "Default Receive Pack (2ct)",
+            "ItemsCountCaption": "(2ct)",
+            "Enabled": true
+          }
+        ],
+        "ItemHistory": null,
+        "HasMoreItemHistory": false,
+        "DefaultPackId": 684,
+        "DefaultCostAmount": 0.00005740000000000000000
+      },
+      "PackId": 684,
+      "PackQuantity": 2,
+      "CostPackId": null,
+      "PackCostAmount": null
+    }
+  ],
+  "ErrorKeys": [],
+  "ErrorMessages": []
+}

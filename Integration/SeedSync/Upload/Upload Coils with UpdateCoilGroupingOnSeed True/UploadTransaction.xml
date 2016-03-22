@@ -1,0 +1,1189 @@
+<?xml version="1.0"?>
+<UploadData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClientContext>Processor=Vendmax, Version=2.0.0.29859</ClientContext>
+  <DataBuildingTicks>407187500</DataBuildingTicks>
+  <MachineMatchType>SeedSerialNumber</MachineMatchType>
+  <UploadMachineCoilParLevels>true</UploadMachineCoilParLevels>
+  <UploadMachineCoilCapacityLevels>true</UploadMachineCoilCapacityLevels>
+  <UploadMachineCoilItems>true</UploadMachineCoilItems>
+  <MachineCoilOrderMapping>false</MachineCoilOrderMapping>
+  <DeactivateNotUploadedMachines>false</DeactivateNotUploadedMachines>
+  <CalculateNotObservedMachineVisits>true</CalculateNotObservedMachineVisits>
+  <DoMachineVisitAutoRestock>true</DoMachineVisitAutoRestock>
+  <UseGroupedCoilsOnSeed>false</UseGroupedCoilsOnSeed>
+  <UpdateCoilGroupingOnSeed>true</UpdateCoilGroupingOnSeed>
+  <HighestFrameworkVersion>4.0.30319</HighestFrameworkVersion>
+  <UploadDataSet>
+    <xs:schema id="UploadDataSet" targetNamespace="http://cantaloupesys.com/Seed/SeedSync/Interaction/UploadDataSet.xsd" xmlns:mstns="http://cantaloupesys.com/Seed/SeedSync/Interaction/UploadDataSet.xsd" xmlns="http://cantaloupesys.com/Seed/SeedSync/Interaction/UploadDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+      <xs:element name="UploadDataSet" msdata:IsDataSet="true" msdata:Locale="en-US">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="CustomerList">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="CustomerName" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="30" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Address1" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Address2" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="City" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="State" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="8" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Zip" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Country" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="FaxNumber" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="PhoneNumber" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Contact" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="65" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Comments" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="30" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Items">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId" msdata:ReadOnly="true">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ItemManufacturerImportId" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ItemCategoryImportId" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ProductCode">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ItemName" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Size" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Count" type="xs:int" minOccurs="0" />
+                  <xs:element name="UnitCost" type="xs:decimal" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="LocationList">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="CustomerImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Location" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Address1" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Address2" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="City" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="State" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="8" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Zip" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Country" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="FaxNumber" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="PhoneNumber" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Contact" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="65" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Comments" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Machine">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="LocationListImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="RoutesImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Place" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="AssetId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="16" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="SeedSerialNumber" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Type" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="67" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="UserSerial" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="MachineCoil">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="MachineImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Coil">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="128" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="CoilGroupName" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ItemsImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ParLevel" type="xs:int" minOccurs="0" />
+                  <xs:element name="Capacity" type="xs:int" minOccurs="0" />
+                  <xs:element name="Price" type="xs:decimal" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Routes">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="RouteNumber" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="RouteName">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="RouteDescription" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="32" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Type" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="2" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="MachineVisit">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="MachineImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="VisitDateTime" msdata:DateTimeMode="Unspecified" type="xs:dateTime" />
+                  <xs:element name="VisitStatus" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:length value="1" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="MachineVisitDetail">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="MachineVisitImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Coil">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="128" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ItemsImportId" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="SpoiledOrRemovedItemsImportId" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ParLevel" type="xs:int" minOccurs="0" />
+                  <xs:element name="Price" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Inventoried" type="xs:boolean" />
+                  <xs:element name="InventoryLevel" type="xs:int" minOccurs="0" />
+                  <xs:element name="Added" type="xs:int" minOccurs="0" />
+                  <xs:element name="Removed" type="xs:int" minOccurs="0" />
+                  <xs:element name="Spoiled" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="MachineRouteSchedule">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="MachineImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="RouteScheduleId" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="RouteSchedule">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="RouteScheduleId" msdata:AutoIncrement="true" type="xs:int" />
+                  <xs:element name="RoutesImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ScheduleDate" msdata:DateTimeMode="Unspecified" type="xs:dateTime" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="ItemCategory">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="ItemManufacturer">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Driver">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ImportId">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="CustomerListKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:CustomerList" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="ItemsKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:Items" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="ItemsUniqueKey">
+          <xs:selector xpath=".//mstns:Items" />
+          <xs:field xpath="mstns:ProductCode" />
+        </xs:unique>
+        <xs:unique name="LocationListKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:LocationList" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="MachineKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:Machine" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="MachineCoilKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:MachineCoil" />
+          <xs:field xpath="mstns:MachineImportId" />
+          <xs:field xpath="mstns:Coil" />
+        </xs:unique>
+        <xs:unique name="RoutesKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:Routes" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="MachineVisitKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:MachineVisit" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="MachineVisitDetailKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:MachineVisitDetail" />
+          <xs:field xpath="mstns:MachineVisitImportId" />
+          <xs:field xpath="mstns:Coil" />
+        </xs:unique>
+        <xs:unique name="MachineRouteScheduleKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:MachineRouteSchedule" />
+          <xs:field xpath="mstns:MachineImportId" />
+          <xs:field xpath="mstns:RouteScheduleId" />
+        </xs:unique>
+        <xs:unique name="RouteScheduleKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:RouteSchedule" />
+          <xs:field xpath="mstns:RouteScheduleId" />
+        </xs:unique>
+        <xs:unique name="ItemCategoryKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:ItemCategory" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="ItemManufacturerKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:ItemManufacturer" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:unique name="DriverNameKey">
+          <xs:selector xpath=".//mstns:Driver" />
+          <xs:field xpath="mstns:Name" />
+        </xs:unique>
+        <xs:unique name="DriverKey" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//mstns:Driver" />
+          <xs:field xpath="mstns:ImportId" />
+        </xs:unique>
+        <xs:keyref name="RoutesRouteScheduleRelation" refer="RoutesKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:RouteSchedule" />
+          <xs:field xpath="mstns:RoutesImportId" />
+        </xs:keyref>
+        <xs:keyref name="RouteScheduleMachineRouteScheduleRelation" refer="RouteScheduleKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineRouteSchedule" />
+          <xs:field xpath="mstns:RouteScheduleId" />
+        </xs:keyref>
+        <xs:keyref name="MachineMachineRouteScheduleRelation" refer="MachineKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineRouteSchedule" />
+          <xs:field xpath="mstns:MachineImportId" />
+        </xs:keyref>
+        <xs:keyref name="MachineVisitMachineVisitDetailRelation" refer="MachineVisitKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineVisitDetail" />
+          <xs:field xpath="mstns:MachineVisitImportId" />
+        </xs:keyref>
+        <xs:keyref name="ItemsMachineVisitDetailRelation" refer="ItemsKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineVisitDetail" />
+          <xs:field xpath="mstns:ItemsImportId" />
+        </xs:keyref>
+        <xs:keyref name="MachineMachineVisitRelation" refer="MachineKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineVisit" />
+          <xs:field xpath="mstns:MachineImportId" />
+        </xs:keyref>
+        <xs:keyref name="MachineMachineCoilRelation" refer="MachineKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineCoil" />
+          <xs:field xpath="mstns:MachineImportId" />
+        </xs:keyref>
+        <xs:keyref name="ItemsMachineCoilRelation" refer="ItemsKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:MachineCoil" />
+          <xs:field xpath="mstns:ItemsImportId" />
+        </xs:keyref>
+        <xs:keyref name="LocationListMachineRelation" refer="LocationListKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:Machine" />
+          <xs:field xpath="mstns:LocationListImportId" />
+        </xs:keyref>
+        <xs:keyref name="RoutesMachineRelation" refer="RoutesKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:Machine" />
+          <xs:field xpath="mstns:RoutesImportId" />
+        </xs:keyref>
+        <xs:keyref name="CustomerListLocationListRelation" refer="CustomerListKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:LocationList" />
+          <xs:field xpath="mstns:CustomerImportId" />
+        </xs:keyref>
+        <xs:keyref name="ItemCategoryItemsRelation" refer="ItemCategoryKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:Items" />
+          <xs:field xpath="mstns:ItemCategoryImportId" />
+        </xs:keyref>
+        <xs:keyref name="ItemManufacturerItemsRelation" refer="ItemManufacturerKey" msdata:UpdateRule="None" msdata:DeleteRule="None">
+          <xs:selector xpath=".//mstns:Items" />
+          <xs:field xpath="mstns:ItemManufacturerImportId" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <UploadDataSet xmlns="http://cantaloupesys.com/Seed/SeedSync/Interaction/UploadDataSet.xsd">
+        <CustomerList diffgr:id="CustomerList1" msdata:rowOrder="0">
+          <ImportId>MEI-151302</ImportId>
+          <CustomerName>Delavan Goodrich</CustomerName>
+          <Address1></Address1>
+        </CustomerList>
+        <CustomerList diffgr:id="CustomerList2" msdata:rowOrder="1">
+          <ImportId>MEI-2773</ImportId>
+          <CustomerName>CSI</CustomerName>
+          <Address1></Address1>
+        </CustomerList>
+        <CustomerList diffgr:id="CustomerList3" msdata:rowOrder="2">
+          <ImportId>MEI-2815</ImportId>
+          <CustomerName>West Corporation</CustomerName>
+          <Address1></Address1>
+        </CustomerList>
+        <CustomerList diffgr:id="CustomerList4" msdata:rowOrder="3">
+          <ImportId>MEI-60049</ImportId>
+          <CustomerName>CITY OF INDEPENDENCE</CustomerName>
+          <Address1></Address1>
+        </CustomerList>
+        <Items diffgr:id="Items1" msdata:rowOrder="0">
+          <ImportId>P-22001</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>23000</ItemCategoryImportId>
+          <ProductCode>22001</ProductCode>
+          <ItemName>COKE CANS</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items2" msdata:rowOrder="1">
+          <ImportId>P-22002</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>23000</ItemCategoryImportId>
+          <ProductCode>22002</ProductCode>
+          <ItemName>DIET COKE CANS</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items3" msdata:rowOrder="2">
+          <ImportId>P-22100</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>23000</ItemCategoryImportId>
+          <ProductCode>22100</ProductCode>
+          <ItemName>SPRITE CANS</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items4" msdata:rowOrder="3">
+          <ImportId>P-23001</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>23000</ItemCategoryImportId>
+          <ProductCode>23001</ProductCode>
+          <ItemName>DR PEPPER CANS</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items5" msdata:rowOrder="4">
+          <ImportId>P-24001</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24001</ProductCode>
+          <ItemName>PEPSI 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items6" msdata:rowOrder="5">
+          <ImportId>P-24002</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24002</ProductCode>
+          <ItemName>PEPSI DIET 20 OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items7" msdata:rowOrder="6">
+          <ImportId>P-24050</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24050</ProductCode>
+          <ItemName>MOUNTAIN DEW 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items8" msdata:rowOrder="7">
+          <ImportId>P-24051</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24051</ProductCode>
+          <ItemName>MOUNTAIN DEW DIET 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items9" msdata:rowOrder="8">
+          <ImportId>P-24140</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24140</ProductCode>
+          <ItemName>MUG ROOTBEER 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items10" msdata:rowOrder="9">
+          <ImportId>P-24152</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24152</ProductCode>
+          <ItemName>LIPTON BRISK SWEET TEA LEMON 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items11" msdata:rowOrder="10">
+          <ImportId>P-24199</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>24199</ProductCode>
+          <ItemName>NEW ORANGE CRUSH 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items12" msdata:rowOrder="11">
+          <ImportId>P-25000</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>25000</ProductCode>
+          <ItemName>COKE 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items13" msdata:rowOrder="12">
+          <ImportId>P-25001</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>25001</ProductCode>
+          <ItemName>COKE DIET 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items14" msdata:rowOrder="13">
+          <ImportId>P-25050</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>25050</ProductCode>
+          <ItemName>SPRITE 20OZ BOTTLE</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items15" msdata:rowOrder="14">
+          <ImportId>P-26200</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>26200</ProductCode>
+          <ItemName>DIET DR PEPPER BOTTLE 20OZ</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items16" msdata:rowOrder="15">
+          <ImportId>P-26201</ImportId>
+          <ItemManufacturerImportId>136</ItemManufacturerImportId>
+          <ItemCategoryImportId>26000</ItemCategoryImportId>
+          <ProductCode>26201</ProductCode>
+          <ItemName>DR PEPPER BOTTLE 20OZ</ItemName>
+          <Count>24</Count>
+        </Items>
+        <Items diffgr:id="Items17" msdata:rowOrder="16">
+          <ImportId>P-28010</ImportId>
+          <ItemManufacturerImportId>137</ItemManufacturerImportId>
+          <ItemCategoryImportId>123321</ItemCategoryImportId>
+          <ProductCode>28010</ProductCode>
+          <ItemName>DASANI WATER 20 oz</ItemName>
+          <Count>24</Count>
+        </Items>
+        <LocationList diffgr:id="LocationList1" msdata:rowOrder="0">
+          <ImportId>151302</ImportId>
+          <CustomerImportId>MEI-151302</CustomerImportId>
+          <Location>DELAVAN GOODRICH- 4TH</Location>
+          <Address1>811 4TH ST</Address1>
+          <City>WEST DES MOINES</City>
+          <State>IA</State>
+          <Zip>50265</Zip>
+          <PhoneNumber>5156333135</PhoneNumber>
+          <Contact xml:space="preserve">ANDREA SPIKER</Contact>
+        </LocationList>
+        <LocationList diffgr:id="LocationList2" msdata:rowOrder="1">
+          <ImportId>2773</ImportId>
+          <CustomerImportId>MEI-2773</CustomerImportId>
+          <Location>CSI</Location>
+          <Address1>1212 N. 96th Street</Address1>
+          <PhoneNumber>4029978456</PhoneNumber>
+          <Contact xml:space="preserve">Patti Coash</Contact>
+        </LocationList>
+        <LocationList diffgr:id="LocationList3" msdata:rowOrder="2">
+          <ImportId>2815</ImportId>
+          <CustomerImportId>MEI-2815</CustomerImportId>
+          <Location>WEST CORPORATION (W6)</Location>
+          <Address1>9223 BEDFORD AVE</Address1>
+          <PhoneNumber>4029631200</PhoneNumber>
+          <Contact xml:space="preserve">DAN SCHNEEDERS</Contact>
+        </LocationList>
+        <LocationList diffgr:id="LocationList4" msdata:rowOrder="3">
+          <ImportId>60049</ImportId>
+          <CustomerImportId>MEI-60049</CustomerImportId>
+          <Location>INDEPENDENCE CITY HALL</Location>
+          <Address1>111 E. MAPLE</Address1>
+          <City>INDEPENDENCE</City>
+          <State>MO</State>
+          <Zip>64050</Zip>
+          <PhoneNumber>8163257091</PhoneNumber>
+          <Contact xml:space="preserve">MARY DERRINGTON</Contact>
+        </LocationList>
+        <Machine diffgr:id="Machine1" msdata:rowOrder="0">
+          <ImportId>166343</ImportId>
+          <LocationListImportId>60049</LocationListImportId>
+          <RoutesImportId>0</RoutesImportId>
+          <Place>EMP LUNCHROOM</Place>
+          <AssetId>166343</AssetId>
+          <Type>DIXIE NARCO 522</Type>
+          <UserSerial>20246250BT</UserSerial>
+        </Machine>
+        <Machine diffgr:id="Machine2" msdata:rowOrder="1">
+          <ImportId>207387</ImportId>
+          <LocationListImportId>2773</LocationListImportId>
+          <RoutesImportId>20015</RoutesImportId>
+          <Place>4TH FLOOR</Place>
+          <AssetId>207387</AssetId>
+          <SeedSerialNumber>34913</SeedSerialNumber>
+          <Type>DIXIE NARCO 276 E</Type>
+          <UserSerial>05886591AY</UserSerial>
+        </Machine>
+        <Machine diffgr:id="Machine3" msdata:rowOrder="2">
+          <ImportId>207687</ImportId>
+          <LocationListImportId>2815</LocationListImportId>
+          <RoutesImportId>20015</RoutesImportId>
+          <Place>W6 LOWER LEVEL</Place>
+          <AssetId>207687</AssetId>
+          <SeedSerialNumber>34578</SeedSerialNumber>
+          <Type>VENDO 720</Type>
+          <UserSerial>830745</UserSerial>
+        </Machine>
+        <Machine diffgr:id="Machine4" msdata:rowOrder="3">
+          <ImportId>208342</ImportId>
+          <LocationListImportId>151302</LocationListImportId>
+          <RoutesImportId>40005</RoutesImportId>
+          <Place>Upstairs</Place>
+          <AssetId>208342</AssetId>
+          <SeedSerialNumber>136619</SeedSerialNumber>
+          <Type>ROYAL 550</Type>
+          <UserSerial>20100CAO0011</UserSerial>
+        </Machine>
+        <MachineCoil diffgr:id="MachineCoil1" msdata:rowOrder="0">
+          <MachineImportId>166343</MachineImportId>
+          <Coil>1</Coil>
+          <CoilGroupName>T</CoilGroupName>
+          <ItemsImportId>P-22001</ItemsImportId>
+          <ParLevel>48</ParLevel>
+          <Capacity>48</Capacity>
+          <Price>0.65</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil2" msdata:rowOrder="1">
+          <MachineImportId>166343</MachineImportId>
+          <Coil>2</Coil>
+          <CoilGroupName>S</CoilGroupName>
+          <ItemsImportId>P-28010</ItemsImportId>
+          <ParLevel>0</ParLevel>
+          <Capacity>0</Capacity>
+          <Price>0.65</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil3" msdata:rowOrder="2">
+          <MachineImportId>166343</MachineImportId>
+          <Coil>3</Coil>
+          <CoilGroupName>T</CoilGroupName>
+          <ItemsImportId>P-22001</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil4" msdata:rowOrder="3">
+          <MachineImportId>166343</MachineImportId>
+          <Coil>4</Coil>
+          <CoilGroupName>S</CoilGroupName>
+          <ItemsImportId>P-28010</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>0.65</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil5" msdata:rowOrder="4">
+          <MachineImportId>166343</MachineImportId>
+          <Coil>5</Coil>
+          <ItemsImportId>P-22100</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>0.65</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil6" msdata:rowOrder="5">
+          <MachineImportId>166343</MachineImportId>
+          <Coil>6</Coil>
+          <ItemsImportId>P-23001</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>0.65</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil7" msdata:rowOrder="6">
+          <MachineImportId>207387</MachineImportId>
+          <Coil>1</Coil>
+          <CoilGroupName>A</CoilGroupName>
+          <ItemsImportId>P-25001</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil8" msdata:rowOrder="7">
+          <MachineImportId>207387</MachineImportId>
+          <Coil>2</Coil>
+          <CoilGroupName>A</CoilGroupName>
+          <ItemsImportId>P-25001</ItemsImportId>
+          <ParLevel>0</ParLevel>
+          <Capacity>0</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil9" msdata:rowOrder="8">
+          <MachineImportId>207387</MachineImportId>
+          <Coil>3</Coil>
+          <CoilGroupName>B</CoilGroupName>
+          <ItemsImportId>P-28010</ItemsImportId>
+          <ParLevel>48</ParLevel>
+          <Capacity>48</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil10" msdata:rowOrder="9">
+          <MachineImportId>207387</MachineImportId>
+          <Coil>4</Coil>
+          <ItemsImportId>P-24199</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil11" msdata:rowOrder="10">
+          <MachineImportId>207387</MachineImportId>
+          <Coil>5</Coil>
+          <ItemsImportId>P-25000</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil12" msdata:rowOrder="11">
+          <MachineImportId>207387</MachineImportId>
+          <Coil>6</Coil>
+          <CoilGroupName>B</CoilGroupName>
+          <ItemsImportId>P-28010</ItemsImportId>
+          <ParLevel>0</ParLevel>
+          <Capacity>0</Capacity>
+          <Price>0.65</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil13" msdata:rowOrder="12">
+          <MachineImportId>207687</MachineImportId>
+          <Coil>1</Coil>
+          <CoilGroupName>A</CoilGroupName>
+          <ItemsImportId>P-24050</ItemsImportId>
+          <ParLevel>60</ParLevel>
+          <Capacity>60</Capacity>
+          <Price>1.35</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil14" msdata:rowOrder="13">
+          <MachineImportId>207687</MachineImportId>
+          <Coil>3</Coil>
+          <CoilGroupName>A</CoilGroupName>
+          <ItemsImportId>P-24050</ItemsImportId>
+          <ParLevel>60</ParLevel>
+          <Capacity>60</Capacity>
+          <Price>1.35</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil15" msdata:rowOrder="14">
+          <MachineImportId>207687</MachineImportId>
+          <Coil>5</Coil>
+          <ItemsImportId>P-24002</ItemsImportId>
+          <ParLevel>60</ParLevel>
+          <Capacity>60</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil16" msdata:rowOrder="15">
+          <MachineImportId>207687</MachineImportId>
+          <Coil>7</Coil>
+          <CoilGroupName>B</CoilGroupName>
+          <ItemsImportId>P-24051</ItemsImportId>
+          <ParLevel>60</ParLevel>
+          <Capacity>60</Capacity>
+          <Price>1.35</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil17" msdata:rowOrder="16">
+          <MachineImportId>207687</MachineImportId>
+          <Coil>9</Coil>
+          <CoilGroupName>B</CoilGroupName>
+          <ItemsImportId>P-24051</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.35</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil18" msdata:rowOrder="17">
+          <MachineImportId>207687</MachineImportId>
+          <Coil>10</Coil>
+          <ItemsImportId>P-24140</ItemsImportId>
+          <ParLevel>12</ParLevel>
+          <Capacity>12</Capacity>
+          <Price>1.35</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil19" msdata:rowOrder="18">
+          <MachineImportId>208342</MachineImportId>
+          <Coil>1</Coil>
+          <ItemsImportId>P-25000</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil20" msdata:rowOrder="19">
+          <MachineImportId>208342</MachineImportId>
+          <Coil>2</Coil>
+          <ItemsImportId>P-25001</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil21" msdata:rowOrder="20">
+          <MachineImportId>208342</MachineImportId>
+          <Coil>3</Coil>
+          <ItemsImportId>P-25050</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil22" msdata:rowOrder="21">
+          <MachineImportId>208342</MachineImportId>
+          <Coil>4</Coil>
+          <ItemsImportId>P-26201</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.00</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil23" msdata:rowOrder="22">
+          <MachineImportId>208342</MachineImportId>
+          <Coil>5</Coil>
+          <ItemsImportId>P-26200</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <MachineCoil diffgr:id="MachineCoil24" msdata:rowOrder="23">
+          <MachineImportId>208342</MachineImportId>
+          <Coil>6</Coil>
+          <ItemsImportId>P-28010</ItemsImportId>
+          <ParLevel>24</ParLevel>
+          <Capacity>24</Capacity>
+          <Price>1.25</Price>
+        </MachineCoil>
+        <Routes diffgr:id="Routes1" msdata:rowOrder="0">
+          <ImportId>0</ImportId>
+          <RouteNumber>0</RouteNumber>
+          <RouteName>Default Route..</RouteName>
+          <RouteDescription>Default Route</RouteDescription>
+        </Routes>
+        <Routes diffgr:id="Routes2" msdata:rowOrder="1">
+          <ImportId>20015</ImportId>
+          <RouteNumber>15</RouteNumber>
+          <RouteName>RT 15</RouteName>
+        </Routes>
+        <Routes diffgr:id="Routes3" msdata:rowOrder="2">
+          <ImportId>40005</ImportId>
+          <RouteNumber>10006</RouteNumber>
+          <RouteName>DM5</RouteName>
+        </Routes>
+        <ItemCategory diffgr:id="ItemCategory1" msdata:rowOrder="0">
+          <ImportId>123321</ImportId>
+          <Name>Water</Name>
+        </ItemCategory>
+        <ItemCategory diffgr:id="ItemCategory2" msdata:rowOrder="1">
+          <ImportId>23000</ImportId>
+          <Name>Cans</Name>
+        </ItemCategory>
+        <ItemCategory diffgr:id="ItemCategory3" msdata:rowOrder="2">
+          <ImportId>26000</ImportId>
+          <Name>Bottles</Name>
+        </ItemCategory>
+        <ItemManufacturer diffgr:id="ItemManufacturer1" msdata:rowOrder="0">
+          <ImportId>136</ImportId>
+          <Name>PEPSI-COLA</Name>
+        </ItemManufacturer>
+        <ItemManufacturer diffgr:id="ItemManufacturer2" msdata:rowOrder="1">
+          <ImportId>137</ImportId>
+          <Name>COCA-COLA</Name>
+        </ItemManufacturer>
+        <Driver diffgr:id="Driver1" msdata:rowOrder="0">
+          <ImportId>DM4</ImportId>
+          <Name>Jason Vandersluis</Name>
+        </Driver>
+        <Driver diffgr:id="Driver2" msdata:rowOrder="1">
+          <ImportId>OM22</ImportId>
+          <Name>JEFF CONRAD</Name>
+        </Driver>
+      </UploadDataSet>
+    </diffgr:diffgram>
+  </UploadDataSet>
+  <ClientMessagesDataSet>
+    <xs:schema id="ClientMessagesDataSet" targetNamespace="http://cantaloupesys.com/Seed/SeedSync/Interaction/ClientMessagesDataSet.xsd" xmlns:mstns="http://cantaloupesys.com/Seed/SeedSync/Interaction/ClientMessagesDataSet.xsd" xmlns="http://cantaloupesys.com/Seed/SeedSync/Interaction/ClientMessagesDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+      <xs:element name="ClientMessagesDataSet" msdata:IsDataSet="true" msdata:Locale="en-US">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="ClientMessages">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="MessageLevel" default="E">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:length value="1" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="MessageType" type="xs:string" minOccurs="0" />
+                  <xs:element name="ObjectName" type="xs:string" minOccurs="0" />
+                  <xs:element name="RecordId" type="xs:string" minOccurs="0" />
+                  <xs:element name="Message" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+  </ClientMessagesDataSet>
+</UploadData>

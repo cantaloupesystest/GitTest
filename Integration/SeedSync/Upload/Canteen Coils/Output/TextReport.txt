@@ -1,0 +1,35 @@
+WARNINGS                                          	                                      	                        	             	              
+Machine coil product changed                      	                                      	                        	             	              
+Route Name                                        	Asset Id                              	Coil                    	VMS Product  	Seed Product  
+Route Name 50 Symbols Max length 12345678901234!@#	Asset ID 16 Symb                      	                        	             	              
+                                                  	                                      	1                       	30051        	00000         
+Machine coil par level changed                    	                                      	                        	             	              
+Route Name                                        	Asset Id                              	Coil                    	VMS Par Level	Seed Par Level
+Route Name 50 Symbols Max length 12345678901234!@#	Asset ID 16 Symb                      	                        	             	              
+                                                  	                                      	1                       	100          	0             
+Machine coil capacity changed                     	                                      	                        	             	              
+Route Name                                        	Asset Id                              	Coil                    	VMS Capacity 	Seed Capacity 
+Route Name 50 Symbols Max length 12345678901234!@#	Asset ID 16 Symb                      	                        	             	              
+                                                  	                                      	1                       	100          	0             
+Machine coil price differences                    	                                      	                        	             	              
+Route Name                                        	Asset Id                              	Coil                    	VMS Price    	Seed Price    
+Route Name 50 Symbols Max length 12345678901234!@#	Asset ID 16 Symb                      	                        	             	              
+                                                  	                                      	1                       	$3.25        	$2.25         
+                                                  	                                      	3                       	$1.25        	$2.25         
+INFORMATION                                       	                                      	                        	             	              
+Summary                                           	                                      	                        	             	              
+Data Building Time:                               	0h:0m:40s                             	                        	             	              
+Data Processing Time:                             	0h:0m:0s                              	                        	             	              
+Product Manufacturers:                            	1                                     	Machines:               	             	1             
+Product Categories:                               	1                                     	Inventories:            	             	3             
+Products:                                         	2                                     	Machine Visits:         	             	0             
+Routes:                                           	1                                     	Machine Visit Details:  	             	0             
+Customers:                                        	1                                     	Route Schedules:        	             	0             
+Locations:                                        	1                                     	Machine Route Schedules:	             	0             
+TECHNICAL INFORMATION                             	                                      	                        	             	              
+Reporting Version:                                	0.0                                   	                        	             	              
+Client:                                           	Processor=Vendmax, Version=2.0.0.29859	                        	             	              
+Request URL:                                      	http://test.org/                      	                        	             	              
+Username:                                         	test@test.com                         	                        	             	              
+Transaction Id:                                   	0                                     	                        	             	              
+Highest Framework Version:                        	4.0.30319                             	                        	             	              

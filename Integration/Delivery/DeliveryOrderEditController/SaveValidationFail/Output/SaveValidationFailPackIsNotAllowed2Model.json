@@ -1,0 +1,14 @@
+{
+  "IsOrderOverpaid": false,
+  "IsOrderCreditAllocated": false,
+  "DetailUrl": null,
+  "PdfUrl": null,
+  "OrderedScheduleLockHistories": null,
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Pack \"10033 - Fanta Orange Soda 12oz\" / \"Case (24ct)\" is not allowed for current pricing plan. Please remove or select a replacement.",
+    "Pack \"200004 - Special K Protein Meal Bar ChocoPB\" / \"Each\" is not allowed for current pricing plan. Please remove or select a replacement."
+  ]
+}

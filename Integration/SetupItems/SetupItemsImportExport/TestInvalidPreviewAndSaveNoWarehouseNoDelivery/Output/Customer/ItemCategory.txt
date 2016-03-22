@@ -1,0 +1,40 @@
+Id	Name	Description	ImportId	PickOrder	PrepickColumnCondition	IsPrepickColumnConditionEnforced	
+=0	=Generic	[NULL]	[NULL]	[NULL]	=0	=False	
+=11	=Cookie	=Cookie	[NULL]	[NULL]	=0	=False	
+=13	=Candy	[NULL]	[NULL]	[NULL]	=0	=False	
+=15	=Food	=Food	[NULL]	[NULL]	=0	=False	
+=16	=Gum & Mint	[NULL]	[NULL]	[NULL]	=0	=False	
+=17	=Salty Snack: non-chip	=Salty Snack: non-chip	[NULL]	[NULL]	=0	=False	
+=18	=Juice	[NULL]	[NULL]	[NULL]	=0	=False	
+=22	=Pastry	[NULL]	[NULL]	[NULL]	=0	=False	
+=23	=Chip	=Chip	[NULL]	[NULL]	=0	=False	
+=24	=Sweet Snack: non-candy	=Sweet Snack: non-candy	[NULL]	[NULL]	=0	=False	
+=25	=Soft Drink - can	=Soft Drink - can	[NULL]	[NULL]	=0	=False	
+=26	=Soft Drink - bottle	=Soft Drink - bottle	[NULL]	[NULL]	=0	=False	
+=27	=Sports Drink	[NULL]	[NULL]	[NULL]	=0	=False	
+=28	=Water	[NULL]	[NULL]	[NULL]	=0	=False	
+=29	=Energy Drink	=Energy Drink	[NULL]	[NULL]	=0	=False	
+=32	=5 Gallon Water	=5 Gallon Water	[NULL]	[NULL]	=0	=False	
+=34	=Cold Food	=	[NULL]	[NULL]	=0	=False	
+=35	=LSS Chip	=LSS Chip	[NULL]	[NULL]	=0	=False	
+=36	=Gum-Mint	[NULL]	=7	[NULL]	=0	=False	
+=37	=Salty Snack - Non-Chip	[NULL]	=8	[NULL]	=0	=False	
+=38	=Sweet Snack - Non-Candy	[NULL]	=9	[NULL]	=0	=False	
+=39	=Juice and Milk	[NULL]	=15	[NULL]	=0	=False	
+=40	=Soft Drink - Bottle 16.9 oz	[NULL]	[NULL]	[NULL]	=0	=False	
+=41	=Soft Drink - Bottle 20 oz	[NULL]	[NULL]	[NULL]	=0	=False	
+=42	=Chip - Fit Pick	[NULL]	[NULL]	[NULL]	=0	=False	
+=43	=LSS Chip - Fit Pick	[NULL]	[NULL]	[NULL]	=0	=False	
+=44	=Cookie - Fit Pick	[NULL]	[NULL]	[NULL]	=0	=False	
+=45	=Pastry - Short-Term	[NULL]	[NULL]	[NULL]	=0	=False	
+=46	=Pastry - Fit Pick	[NULL]	[NULL]	[NULL]	=0	=False	
+=47	=Pastry - Long Term	[NULL]	[NULL]	[NULL]	=0	=False	
+=48	=Gum - Blister Pack	[NULL]	[NULL]	[NULL]	=0	=False	
+=49	=Candy LSC	[NULL]	[NULL]	[NULL]	=0	=False	
+=50	=Thin Snack	[NULL]	[NULL]	[NULL]	=0	=False	
+=51	=Thin Snack - Fit Pick	[NULL]	[NULL]	[NULL]	=0	=False	
+=52	=Fresh Food	[NULL]	[NULL]	[NULL]	=0	=False	
+=53	=Micro Market Food	[NULL]	[NULL]	[NULL]	=0	=False	
+=54	=Frozen Food	[NULL]	[NULL]	[NULL]	=0	=False	
+=55	=Candy - Fit Pick	[NULL]	[NULL]	[NULL]	=0	=False	
+=56	=Grocery Items	[NULL]	[NULL]	[NULL]	=0	=False	

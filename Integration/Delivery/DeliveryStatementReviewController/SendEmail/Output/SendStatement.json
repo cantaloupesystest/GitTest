@@ -1,0 +1,38 @@
+{
+  "To": [
+    {
+      "DisplayName": "",
+      "User": "CustomerTest",
+      "Host": "test.com",
+      "Address": "CustomerTest@test.com"
+    },
+    {
+      "DisplayName": "",
+      "User": "CustomerSecondMail",
+      "Host": "test.com",
+      "Address": "CustomerSecondMail@test.com"
+    }
+  ],
+  "From": {
+    "DisplayName": "Gulp-It!, Inc.",
+    "User": "donotreply",
+    "Host": "cantaloupesys.com",
+    "Address": "donotreply@cantaloupesys.com"
+  },
+  "CC": [],
+  "Bcc": [],
+  "Subject": "Statement from Gulp-It!, Inc..",
+  "ReplyToList": [
+    {
+      "DisplayName": "Gulp-It!, Inc.",
+      "User": "george",
+      "Host": "gulpitvending.com",
+      "Address": "george@gulpitvending.com"
+    }
+  ],
+  "Priority": 0,
+  "Headers": [],
+  "DeliveryNotificationOptions": 0,
+  "IsBodyHtml": false,
+  "Body": "Thank you for ordering from Gulp-It!, Inc.. Your 5/31/2015 account statement is attached.\r\nIf you have any questions about your order, please contact us by phone or reply to this email.\r\n\r\nGulp-It!, Inc.\r\n281-773-3564"
+}

@@ -1,0 +1,7 @@
+{
+  "PackRules": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Row 4, UPC '', Item Name 'Root Beer AW 12oz can': Either Cost Plus or Fixed Price must be specified."
+  ]
+}

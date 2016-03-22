@@ -1,0 +1,31 @@
+ERRORS                    	                                      	                                                                                  	  
+Import errors             	                                      	                                                                                  	  
+Import Id                 	Object                                	Message                                                                           	  
+                          	Machine                               	Device '33204' is assigned to many Machine Asset IDs: '163654', '166355'.         	  
+168052                    	Machine                               	Device 222222 linking to Asset ID 168052 error: Device 222222 not found..         	  
+207289                    	Machine                               	Device 109552 unlinking from Asset ID 207289 error: Device 109552 not found.      	  
+207289                    	Machine                               	Device 32247 linking to Asset ID 207289 failed because another already set 109552.	  
+WARNINGS                  	                                      	                                                                                  	  
+Import warnings           	                                      	                                                                                  	  
+Import Id                 	Object                                	Message                                                                           	  
+159891                    	Machine                               	Device 108639 is unlinked from Asset ID 159891.                                   	  
+167687                    	Machine                               	Device 103568 is unlinked from Asset ID 167687.                                   	  
+167687                    	Machine                               	Device 108639 is linked to Asset ID 167687.                                       	  
+168052                    	Machine                               	Device 103569 is unlinked from Asset ID 168052.                                   	  
+INFORMATION               	                                      	                                                                                  	  
+Summary                   	                                      	                                                                                  	  
+Data Building Time:       	0h:0m:40s                             	                                                                                  	  
+Data Processing Time:     	0h:0m:0s                              	                                                                                  	  
+Product Manufacturers:    	4                                     	Machines:                                                                         	5 
+Product Categories:       	4                                     	Inventories:                                                                      	27
+Products:                 	18                                    	Machine Visits:                                                                   	0 
+Routes:                   	5                                     	Machine Visit Details:                                                            	0 
+Customers:                	5                                     	Route Schedules:                                                                  	0 
+Locations:                	5                                     	Machine Route Schedules:                                                          	0 
+TECHNICAL INFORMATION     	                                      	                                                                                  	  
+Reporting Version:        	0.0                                   	                                                                                  	  
+Client:                   	Processor=Vendmax, Version=2.0.0.29859	                                                                                  	  
+Request URL:              	http://test.org/                      	                                                                                  	  
+Username:                 	test@test.com                         	                                                                                  	  
+Transaction Id:           	0                                     	                                                                                  	  
+Highest Framework Version:	4.0.30319                             	                                                                                  	  

@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Columns required: 'UPC'."
+    ]
+  },
+  "Preview": null
+}

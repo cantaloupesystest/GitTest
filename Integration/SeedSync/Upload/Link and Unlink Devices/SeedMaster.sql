@@ -1,0 +1,1 @@
+﻿update Devices set MachineId = null where SerialNumber = 142855

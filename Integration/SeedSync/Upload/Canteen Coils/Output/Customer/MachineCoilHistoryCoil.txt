@@ -1,0 +1,1 @@
+Id	MachineCoilHistoryId	CoilName	OldItemId	NewItemId	AddedQuantity	SpoiledQuantity	RemovedQuantity	ObservedQuantity	CoilGroupingAdjustmentQuantity	SystemAdjustmentQuantity	InventoryAdjustmentQuantity	FutureInventoryAdjustmentQuantity	OfflineSaleId	InitialInventoryLevel	

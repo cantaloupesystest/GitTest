@@ -1,0 +1,13 @@
+Id	RouteId	BranchId	Name	UserDesiredMachinesCount	ScheduleDateOnly	CalculationDateOnly	Locked	CreatedBy	CreatedDateTime	Deleted	
+=5001	=2	[NULL]	=	=10000	=04/01/2050 00:00:00	=07/15/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/14/2014 09:48:21	=True	
+=5002	=2	[NULL]	=	=10000	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 05:17:26	=False	
+=5003	=3	[NULL]	=	=10000	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 07:52:04	=False	
+=5004	=4	[NULL]	=1	=50	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 07:57:57	=False	
+=5005	=4	[NULL]	=2	=30	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 07:59:30	=False	
+=5006	=6	[NULL]	=	=30	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 08:08:17	=False	
+=5007	=7	[NULL]	=	[NULL]	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=False	=sema.tereshonok@cantaloupesys.com	=07/15/2014 08:12:35	=True	
+=5008	=7	[NULL]	=	=30	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 08:13:02	=False	
+=5009	=9	[NULL]	=	[NULL]	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=False	=sema.tereshonok@cantaloupesys.com	=07/15/2014 09:06:18	=True	
+=5010	=9	[NULL]	=	=30	=04/01/2050 00:00:00	=07/16/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 09:06:46	=False	
+=5011	=9	[NULL]	=	=30	=04/02/2050 00:00:00	=07/17/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 09:09:42	=False	
+=5012	=9	[NULL]	=	=300	=07/18/2014 00:00:00	=07/18/2014 00:00:00	=True	=sema.tereshonok@cantaloupesys.com	=07/15/2014 09:15:37	=False	

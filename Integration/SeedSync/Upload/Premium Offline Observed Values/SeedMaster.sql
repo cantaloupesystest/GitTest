@@ -1,0 +1,1 @@
+﻿Update SeedSyncConfiguration set DoMachineVisitAutoRestock=1

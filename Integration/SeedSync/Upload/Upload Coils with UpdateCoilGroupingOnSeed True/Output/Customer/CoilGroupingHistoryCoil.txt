@@ -1,0 +1,5 @@
+Id	CoilGroupingHistoryId	Name	GroupName	
+=1	=2437	=1	=A	
+=2	=2437	=3	=A	
+=3	=2437	=7	=B	
+=4	=2437	=9	=B	

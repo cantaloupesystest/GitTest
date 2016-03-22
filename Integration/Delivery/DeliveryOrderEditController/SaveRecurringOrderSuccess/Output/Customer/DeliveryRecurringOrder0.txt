@@ -1,0 +1,4 @@
+Id	MachineId	RecurringOrderInterval	RecurringOrderIntervalUnit	NextScheduleDate	EndDate	AutoDeliver	CreateInAdvanceDaysCount	CreatedByUserId	Active	Deleted	IsPendingProcessing	Note	
+=1	=999944	=1	=D	=12/13/2013 00:00:00	=12/15/2013 00:00:00	=True	=2	=3363	=True	=False	=False	=Recurring Order Description 1	
+=2	=999945	=1	=M	=12/11/2013 00:00:00	[NULL]	=False	=1	=3369	=True	=False	=False	=Recurring Order Description 2	
+=3	=1192862	=2	=W	=09/11/2015 00:00:00	[NULL]	=True	=10	=2678	=True	=False	=True	=Test	

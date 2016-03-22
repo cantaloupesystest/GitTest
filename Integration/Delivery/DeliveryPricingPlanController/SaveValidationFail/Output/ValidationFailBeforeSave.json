@@ -1,0 +1,16 @@
+{
+  "ErrorKeys": [
+    32,
+    20,
+    30,
+    27,
+    33
+  ],
+  "ErrorMessages": [
+    "'Cost Plus' cannot be set for Invoice-Only item.",
+    "'Pack' must be unique.",
+    "'Pack' must be unique.",
+    "'Item Category' must be unique.",
+    "'Item Category' must be unique."
+  ]
+}

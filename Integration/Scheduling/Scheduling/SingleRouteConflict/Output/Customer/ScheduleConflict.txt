@@ -1,0 +1,4 @@
+Id	ScheduleId	MissedLastTimeStaticMachineId	SubRouteNumber	IsInitiallySelected	IsUserSelected	
+=32	=2387	[NULL]	=1	=True	[NULL]	
+=33	=2387	[NULL]	=2	=False	[NULL]	
+=34	=2387	[NULL]	=0	=False	[NULL]	

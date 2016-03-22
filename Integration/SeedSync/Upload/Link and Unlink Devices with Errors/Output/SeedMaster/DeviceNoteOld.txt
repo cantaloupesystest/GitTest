@@ -1,0 +1,5 @@
+Id	SerialNumber	IsRecentNoteDateTime	NoteType	Text	CreatedBy	
+=1	=103568	=True	=Moves/Swaps	=Seed device 103568 has been removed from the MachineID 603568, Catalog Customer	=test@test.com	
+=2	=103569	=True	=Moves/Swaps	=Seed device 103569 has been removed from the MachineID 603569, Catalog Customer	=test@test.com	
+=3	=108639	=True	=Moves/Swaps	=Seed device 108639 has been removed from the MachineID 608639, Catalog Customer	=test@test.com	
+=4	=108639	=True	=Moves/Swaps	=Seed device 108639 has been linked to the MachineID 603568, Catalog Customer	=test@test.com	

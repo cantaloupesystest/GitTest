@@ -1,0 +1,1 @@
+Id	CanteenUploadTransactionId	MachineId	ProductId	SelectionName	Par	Capacity	Price	IsFloat	

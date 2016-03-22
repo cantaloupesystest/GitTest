@@ -1,0 +1,155 @@
+[
+  {
+    "Id": 0,
+    "Name": "TMCC warehouse",
+    "Schedules": []
+  },
+  {
+    "Id": 2,
+    "Name": "TMCC Off Site",
+    "Schedules": [
+      {
+        "HasPrepick": true,
+        "Id": 5388,
+        "Name": "",
+        "RouteId": 2,
+        "ScheduleDateOnly": "2014-01-27T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5392,
+        "Name": "",
+        "RouteId": 2,
+        "ScheduleDateOnly": "2014-01-28T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5405,
+        "Name": "",
+        "RouteId": 2,
+        "ScheduleDateOnly": "2014-02-20T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5407,
+        "Name": "",
+        "RouteId": 2,
+        "ScheduleDateOnly": "2014-02-21T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5408,
+        "Name": "",
+        "RouteId": 2,
+        "ScheduleDateOnly": "2014-02-24T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5409,
+        "Name": "",
+        "RouteId": 2,
+        "ScheduleDateOnly": "2015-11-16T00:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "TMCC Sierra Main",
+    "Schedules": [
+      {
+        "HasPrepick": true,
+        "Id": 5390,
+        "Name": "",
+        "RouteId": 3,
+        "ScheduleDateOnly": "2014-01-27T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5406,
+        "Name": "",
+        "RouteId": 3,
+        "ScheduleDateOnly": "2014-02-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Vista Lobby",
+    "Schedules": [
+      {
+        "HasPrepick": true,
+        "Id": 5386,
+        "Name": "",
+        "RouteId": 4,
+        "ScheduleDateOnly": "2014-01-27T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5396,
+        "Name": "",
+        "RouteId": 4,
+        "ScheduleDateOnly": "2014-02-19T00:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Student Center Lobby",
+    "Schedules": [
+      {
+        "HasPrepick": true,
+        "Id": 5387,
+        "Name": "",
+        "RouteId": 5,
+        "ScheduleDateOnly": "2014-01-27T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5397,
+        "Name": "",
+        "RouteId": 5,
+        "ScheduleDateOnly": "2014-02-19T00:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "RDMT 2nd Floor",
+    "Schedules": [
+      {
+        "HasPrepick": true,
+        "Id": 5384,
+        "Name": "",
+        "RouteId": 6,
+        "ScheduleDateOnly": "2014-01-27T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5395,
+        "Name": "",
+        "RouteId": 6,
+        "ScheduleDateOnly": "2014-02-19T00:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "RDMT 3rd & 4th Floor",
+    "Schedules": [
+      {
+        "HasPrepick": true,
+        "Id": 5385,
+        "Name": "",
+        "RouteId": 7,
+        "ScheduleDateOnly": "2014-01-27T00:00:00"
+      },
+      {
+        "HasPrepick": true,
+        "Id": 5393,
+        "Name": "",
+        "RouteId": 7,
+        "ScheduleDateOnly": "2014-02-19T00:00:00"
+      }
+    ]
+  }
+]

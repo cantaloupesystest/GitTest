@@ -1,0 +1,6 @@
+Id	Code	CustomerId	MachineId	ThirdPartyDeviceProviderId	
+=76	=X3R0R2D2	=580	[NULL]	=1	
+=77	=X3R1R2D2	=580	[NULL]	=1	
+=78	=X3R2R2D2	=580	[NULL]	=1	
+=79	=X3R3R2D2	=580	[NULL]	=1	
+=80	=X3R3R2D3	=580	=10	=1	

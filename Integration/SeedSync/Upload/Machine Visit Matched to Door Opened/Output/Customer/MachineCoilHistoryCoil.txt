@@ -1,0 +1,7 @@
+Id	MachineCoilHistoryId	CoilName	OldItemId	NewItemId	AddedQuantity	SpoiledQuantity	RemovedQuantity	ObservedQuantity	CoilGroupingAdjustmentQuantity	SystemAdjustmentQuantity	InventoryAdjustmentQuantity	FutureInventoryAdjustmentQuantity	OfflineSaleId	InitialInventoryLevel	
+=108713	=870192	=1	=987	=987	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=118	
+=108714	=870192	=2	=987	=987	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=0	
+=108715	=870192	=3	=1001	=1001	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=22	
+=108716	=870193	=1	=987	=987	=10	=2	=2	[NULL]	=0	=0	=0	=0	[NULL]	=118	
+=108717	=870193	=2	=987	=987	=0	=0	=0	[NULL]	=0	=0	=0	=0	[NULL]	=0	
+=108718	=870193	=3	=1001	=1001	=1	=0	=0	[NULL]	=0	=0	=0	=0	[NULL]	=22	

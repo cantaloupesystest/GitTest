@@ -1,0 +1,1 @@
+update MachineList set SmartNumber = 103568 where MachineId = 603568

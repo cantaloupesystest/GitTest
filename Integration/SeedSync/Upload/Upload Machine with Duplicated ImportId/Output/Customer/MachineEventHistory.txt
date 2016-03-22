@@ -1,0 +1,2 @@
+Id	MachineId	EventType	Parameter1	Parameter2	Parameter3	IsRecentUtcCreatedDateTime	
+=1	=603401	=SULK	=103401	=161849	[NULL]	=True	

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadRequestProcessingStatus>
+  <Errors>
+    <Error>Seed Business Date is less than todays date</Error>
+    <Error>Something about coil for Machine (Machine Number: 92000; Coil: 101)</Error>
+    <Error>Route is no longer valid (Machine Number: 92000)</Error>
+    <Error>Machine not active (Machine Number: 92000)</Error>
+  </Errors>
+  <Successful>false</Successful>
+  <VIRouteStatusID>43223</VIRouteStatusID>
+</DownloadRequestProcessingStatus>

@@ -1,0 +1,9 @@
+Id	Name	Deleted	
+=1	=Snack	=False	
+=2	=Food	=False	
+=3	=Beverage	=False	
+=4	=Tax Exempt	=False	
+=5	=Hot Drink	=False	
+=6	=Finance	=False	
+=7	=No Commission	=False	
+=8	=Cold Drinks	=False	

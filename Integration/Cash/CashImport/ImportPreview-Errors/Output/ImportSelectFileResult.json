@@ -1,0 +1,204 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Cash Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "Asset ID",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Bag Number",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Bills",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Coins",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Refunds",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Coin Refill",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Test Vends",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "2015-07-07T00:00:00",
+          "AHOU1014D",
+          3,
+          4,
+          5.5,
+          6.6,
+          7.7,
+          8.8
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [
+          "Restock doesn't exist."
+        ],
+        "Values": [
+          {
+            "Value": "7/7/2015",
+            "OldValue": null
+          },
+          {
+            "Value": "AHOU1014D",
+            "OldValue": null
+          },
+          {
+            "Value": "3",
+            "OldValue": null
+          },
+          {
+            "Value": "4",
+            "OldValue": null
+          },
+          {
+            "Value": "$5.50",
+            "OldValue": null
+          },
+          {
+            "Value": "$6.60",
+            "OldValue": null
+          },
+          {
+            "Value": "$7.70",
+            "OldValue": null
+          },
+          {
+            "Value": "$8.80",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          null,
+          "AHOU1040",
+          3,
+          4,
+          5.5,
+          6.6,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [
+          "'Cash Date' required."
+        ],
+        "Values": [
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "AHOU1040",
+            "OldValue": null
+          },
+          {
+            "Value": "3",
+            "OldValue": null
+          },
+          {
+            "Value": "4",
+            "OldValue": null
+          },
+          {
+            "Value": "$5.50",
+            "OldValue": null
+          },
+          {
+            "Value": "$6.60",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "2015-08-07T00:00:00",
+          null,
+          3,
+          4,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [
+          "'Asset ID' required."
+        ],
+        "Values": [
+          {
+            "Value": "8/7/2015",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "3",
+            "OldValue": null
+          },
+          {
+            "Value": "4",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/CashImport/ImportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

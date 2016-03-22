@@ -1,0 +1,132 @@
+{
+  "EffectiveUtcDateTime": "2014-07-07T17:25:15Z",
+  "Id": 5,
+  "CostPlusRate": 0.13000,
+  "PackFilterType": 2,
+  "PackRules": [
+    {
+      "Key": 858,
+      "Value": {
+        "Id": 1,
+        "PackId": 858,
+        "ItemId": 358,
+        "ItemsCount": 36,
+        "CostPlusRate": null,
+        "Price": 12.0
+      }
+    },
+    {
+      "Key": 859,
+      "Value": {
+        "Id": 15,
+        "PackId": 859,
+        "ItemId": 353,
+        "ItemsCount": 36,
+        "CostPlusRate": 0.20000,
+        "Price": null
+      }
+    },
+    {
+      "Key": 1074,
+      "Value": {
+        "Id": 4,
+        "PackId": 1074,
+        "ItemId": 336,
+        "ItemsCount": 104,
+        "CostPlusRate": 0.25000,
+        "Price": null
+      }
+    },
+    {
+      "Key": 1244,
+      "Value": {
+        "Id": 14,
+        "PackId": 1244,
+        "ItemId": 268,
+        "ItemsCount": 24,
+        "CostPlusRate": 0.10000,
+        "Price": null
+      }
+    },
+    {
+      "Key": 1288,
+      "Value": {
+        "Id": 13,
+        "PackId": 1288,
+        "ItemId": 264,
+        "ItemsCount": 12,
+        "CostPlusRate": null,
+        "Price": 1.5
+      }
+    },
+    {
+      "Key": 1300,
+      "Value": {
+        "Id": 3,
+        "PackId": 1300,
+        "ItemId": 926,
+        "ItemsCount": 7,
+        "CostPlusRate": 0.10000,
+        "Price": null
+      }
+    },
+    {
+      "Key": 1324,
+      "Value": {
+        "Id": 2,
+        "PackId": 1324,
+        "ItemId": 336,
+        "ItemsCount": 50,
+        "CostPlusRate": null,
+        "Price": 15.0
+      }
+    }
+  ],
+  "ItemCategoryRules": [
+    {
+      "Key": 11,
+      "Value": {
+        "Id": 2,
+        "ItemCategoryId": 11,
+        "CostPlusRate": null,
+        "Price": 1.15
+      }
+    },
+    {
+      "Key": 13,
+      "Value": {
+        "Id": 12,
+        "ItemCategoryId": 13,
+        "CostPlusRate": null,
+        "Price": 2.5
+      }
+    },
+    {
+      "Key": 26,
+      "Value": {
+        "Id": 11,
+        "ItemCategoryId": 26,
+        "CostPlusRate": null,
+        "Price": 1.12
+      }
+    },
+    {
+      "Key": 32,
+      "Value": {
+        "Id": 10,
+        "ItemCategoryId": 32,
+        "CostPlusRate": 0.22430,
+        "Price": null
+      }
+    },
+    {
+      "Key": 52,
+      "Value": {
+        "Id": 1,
+        "ItemCategoryId": 52,
+        "CostPlusRate": 0.20000,
+        "Price": null
+      }
+    }
+  ]
+}

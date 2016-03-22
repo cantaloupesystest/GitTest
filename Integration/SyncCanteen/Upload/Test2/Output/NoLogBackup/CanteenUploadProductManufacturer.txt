@@ -1,0 +1,2 @@
+Id	CanteenUploadTransactionId	ProductManufacturerId	Name	
+=29697	=304	=66	=Kellogg	

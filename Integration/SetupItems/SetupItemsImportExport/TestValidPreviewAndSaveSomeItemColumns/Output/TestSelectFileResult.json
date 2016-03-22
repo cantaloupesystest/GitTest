@@ -1,0 +1,1840 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Finance Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Commission Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Tax Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Deposit Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Manufacturer",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Size",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Unit Cost",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Pick Order",
+        "SorterName": "text",
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "100004",
+          "Powerade Lemon Lime  5994",
+          "Sports Drink",
+          "Beverage",
+          "Sport",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.59,
+          "100004"
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100004",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Lemon Lime  5994",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Sport",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          },
+          {
+            "Value": "100004",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100005",
+          "Powerade Fruit Punch  5995",
+          "Sports Drink",
+          "Beverage",
+          "Sport",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.25,
+          "100005"
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100005",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Fruit Punch  5995",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Sport",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.25",
+            "OldValue": "$0.59"
+          },
+          {
+            "Value": "100005",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100006",
+          "Powerade Mountain Berry Blast  4035",
+          "Sports Drink",
+          "Beverage",
+          "Sport",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.59,
+          "100006"
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100006",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Mountain Berry Blast  4035",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Sport",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          },
+          {
+            "Value": "100006",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10001",
+          "Diet Coke 12oz can 1003",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink2",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.36,
+          "10001"
+        ],
+        "SourceDocumentRowNumber": 5,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10001",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Coke 12oz can 1003",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink2",
+            "OldValue": "Soft Drink"
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.36",
+            "OldValue": null
+          },
+          {
+            "Value": "10001",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10002",
+          "Dr Pepper 12oz can",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper",
+          "",
+          24,
+          0.3,
+          "10002"
+        ],
+        "SourceDocumentRowNumber": 6,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10002",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr Pepper 12oz can",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.30",
+            "OldValue": null
+          },
+          {
+            "Value": "10002",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10003",
+          "Sprite 12oz can 1009",
+          "NewCategory1",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.37,
+          "10003"
+        ],
+        "SourceDocumentRowNumber": 7,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10003",
+            "OldValue": null
+          },
+          {
+            "Value": "Sprite 12oz can 1009",
+            "OldValue": null
+          },
+          {
+            "Value": "NewCategory1",
+            "OldValue": "Soft Drink - can"
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.37",
+            "OldValue": null
+          },
+          {
+            "Value": "10003",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10004",
+          "Sunkist Orange Soda 12oz can",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "Deposit2",
+          "Dr. Pepper",
+          "",
+          24,
+          0.5,
+          "10004"
+        ],
+        "SourceDocumentRowNumber": 8,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10004",
+            "OldValue": null
+          },
+          {
+            "Value": "Sunkist Orange Soda 12oz can",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Deposit2",
+            "OldValue": "No Deposit"
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.50",
+            "OldValue": "$0.28"
+          },
+          {
+            "Value": "10004",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10005",
+          "7 Up 12oz can 109712",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink2",
+          "No Deposit",
+          "Dr. Pepper",
+          null,
+          24,
+          0.25,
+          "10005"
+        ],
+        "SourceDocumentRowNumber": 9,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10005",
+            "OldValue": null
+          },
+          {
+            "Value": "7 Up 12oz can 109712",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink2",
+            "OldValue": "Soft Drink"
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.25",
+            "OldValue": null
+          },
+          {
+            "Value": "10005",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10006",
+          "Diet Dr Pepper 12oz can",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "Deposit2",
+          "Dr. Pepper",
+          "11oz",
+          24,
+          0.25,
+          "223222"
+        ],
+        "SourceDocumentRowNumber": 10,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10006",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Dr Pepper 12oz can",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Deposit2",
+            "OldValue": "No Deposit"
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": "11oz",
+            "OldValue": ""
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.25",
+            "OldValue": null
+          },
+          {
+            "Value": "223222",
+            "OldValue": "10006"
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10007",
+          "Sunkist Grape 12oz can",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper",
+          "",
+          24,
+          0.25,
+          "10007"
+        ],
+        "SourceDocumentRowNumber": 11,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10007",
+            "OldValue": null
+          },
+          {
+            "Value": "Sunkist Grape 12oz can",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.25",
+            "OldValue": null
+          },
+          {
+            "Value": "10007",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10009",
+          "Root Beer AW 12oz can",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper2",
+          "",
+          24,
+          0.22,
+          "10009"
+        ],
+        "SourceDocumentRowNumber": 12,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10009",
+            "OldValue": null
+          },
+          {
+            "Value": "Root Beer AW 12oz can",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper2",
+            "OldValue": "Dr. Pepper"
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.22",
+            "OldValue": null
+          },
+          {
+            "Value": "10009",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10011",
+          "Diet 7 Up 12 oz can  50019",
+          "NewCategory1",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper",
+          null,
+          5,
+          0.19,
+          "10011"
+        ],
+        "SourceDocumentRowNumber": 13,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10011",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet 7 Up 12 oz can  50019",
+            "OldValue": null
+          },
+          {
+            "Value": "NewCategory1",
+            "OldValue": "Soft Drink - can"
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "5",
+            "OldValue": "24"
+          },
+          {
+            "Value": "$0.19",
+            "OldValue": null
+          },
+          {
+            "Value": "10011",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10012",
+          "Brisk Tea Lipton 12oz can 39213",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Pepsi-Cola",
+          null,
+          24,
+          0.3,
+          null
+        ],
+        "SourceDocumentRowNumber": 14,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10012",
+            "OldValue": null
+          },
+          {
+            "Value": "Brisk Tea Lipton 12oz can 39213",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Pepsi-Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.30",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": "10012"
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10013",
+          "Mountain Dew 12oz can 781184",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans2",
+          "Soft Drink2",
+          "Deposit2",
+          "Pepsi-Cola",
+          null,
+          24,
+          0.28,
+          "10013"
+        ],
+        "SourceDocumentRowNumber": 15,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10013",
+            "OldValue": null
+          },
+          {
+            "Value": "Mountain Dew 12oz can 781184",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans2",
+            "OldValue": "Cans"
+          },
+          {
+            "Value": "Soft Drink2",
+            "OldValue": "Soft Drink"
+          },
+          {
+            "Value": "Deposit2",
+            "OldValue": "Deposit"
+          },
+          {
+            "Value": "Pepsi-Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.28",
+            "OldValue": null
+          },
+          {
+            "Value": "10013",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10014",
+          "Pepsi 12oz can 78114",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Pepsi-Cola",
+          "",
+          10,
+          0.28,
+          "10014"
+        ],
+        "SourceDocumentRowNumber": 16,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10014",
+            "OldValue": null
+          },
+          {
+            "Value": "Pepsi 12oz can 78114",
+            "OldValue": "Pepsi 12oz can 781149"
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Pepsi-Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "10",
+            "OldValue": "24"
+          },
+          {
+            "Value": "$0.28",
+            "OldValue": null
+          },
+          {
+            "Value": "10014",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10017",
+          "Coke Zero 12oz can 0376",
+          "Water",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          "10oz",
+          24,
+          0.36,
+          null
+        ],
+        "SourceDocumentRowNumber": 17,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10017",
+            "OldValue": null
+          },
+          {
+            "Value": "Coke Zero 12oz can 0376",
+            "OldValue": null
+          },
+          {
+            "Value": "Water",
+            "OldValue": "Soft Drink - can"
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "10oz",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.36",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": "10017"
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10020",
+          "Diet Root Beer AW 12oz can  50547",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper2",
+          null,
+          24,
+          0.31,
+          "10020"
+        ],
+        "SourceDocumentRowNumber": 18,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10020",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Root Beer AW 12oz can  50547",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper2",
+            "OldValue": "Dr. Pepper"
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.31",
+            "OldValue": null
+          },
+          {
+            "Value": "10020",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10021",
+          "Fresca 12oz can",
+          "Snack",
+          "Beverage",
+          "Cans2",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          "",
+          24,
+          0.37,
+          "10021"
+        ],
+        "SourceDocumentRowNumber": 19,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10021",
+            "OldValue": null
+          },
+          {
+            "Value": "Fresca 12oz can",
+            "OldValue": null
+          },
+          {
+            "Value": "Snack",
+            "OldValue": "Soft Drink - can"
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans2",
+            "OldValue": "Cans"
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.37",
+            "OldValue": null
+          },
+          {
+            "Value": "10021",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10022",
+          "Sprite Zero 12oz can 4807",
+          "Snack",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.37,
+          "10022"
+        ],
+        "SourceDocumentRowNumber": 20,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10022",
+            "OldValue": null
+          },
+          {
+            "Value": "Sprite Zero 12oz can 4807",
+            "OldValue": null
+          },
+          {
+            "Value": "Snack",
+            "OldValue": "Soft Drink - can"
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.37",
+            "OldValue": null
+          },
+          {
+            "Value": "10022",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10025",
+          "Diet Mountain Dew 12oz can  51302",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper2",
+          null,
+          24,
+          0.33,
+          "10025"
+        ],
+        "SourceDocumentRowNumber": 21,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10025",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Mountain Dew 12oz can  51302",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper2",
+            "OldValue": "Pepsi-Cola"
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.33",
+            "OldValue": null
+          },
+          {
+            "Value": "10025",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10027",
+          "Big Red Soda 12oz can 726763",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper",
+          "",
+          24,
+          0.25,
+          "10027"
+        ],
+        "SourceDocumentRowNumber": 22,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10027",
+            "OldValue": null
+          },
+          {
+            "Value": "Big Red Soda 12oz can 726763",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.25",
+            "OldValue": null
+          },
+          {
+            "Value": "10027",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10028",
+          "Caffiene Free Diet Coke 12oz 5234",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.37,
+          "10028"
+        ],
+        "SourceDocumentRowNumber": 23,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10028",
+            "OldValue": null
+          },
+          {
+            "Value": "Caffiene Free Diet Coke 12oz 5234",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.37",
+            "OldValue": null
+          },
+          {
+            "Value": "10028",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10031",
+          "Barqs Root Beer 12oz 5258",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.34,
+          "10031"
+        ],
+        "SourceDocumentRowNumber": 24,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10031",
+            "OldValue": null
+          },
+          {
+            "Value": "Barqs Root Beer 12oz 5258",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.34",
+            "OldValue": null
+          },
+          {
+            "Value": "10031",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10032",
+          "Fuze Iced Tea 12oz 1032",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          null,
+          24,
+          0.34,
+          "10032"
+        ],
+        "SourceDocumentRowNumber": 25,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10032",
+            "OldValue": null
+          },
+          {
+            "Value": "Fuze Iced Tea 12oz 1032",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.34",
+            "OldValue": null
+          },
+          {
+            "Value": "10032",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10033",
+          "Fanta Orange Soda 12oz",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Coca Cola",
+          "",
+          24,
+          0.34,
+          "10033"
+        ],
+        "SourceDocumentRowNumber": 26,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10033",
+            "OldValue": null
+          },
+          {
+            "Value": "Fanta Orange Soda 12oz",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.34",
+            "OldValue": null
+          },
+          {
+            "Value": "10033",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10034",
+          "Dr Pepper Ten 12oz",
+          "Soft Drink - can",
+          "Beverage",
+          "Cans",
+          "Soft Drink",
+          "No Deposit",
+          "Dr. Pepper",
+          "",
+          24,
+          0.31,
+          "10034"
+        ],
+        "SourceDocumentRowNumber": 27,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10034",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr Pepper Ten 12oz",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Beverage",
+            "OldValue": null
+          },
+          {
+            "Value": "Cans",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "No Deposit",
+            "OldValue": null
+          },
+          {
+            "Value": "Dr. Pepper",
+            "OldValue": null
+          },
+          {
+            "Value": "",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.31",
+            "OldValue": null
+          },
+          {
+            "Value": "10034",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": []
+  }
+}

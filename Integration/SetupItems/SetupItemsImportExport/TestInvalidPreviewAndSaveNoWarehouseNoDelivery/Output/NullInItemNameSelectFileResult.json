@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "column 'Name', row 7: value required."
+    ]
+  },
+  "Preview": null
+}

@@ -1,0 +1,8 @@
+{
+  "ErrorKeys": [
+    3
+  ],
+  "ErrorMessages": [
+    "Cannot choose a 'Parent Pricing Plan' that inherits from this plan."
+  ]
+}

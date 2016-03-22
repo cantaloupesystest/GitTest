@@ -1,0 +1,57 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Size",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "newUPC",
+          null,
+          1
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [
+          "'Name' required.",
+          "'Unit Cost' required.",
+          "'Category' required.",
+          "'Manufacturer' required."
+        ],
+        "Values": [
+          {
+            "Value": "newUPC",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "1",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

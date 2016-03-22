@@ -1,0 +1,194 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Manufacturer",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Unit Cost",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "10000499",
+          "Powerade Lemon Lime  599499",
+          "Sports Drink99",
+          "Coca Cola99",
+          249,
+          99.0
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10000499",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Lemon Lime  599499",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink99",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola99",
+            "OldValue": null
+          },
+          {
+            "Value": "249",
+            "OldValue": null
+          },
+          {
+            "Value": "$99.00",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100005",
+          "Powerade Fruit Punch  5995",
+          "Sports Drink8",
+          "Coca Cola",
+          24,
+          0.59
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100005",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Fruit Punch  5995",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink8",
+            "OldValue": "Sports Drink"
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100006",
+          "Powerade Mountain Berry Blast  4035",
+          "Sports Drink",
+          "Coca Cola",
+          5,
+          0.59
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100006",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Mountain Berry Blast  4035",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "5",
+            "OldValue": "24"
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10001",
+          "Diet Coke 12oz can 1003",
+          "Soft Drink - can",
+          "Coca Cola",
+          24,
+          1.0
+        ],
+        "SourceDocumentRowNumber": 5,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10001",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Coke 12oz can 1003",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola",
+            "OldValue": null
+          },
+          {
+            "Value": "24",
+            "OldValue": null
+          },
+          {
+            "Value": "$1.00",
+            "OldValue": "$0.36"
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": []
+  }
+}

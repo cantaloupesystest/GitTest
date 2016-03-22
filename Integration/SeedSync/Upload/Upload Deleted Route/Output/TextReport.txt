@@ -1,0 +1,21 @@
+WARNINGS                  	                                      	                        	 
+Machine route changed     	                                      	                        	 
+Asset Id                  	Old Route                             	New Route               	 
+207289                    	RT 13                                 	Rt 10005..              	 
+INFORMATION               	                                      	                        	 
+Summary                   	                                      	                        	 
+Data Building Time:       	0h:0m:40s                             	                        	 
+Data Processing Time:     	0h:0m:0s                              	                        	 
+Product Manufacturers:    	1                                     	Machines:               	1
+Product Categories:       	1                                     	Inventories:            	3
+Products:                 	2                                     	Machine Visits:         	0
+Routes:                   	1                                     	Machine Visit Details:  	0
+Customers:                	1                                     	Route Schedules:        	0
+Locations:                	1                                     	Machine Route Schedules:	0
+TECHNICAL INFORMATION     	                                      	                        	 
+Reporting Version:        	0.0                                   	                        	 
+Client:                   	Processor=Vendmax, Version=2.0.0.29859	                        	 
+Request URL:              	http://test.org/                      	                        	 
+Username:                 	test@test.com                         	                        	 
+Transaction Id:           	0                                     	                        	 
+Highest Framework Version:	4.0.30319                             	                        	 

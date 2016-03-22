@@ -1,0 +1,3 @@
+Id	MachineId	EventType	Parameter1	Parameter2	Parameter3	IsRecentUtcCreatedDateTime	
+=1	=6	=RSTD	=2678	[NULL]	[NULL]	=True	
+=2	=37	=RSTD	=2678	[NULL]	[NULL]	=True	

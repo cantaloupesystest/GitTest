@@ -1,0 +1,2 @@
+MachineId	LastRestockUtcDateTime	CollectableCashAmountInCents	
+=60	=08/19/2013 08:00:00	=8200	

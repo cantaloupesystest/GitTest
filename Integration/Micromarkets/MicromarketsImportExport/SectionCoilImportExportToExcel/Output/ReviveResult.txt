@@ -1,0 +1,7 @@
+{
+  "Model": {
+    "MicromarketId": 5,
+    "CompanyId": 4
+  },
+  "ValidationSummaryHtml": null
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "PrepickId": 16808,
+    "FromWarehouseId": 1,
+    "TruckWarehouseId": 5,
+    "EffectiveUtcDateTime": "2014-02-19T02:00:00Z"
+  },
+  {
+    "PrepickId": 16810,
+    "FromWarehouseId": 12,
+    "TruckWarehouseId": 4,
+    "EffectiveUtcDateTime": "2014-02-19T09:54:31.37"
+  }
+]

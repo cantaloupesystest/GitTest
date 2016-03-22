@@ -1,0 +1,6 @@
+Id	ScheduleId	EndOfDayUtcDateTime	CreatedByUserId	IsRecentCreatedUtcDateTime	
+=1	=5392	=01/28/2014 16:04:15	=2678	=False	
+=2	=5407	=03/03/2015 19:53:25	=2678	=False	
+=3	=5408	=03/03/2015 19:20:17	=2678	=False	
+=4	=5408	=02/12/2015 04:13:00	=2678	=True	
+=5	=5408	=02/12/2015 04:23:00	=2678	=True	

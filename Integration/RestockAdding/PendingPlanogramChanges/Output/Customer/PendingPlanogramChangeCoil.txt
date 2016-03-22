@@ -1,0 +1,8 @@
+Id	PendingPlanogramChangeId	CoilId	MoveToCoilId	ItemId	DepletionLevel	ParLevel	CapacityLevel	DesiredPriceInCents	ChangeType	IsRecentCreatedUtcDateTime	Deleted	
+=781	=337	=6968	[NULL]	=1358	=2	=11	=11	=75	=REP	=False	=True	
+=819	=337	=6991	[NULL]	=1077	=2	=6	=9	=125	=REP	=False	=True	
+=862	=379	=834	[NULL]	=1149	=2	=8	=8	=275	=REP	=False	=False	
+=863	=379	=835	[NULL]	=1375	=2	=8	=8	=275	=REP	=False	=False	
+=864	=379	=840	[NULL]	=936	=2	=8	=8	=250	=REP	=False	=False	
+=865	=379	=841	[NULL]	=904	=2	=8	=9	=275	=REP	=False	=False	
+=866	=380	=6587	[NULL]	=1376	=1	=1	=3	=200	=REP	=False	=False	

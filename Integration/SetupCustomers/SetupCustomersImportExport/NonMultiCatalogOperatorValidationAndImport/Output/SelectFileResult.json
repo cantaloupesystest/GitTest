@@ -1,0 +1,1654 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Code",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Address",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "City",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "State",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Zip",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Country",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Phone",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Fax",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Email",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Management Code",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Tax Jurisdiction",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Commission Plan",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Pricing Plan",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Payment Terms",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Invoice Preference",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Statement Preference",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Salesperson",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Account Manager",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Start Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "End Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "Customer Group",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Description",
+        "SorterName": "text",
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "Check required fields exept Customer Name",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [
+          "'Address' required.",
+          "'City' required.",
+          "'Country' required.",
+          "'Payment Terms' required.",
+          "'Invoice Preference' required.",
+          "'Statement Preference' required."
+        ],
+        "Values": [
+          {
+            "Value": "Check required fields exept Customer Name",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          null,
+          "Check required Customer Name field",
+          "Address",
+          "City ",
+          "NY",
+          null,
+          "United States",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "Net 30",
+          "Print only (don't email)",
+          "Email only",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [
+          "'Name' required."
+        ],
+        "Values": [
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Check required Customer Name field",
+            "OldValue": null
+          },
+          {
+            "Value": "Address",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Net 30",
+            "OldValue": null
+          },
+          {
+            "Value": "Print only (don't email)",
+            "OldValue": null
+          },
+          {
+            "Value": "Email only",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export Name INSERT",
+          "Customer Import/Export Code INSERT",
+          "Customer Import/Export Address INSERT",
+          "Customer Import/Export City INSERT",
+          "ny",
+          "zip",
+          "uNiTeD sTaTeS",
+          "Customer Import/Export Phone INSERT",
+          "Customer Import/Export Fax INSERT",
+          "valid@mail.us",
+          "Customer Import/Export Managemenet Code INSERT",
+          "Tax Exempt",
+          "No Commission",
+          "Customer Import/Export Pricing Plan",
+          "Net 30",
+          "Print only (don't email)",
+          "Email only",
+          "Alexey matvienko",
+          "aNtOn Bogachov",
+          "2010-10-10T00:00:00",
+          "2019-10-10T00:00:00",
+          "TestCustomerGroup",
+          "New Description"
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "Customer Import/Export Name INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Code INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Address INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export City INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "ny",
+            "OldValue": null
+          },
+          {
+            "Value": "zip",
+            "OldValue": null
+          },
+          {
+            "Value": "uNiTeD sTaTeS",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Phone INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Fax INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "valid@mail.us",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Managemenet Code INSERT",
+            "OldValue": null
+          },
+          {
+            "Value": "Tax Exempt",
+            "OldValue": null
+          },
+          {
+            "Value": "No Commission",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Pricing Plan",
+            "OldValue": null
+          },
+          {
+            "Value": "Net 30",
+            "OldValue": null
+          },
+          {
+            "Value": "Print only (don't email)",
+            "OldValue": null
+          },
+          {
+            "Value": "Email only",
+            "OldValue": null
+          },
+          {
+            "Value": "Alexey matvienko",
+            "OldValue": null
+          },
+          {
+            "Value": "aNtOn Bogachov",
+            "OldValue": null
+          },
+          {
+            "Value": "10/10/2010",
+            "OldValue": null
+          },
+          {
+            "Value": "10/10/2019",
+            "OldValue": null
+          },
+          {
+            "Value": "TestCustomerGroup",
+            "OldValue": null
+          },
+          {
+            "Value": "New Description",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Normal Name",
+          "                                                                                   ",
+          "                                       <script>                  ",
+          "City ",
+          "Non Existing Value",
+          "Code,  City has only spaces",
+          "Non Existing Country",
+          null,
+          null,
+          "abc.d.com",
+          null,
+          "Non Existing tax Jurisdiction",
+          "Non Existing Commisission plan",
+          "Non ExistingPricingPlan",
+          "Non ExistingPaymentTerms",
+          "Non ExistingInvoicePreference",
+          "Non ExistingStatementPreference",
+          "Not-ExistentSalesperson",
+          "NonExistingAccount",
+          "2019-10-10T00:00:00",
+          "2019-10-09T00:00:00",
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 5,
+        "Errors": [
+          "'Code' must be 50 characters or less.",
+          "'Address' must be 50 characters or less.",
+          "'Country' must exist.",
+          "Multiple email addresses must be separated by commas",
+          "'Salesperson' must exist.",
+          "'Account Manager' must exist.",
+          "'Start Date' must be lesser or equal to 'End Date'.",
+          "'Tax Jurisdiction' must exist.",
+          "'Commission Plan' must exist.",
+          "'Pricing Plan' must exist.",
+          "'Payment Terms' must exist.",
+          "'Invoice Preference' must exist.",
+          "'Statement Preference' must exist."
+        ],
+        "Values": [
+          {
+            "Value": "Normal Name",
+            "OldValue": null
+          },
+          {
+            "Value": "                                                                                   ",
+            "OldValue": null
+          },
+          {
+            "Value": "                                       <script>                  ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "Non Existing Value",
+            "OldValue": null
+          },
+          {
+            "Value": "Code,  City has only spaces",
+            "OldValue": null
+          },
+          {
+            "Value": "Non Existing Country",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "abc.d.com",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Non Existing tax Jurisdiction",
+            "OldValue": null
+          },
+          {
+            "Value": "Non Existing Commisission plan",
+            "OldValue": null
+          },
+          {
+            "Value": "Non ExistingPricingPlan",
+            "OldValue": null
+          },
+          {
+            "Value": "Non ExistingPaymentTerms",
+            "OldValue": null
+          },
+          {
+            "Value": "Non ExistingInvoicePreference",
+            "OldValue": null
+          },
+          {
+            "Value": "Non ExistingStatementPreference",
+            "OldValue": null
+          },
+          {
+            "Value": "Not-ExistentSalesperson",
+            "OldValue": null
+          },
+          {
+            "Value": "NonExistingAccount",
+            "OldValue": null
+          },
+          {
+            "Value": "10/10/2019",
+            "OldValue": null
+          },
+          {
+            "Value": "10/9/2019",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Name Uniqness",
+          "Code",
+          "Address ",
+          "City ",
+          "NY",
+          "Zip ",
+          "United States",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "Net 30",
+          "Print only (don't email)",
+          "Email only",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 6,
+        "Errors": [
+          "'Name' must be unique."
+        ],
+        "Values": [
+          {
+            "Value": "Name Uniqness",
+            "OldValue": null
+          },
+          {
+            "Value": "Code",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "Zip ",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Net 30",
+            "OldValue": null
+          },
+          {
+            "Value": "Print only (don't email)",
+            "OldValue": null
+          },
+          {
+            "Value": "Email only",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Name Uniqness",
+          null,
+          "Address ",
+          "City ",
+          "NY",
+          "Zip ",
+          "United States",
+          null,
+          null,
+          null,
+          null,
+          "Tax Exempt",
+          "No Commission",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 7,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Name Uniqness",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "Zip ",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Tax Exempt",
+            "OldValue": null
+          },
+          {
+            "Value": "No Commission",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Name 1",
+          "Code uniqeness",
+          "Address ",
+          "City ",
+          "NY",
+          "Zip ",
+          "United States",
+          null,
+          null,
+          "valid@mail.us",
+          null,
+          "Tax Exempt",
+          "No Commission",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 8,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Name 1",
+            "OldValue": null
+          },
+          {
+            "Value": "Code uniqeness",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "Zip ",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "valid@mail.us",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Tax Exempt",
+            "OldValue": null
+          },
+          {
+            "Value": "No Commission",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Name 2",
+          "Code uniqeness",
+          "Address ",
+          "City ",
+          "NY",
+          "Zip ",
+          "United States",
+          null,
+          "+380999863311",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 9,
+        "Errors": [
+          "Is a duplicate row."
+        ],
+        "Values": [
+          {
+            "Value": "Name 2",
+            "OldValue": null
+          },
+          {
+            "Value": "Code uniqeness",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": null
+          },
+          {
+            "Value": "City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "Zip ",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "+380999863311",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export Existing FB",
+          "Already Existing FB Code",
+          "Address ",
+          "City ",
+          "NY",
+          "Zip  ",
+          "United States",
+          "+123-546-987-45",
+          null,
+          "Already@Existent.Code",
+          "Already Existent Management Code",
+          "Tax Exempt",
+          "No Commission",
+          "Customer Import/Export Pricing Plan",
+          "Net 30",
+          "Print only (don't email)",
+          "Email only",
+          null,
+          null,
+          null,
+          null,
+          "TestCustomerGroup",
+          null
+        ],
+        "SourceDocumentRowNumber": 10,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "Customer Import/Export Existing FB",
+            "OldValue": null
+          },
+          {
+            "Value": "Already Existing FB Code",
+            "OldValue": null
+          },
+          {
+            "Value": "Address ",
+            "OldValue": "Abc"
+          },
+          {
+            "Value": "City ",
+            "OldValue": "Zbc"
+          },
+          {
+            "Value": "NY",
+            "OldValue": "AR"
+          },
+          {
+            "Value": "Zip  ",
+            "OldValue": "Zip"
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": "+123-546-987-45",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Already@Existent.Code",
+            "OldValue": null
+          },
+          {
+            "Value": "Already Existent Management Code",
+            "OldValue": null
+          },
+          {
+            "Value": "Tax Exempt",
+            "OldValue": null
+          },
+          {
+            "Value": "No Commission",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Pricing Plan",
+            "OldValue": null
+          },
+          {
+            "Value": "Net 30",
+            "OldValue": null
+          },
+          {
+            "Value": "Print only (don't email)",
+            "OldValue": null
+          },
+          {
+            "Value": "Email only",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": "10/1/2015"
+          },
+          {
+            "Value": null,
+            "OldValue": "11/30/2015"
+          },
+          {
+            "Value": "TestCustomerGroup",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": "$Description$"
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export Existing FB 2",
+          null,
+          "Update Address",
+          "UpdatedCity",
+          "TX",
+          "CaMeL cAsE",
+          "uNiTeD sTaTeS",
+          "Check format 12/00/1234 12.99 00.09 ~!@#$%^&*()",
+          "Check format 12/00/1234 12.99 00.09 ~!@#$%^&*()",
+          "valid@mail.us",
+          "Abc",
+          "Tax Exempt",
+          "No Commission",
+          "Customer Import/Export Pricing Plan",
+          "Net 30",
+          "Print only (don't email)",
+          "Email only",
+          "Alexey matvienko",
+          "pAvEl BeLoUs",
+          "2010-10-10T00:00:00",
+          "2019-10-10T00:00:00",
+          null,
+          "New Description"
+        ],
+        "SourceDocumentRowNumber": 11,
+        "Errors": [
+          "'Account Manager' must exist."
+        ],
+        "Values": [
+          {
+            "Value": "Customer Import/Export Existing FB 2",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Update Address",
+            "OldValue": "Address"
+          },
+          {
+            "Value": "UpdatedCity",
+            "OldValue": "City"
+          },
+          {
+            "Value": "TX",
+            "OldValue": "CA"
+          },
+          {
+            "Value": "CaMeL cAsE",
+            "OldValue": null
+          },
+          {
+            "Value": "uNiTeD sTaTeS",
+            "OldValue": "United States"
+          },
+          {
+            "Value": "Check format 12/00/1234 12.99 00.09 ~!@#$%^&*()",
+            "OldValue": null
+          },
+          {
+            "Value": "Check format 12/00/1234 12.99 00.09 ~!@#$%^&*()",
+            "OldValue": null
+          },
+          {
+            "Value": "valid@mail.us",
+            "OldValue": null
+          },
+          {
+            "Value": "Abc",
+            "OldValue": null
+          },
+          {
+            "Value": "Tax Exempt",
+            "OldValue": null
+          },
+          {
+            "Value": "No Commission",
+            "OldValue": null
+          },
+          {
+            "Value": "Customer Import/Export Pricing Plan",
+            "OldValue": null
+          },
+          {
+            "Value": "Net 30",
+            "OldValue": null
+          },
+          {
+            "Value": "Print only (don't email)",
+            "OldValue": "Email and print (email invoice after delivery)"
+          },
+          {
+            "Value": "Email only",
+            "OldValue": "Email and print"
+          },
+          {
+            "Value": "Alexey matvienko",
+            "OldValue": null
+          },
+          {
+            "Value": "pAvEl BeLoUs",
+            "OldValue": null
+          },
+          {
+            "Value": "10/10/2010",
+            "OldValue": null
+          },
+          {
+            "Value": "10/10/2019",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "New Description",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer ",
+          "Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798",
+          "Max length of Address checking / Max length of Address checking / Max length of Address checking",
+          "Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City ",
+          "NY",
+          "123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930",
+          "United States",
+          "123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930",
+          "123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930",
+          "tooooooooooooooooooooooooooooooooooooooooooooooooooooooo-long-email-address-test-case@test.case",
+          "Max length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management Code",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "2018-10-10T00:00:00",
+          "2018-10-09T00:00:00",
+          null,
+          "Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / "
+        ],
+        "SourceDocumentRowNumber": 12,
+        "Errors": [
+          "'Name' must be 50 characters or less.",
+          "'Code' must be 50 characters or less.",
+          "'Address' must be 50 characters or less.",
+          "'City' must be 50 characters or less.",
+          "'Zip' must be 50 characters or less.",
+          "'Phone' must be 50 characters or less.",
+          "'Fax' must be 50 characters or less.",
+          "'Management Code' must be 50 characters or less.",
+          "'Start Date' must be lesser or equal to 'End Date'.",
+          "'Payment Terms' required.",
+          "'Invoice Preference' required.",
+          "'Statement Preference' required.",
+          "'Description' must be 2000 characters or less."
+        ],
+        "Values": [
+          {
+            "Value": "Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer Max length of Customer / Max length of Customer / Max length of Customer ",
+            "OldValue": null
+          },
+          {
+            "Value": "Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798Max length of Code checking 123456798 / Max length of Code checking 123456798",
+            "OldValue": null
+          },
+          {
+            "Value": "Max length of Address checking / Max length of Address checking / Max length of Address checking",
+            "OldValue": null
+          },
+          {
+            "Value": "Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City Max length of City / Max length of City / Max length of City /Max length of City ",
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": "123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930",
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": "123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930",
+            "OldValue": null
+          },
+          {
+            "Value": "123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930123456789101112131415161718192021222324252627282930",
+            "OldValue": null
+          },
+          {
+            "Value": "tooooooooooooooooooooooooooooooooooooooooooooooooooooooo-long-email-address-test-case@test.case",
+            "OldValue": null
+          },
+          {
+            "Value": "Max length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management CodeMax length of Management Code / Max length of Management Code /Max length of Management Code",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "10/10/2018",
+            "OldValue": null
+          },
+          {
+            "Value": "10/9/2018",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / Test Max Length of Description field / ",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Unassigned (in Customer Import/Export First Branch (FB) warehouse)",
+          null,
+          "Address",
+          null,
+          "NY",
+          null,
+          "United States",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "Net 30",
+          "Print only (don't email)",
+          "Email only",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 13,
+        "Errors": [
+          "'Unassigned (in Customer Import/Export First Branch (FB) warehouse)' is reserved for Cantaloupe Systems' use only."
+        ],
+        "Values": [
+          {
+            "Value": "Unassigned (in Customer Import/Export First Branch (FB) warehouse)",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Address",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "NY",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "United States",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": "Tax Exempt"
+          },
+          {
+            "Value": null,
+            "OldValue": "No Commission"
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "Net 30",
+            "OldValue": null
+          },
+          {
+            "Value": "Print only (don't email)",
+            "OldValue": "Email and print (email invoice after delivery)"
+          },
+          {
+            "Value": "Email only",
+            "OldValue": "Email and print"
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/Customer/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

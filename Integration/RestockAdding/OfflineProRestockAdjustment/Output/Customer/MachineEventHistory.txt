@@ -1,0 +1,11 @@
+Id	MachineId	EventType	Parameter1	Parameter2	Parameter3	IsRecentUtcCreatedDateTime	
+=1	=8	=RSTD	=2678	[NULL]	[NULL]	=True	
+=2	=8	=IAOS	=2678	[NULL]	[NULL]	=True	
+=3	=8	=RSTD	=2678	[NULL]	[NULL]	=True	
+=4	=8	=RAJS	=2678	[NULL]	[NULL]	=True	
+=5	=8	=RSTD	=2678	[NULL]	[NULL]	=True	
+=6	=8	=RAJS	=2678	[NULL]	[NULL]	=True	
+=7	=8	=RSTD	=2678	[NULL]	[NULL]	=True	
+=8	=8	=RAJS	=2678	[NULL]	[NULL]	=True	
+=9	=8	=IAOS	=2678	[NULL]	[NULL]	=True	
+=10	=8	=RAJS	=2678	[NULL]	[NULL]	=True	

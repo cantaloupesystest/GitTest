@@ -1,0 +1,123 @@
+Id	Name	
+=0	=None	
+=2	=Austin	
+=3	=Blue Bunny	
+=4	=Cadbury	
+=5	=Coke	
+=6	=Conagra	
+=7	=Fresh Food	
+=8	=Frito Lay	
+=9	=General Mills	
+=10	=Hershey	
+=11	=Kars	
+=12	=Kelloggs	
+=13	=Kraft	
+=14	=Lance	
+=15	=MACs	
+=16	=Mars	
+=17	=Mrs Freshleys	
+=18	=Nabisco	
+=19	=Nestle	
+=20	=Pepsi	
+=21	=Starkist	
+=22	=Tombstone	
+=23	=Wrigley	
+=24	=Cloverhill Bakery	
+=25	=Ocean Spray	
+=26	=Inventure Group	
+=27	=Tims Cascade Snacks	
+=28	=Sconza	
+=29	=American Licorice	
+=30	=Sherwood Brands	
+=31	=Oberto Sausage Company	
+=32	=International Paper	
+=33	=Superior Coffee	
+=34	=Vistar	
+=35	=Compact Industries	
+=36	=Grindstone	
+=37	=Dr. Pepper	
+=38	=Campbell Soup	
+=39	=Juice Bowl	
+=40	=Pepperidge Farm	
+=41	=Evans Food	
+=42	=Zapps	
+=43	=Snyders of Hanover	
+=44	=Biscomerica	
+=45	=Bumble Bee	
+=46	=Hormel	
+=47	=Flowers Foods	
+=48	=Interstate Bakeries 	
+=49	=Bon Appetit 	
+=50	=Chattanooga Bakery 	
+=51	=Carolina Foods 	
+=52	=Golden Batch	
+=53	=Trails Best Meat Snacks	
+=54	=American Foods Group	
+=55	=McKee Foods	
+=56	=Paramount Farms	
+=57	=Temple Bottling Company 	
+=58	=Red Bull	
+=59	=Snak King	
+=60	=Starbucks	
+=61	=Big Red	
+=62	=Maruchan	
+=63	=Power Bar	
+=64	=Otis Spunkmeyer	
+=65	=Windsor Foods	
+=66	=Pierre Foods	
+=67	=Bob Evans Restaurants	
+=68	=Schwan Food Company	
+=69	=Landshire Inc.	
+=70	=Sara Lee	
+=71	=EA Sween Company	
+=72	=White Castle	
+=73	=Festy	
+=74	=Ferrera Pan Candy Co	
+=75	=Mr Nature	
+=76	=Xyience	
+=77	=Tuty USA	
+=78	=Rudolph Foods	
+=79	=Arizona Beverage	
+=80	=National Beverage	
+=81	=WOW	
+=82	=Coca Cola	
+=83	=Pepsi-Cola	
+=84	=Kar's Nuts	
+=85	=Frito-Lay	
+=86	=Ferrara Pan Candy Co	
+=87	=Kraft Foods	
+=88	=Zapp's Potato Chip Company	
+=89	=ConAgra Foods	
+=90	=Snyder's of Hanover	
+=91	=Rudolph Foods Co	
+=92	=Cloverhill Pastry-Vend Corp	
+=93	=McKee Foods Corporation	
+=94	=Cadbury Adams	
+=95	=Paramount Farms, Inc.	
+=96	=Shamrock Farms	
+=97	=Herr Foods	
+=98	=Fuze	
+=99	=Quaker	
+=100	=Jelly Belly Candy Company	
+=101	=Promotion in Motion	
+=102	=Campbells	
+=103	=Johnsonville Sausage	
+=104	=Interstate Bakeries_	
+=105	=Bon Appetit_	
+=106	=Carolina Foods_	
+=107	=Chattanooga Bakery_	
+=108	=Temple Bottling Company_	
+=109	=PoppaD Nuts	
+=110	=Barcel USA LLC	
+=111	=Top Floor Creations	
+=112	=Clif Bar & Company	
+=113	=Callard & Bowser	
+=114	=Yoplait	
+=115	=Link Snacks Inc.	
+=116	=Road Runner Foods	
+=117	=Chobani	
+=118	=Sandwich King	
+=119	=GoPicnic	
+=120	=PopChips Inc.	
+=121	=Sandwich Factory	
+=122	=Coca Cola99	

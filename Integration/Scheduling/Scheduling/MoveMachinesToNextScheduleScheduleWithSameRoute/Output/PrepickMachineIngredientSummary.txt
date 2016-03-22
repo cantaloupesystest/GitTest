@@ -1,0 +1,1 @@
+PrepickId	ScheduleId	Deleted	CreatedByUserId	CreatedUtcDateTime	FromWarehouseId	PrepickMachineId	MachineId	TruckId	prepickMachineIngredientId	ItemId	ParLevel	Quantity	

@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 926,
+    "Caption": "200004 - Special K Protein Meal Bar ChocoPB",
+    "OrderedPacks": [
+      {
+        "Id": 1102,
+        "ItemsCount": 6,
+        "Caption": "Box (6ct)",
+        "Price": 7.0,
+        "IsEach": false,
+        "IsDefault": true,
+        "Par": null
+      }
+    ],
+    "Histories": [],
+    "HasMoreItemHistory": false
+  }
+]

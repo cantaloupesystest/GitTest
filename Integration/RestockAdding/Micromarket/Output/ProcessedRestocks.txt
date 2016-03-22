@@ -1,0 +1,26 @@
+[
+  {
+    "RestockId": 10007,
+    "Result": "Processed"
+  },
+  {
+    "RestockId": 10008,
+    "Result": "Processed"
+  },
+  {
+    "RestockId": 10009,
+    "Result": "Processed"
+  },
+  {
+    "RestockId": 10010,
+    "Result": "Processed"
+  },
+  {
+    "RestockId": 10011,
+    "Result": "Processed"
+  },
+  {
+    "RestockId": 10012,
+    "Result": "Processed"
+  }
+]

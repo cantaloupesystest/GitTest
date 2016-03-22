@@ -1,0 +1,5 @@
+Id	MachineId	RestockId	IsRecentCompletedUtcDateTime	Deleted	
+=319	=15	[NULL]	[NULL]	=False	
+=337	=31	[NULL]	[NULL]	=False	
+=379	=5	[NULL]	[NULL]	=False	
+=380	=6	=10007	=True	=False	

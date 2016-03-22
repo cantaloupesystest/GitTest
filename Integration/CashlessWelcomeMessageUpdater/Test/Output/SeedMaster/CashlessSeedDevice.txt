@@ -1,0 +1,9 @@
+Id	WelcomeMessage1	DownMessage1	WelcomeMessage2	DownMessage2	
+=4858	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	
+=4859	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	
+=4860	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	
+=4861	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	
+=4862	=Please Swipe Card	=Please Use Cash	=Refill set for Sat 01/09	=Refill set for Sat 01/09	
+=4863	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	
+=4864	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	
+=4865	=Please Swipe Card	=Please Use Cash	=Please Swipe Card	=Please Use Cash	

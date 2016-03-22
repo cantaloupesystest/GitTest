@@ -1,0 +1,6 @@
+{
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Other branches use this branch to store pulled machines. Change other branches' settings before deleting this branch."
+  ]
+}

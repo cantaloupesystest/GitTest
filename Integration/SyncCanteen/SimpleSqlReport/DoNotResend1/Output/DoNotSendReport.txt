@@ -1,0 +1,2 @@
+Status	RouteName	RouteId	BusinessDate	ScheduleCreatedOn	PrepickCreatedOn	RequestCreatedOn	ProcessingNotes	
+=Ready to clear failed download request	=002 - Beto, Ed	=633	=04/01/2050 00:00:00	=07/15/2014 08:17:26	=07/15/2014 10:27:48	=10/19/2014 20:00:00	[NULL]	

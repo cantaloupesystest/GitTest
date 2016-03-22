@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "column 'Start Date', row 2: invalid value '32/32/12345'."
+    ]
+  },
+  "Preview": null
+}

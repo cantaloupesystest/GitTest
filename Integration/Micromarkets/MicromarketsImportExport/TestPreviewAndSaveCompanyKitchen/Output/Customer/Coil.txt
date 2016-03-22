@@ -1,0 +1,4 @@
+Id	MachineId	ItemId	Name	GroupName	Inventory	Par	Capacity	AlertLevel	PriceInCents	DesiredPriceInCents	CoilOrder	VmsCoilOrder	RowIndex	ColumnIndex	NameAlpha	NameNumber	VendsSinceInitializationQuantity	LastSaleDateTime	Deleted	CanBeRestored	
+=1	=6	=819	=A1	[NULL]	=0	=2	=2	=0	=200	[NULL]	=0	[NULL]	[NULL]	[NULL]	=A	=1	=0	[NULL]	=False	=False	
+=2	=7	=819	=A1	[NULL]	=0	=3	=3	=0	=300	[NULL]	=0	[NULL]	[NULL]	[NULL]	=A	=1	=0	[NULL]	=False	=False	
+=3	=10	=1	=F	[NULL]	=0	=3	=3	=2	=356	[NULL]	=0	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	=False	

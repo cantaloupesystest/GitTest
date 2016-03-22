@@ -1,0 +1,8 @@
+Status	RouteName	RouteId	BusinessDate	ScheduleCreatedOn	PrepickCreatedOn	RequestCreatedOn	ProcessingNotes	
+=Ready to Send	=009 - MAUGER, RYAN	=2910	=04/01/2050 00:00:00	=07/15/2014 12:06:46	=07/15/2014 12:07:50	[NULL]	[NULL]	
+=Schedule has not been edited. Please edit schedule before attempting to download, or enter 'override' instead of 'yes' to download to iVend.	=004 - BERRY, ROBERT	=2920	=04/01/2050 00:00:00	=07/15/2014 10:57:57	=07/15/2014 10:58:23	[NULL]	[NULL]	
+=Schedule has not been edited. Please edit schedule before attempting to download, or enter 'override' instead of 'yes' to download to iVend.	=004 - BERRY, ROBERT	=2920	=04/01/2050 00:00:00	=07/15/2014 10:59:30	=07/15/2014 10:59:48	[NULL]	[NULL]	
+=Schedule has not been edited. Please edit schedule before attempting to download, or enter 'override' instead of 'yes' to download to iVend.	=007 - Arinsberg, Jason	=2935	=04/01/2050 00:00:00	=07/15/2014 11:13:02	=07/15/2014 11:13:53	[NULL]	[NULL]	
+=Route has no nickel price	=006 - Paul, Aaron	=2389	=04/01/2050 00:00:00	=07/15/2014 11:08:17	=07/15/2014 11:10:35	[NULL]	=AssetId: 94838 - Coil: 1 - 151.00	
+=Route has machine that is not active in iVend	=002 - Beto, Ed	=633	=04/01/2050 00:00:00	=07/15/2014 08:17:26	=07/15/2014 10:27:48	[NULL]	=AssetId: 60299	
+=Waiting prior schedules	=009 - MAUGER, RYAN	=2910	=04/02/2050 00:00:00	=07/15/2014 12:09:42	=07/15/2014 12:14:12	[NULL]	[NULL]	

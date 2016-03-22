@@ -1,0 +1,1 @@
+Id	ScheduleId	MachineId	ItemId	CoilName	CurrentInventoryLevel	DepletionType	CreatedBy	

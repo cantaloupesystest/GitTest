@@ -1,0 +1,14 @@
+[
+  {
+    "RestockId": null,
+    "Result": "IgnoredMachinePulled"
+  },
+  {
+    "RestockId": null,
+    "Result": "IgnoredMachinePulled"
+  },
+  {
+    "RestockId": null,
+    "Result": "IgnoredMachinePulled"
+  }
+]

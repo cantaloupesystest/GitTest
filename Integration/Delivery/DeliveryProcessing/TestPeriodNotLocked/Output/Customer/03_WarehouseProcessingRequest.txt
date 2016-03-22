@@ -1,0 +1,7 @@
+Id	PrepickId	MachineCoilHistoryId	DeliveryOrderId	DeliveryPointOrderId	CreatedByUserId	CompletedUtcDateTime	
+=1	[NULL]	[NULL]	=1003	=1003	=3369	[NULL]	
+=2	[NULL]	[NULL]	=1004	=1004	=3363	[NULL]	
+=3	[NULL]	[NULL]	=1005	=1005	=3363	[NULL]	
+=4	[NULL]	[NULL]	=1006	=1006	=3363	[NULL]	
+=5	[NULL]	[NULL]	=1004	=1004	=107	[NULL]	
+=6	[NULL]	[NULL]	=1005	=1005	=107	[NULL]	

@@ -1,0 +1,7 @@
+Id	Name	Deleted	
+=1	=Water	=False	
+=2	=Soft Drink	=False	
+=3	=Candy	=False	
+=4	=Snack	=False	
+=5	=Juice Milk	=False	
+=6	=Not Taxable	=False	

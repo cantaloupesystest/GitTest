@@ -1,0 +1,2 @@
+Id	SerialNumber	IsRecentNoteDateTime	NoteType	Text	CreatedBy	
+=1	=34763	=True	=Moves/Swaps	=Seed device 34763 has been linked to the MachineID 1144486, Catalog Customer	=test@test.com	

@@ -1,0 +1,18 @@
+[
+  {
+    "RestockId": 10007,
+    "Result": "Processed"
+  },
+  {
+    "RestockId": 10007,
+    "Result": "IgnoredAlreadyExists"
+  },
+  {
+    "RestockId": 10007,
+    "Result": "Merged"
+  },
+  {
+    "RestockId": 10008,
+    "Result": "Processed"
+  }
+]

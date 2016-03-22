@@ -1,0 +1,100 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Cash Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "Asset ID",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Bag Number",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Bills",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Coins",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Refunds",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Coin Refill",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Test Vends",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "2013-08-20T00:00:00",
+          "#55",
+          3,
+          4,
+          5.5,
+          6.6,
+          7.7,
+          8.8
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "8/20/2013",
+            "OldValue": null
+          },
+          {
+            "Value": "#55",
+            "OldValue": null
+          },
+          {
+            "Value": "3",
+            "OldValue": null
+          },
+          {
+            "Value": "4",
+            "OldValue": "0"
+          },
+          {
+            "Value": "$5.50",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$6.60",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$7.70",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$8.80",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/CashImport/ImportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": []
+  }
+}

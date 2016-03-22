@@ -1,0 +1,7 @@
+{
+  "PackRules": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Row 5, UPC 'ItemNotFound', Item Name '': Item not found."
+  ]
+}

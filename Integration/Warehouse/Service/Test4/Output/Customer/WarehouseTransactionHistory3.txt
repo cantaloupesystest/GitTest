@@ -1,0 +1,11 @@
+Id	WarehouseTransactionId	PrepickId	MachineCoilHistoryId	RestockWarehouseId	DeliveryOrderId	DeliveryPointOrderId	HistoryType	TransactionType	EffectiveUtcDateTime	CreatedByUserId	IsRecentCreatedUtcDateTime	
+=1	=2	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=RC	=02/11/2014 04:44:00	=3930	=False	
+=2	=9	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=RC	=02/20/2014 10:12:00	=2970	=False	
+=3	=10	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=RC	=03/01/2014 10:40:00	=2972	=False	
+=4	=11	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=TR	=03/01/2014 10:40:00	=2972	=False	
+=5	=14	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=TR	=03/01/2014 10:27:00	=2970	=False	
+=6	=15	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=TR	=02/26/2014 10:27:00	=2970	=False	
+=7	=4	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=TR	=02/11/2014 04:51:00	=2678	=True	
+=8	=8	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=POS	=PI	=02/16/2014 04:55:00	=2678	=True	
+=9	=8	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=UNP	=PI	=02/16/2014 04:55:00	=2678	=True	
+=10	=4	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=UNP	=TR	=02/11/2014 04:51:00	=2678	=True	

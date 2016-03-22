@@ -1,0 +1,25 @@
+{
+  "To": [
+    {
+      "DisplayName": "",
+      "User": "test",
+      "Host": "test.com",
+      "Address": "test@test.com"
+    }
+  ],
+  "From": {
+    "DisplayName": "",
+    "User": "donotreply",
+    "Host": "cantaloupesys.com",
+    "Address": "donotreply@cantaloupesys.com"
+  },
+  "CC": [],
+  "Bcc": [],
+  "Subject": "Finish setting up your Greenlite account",
+  "ReplyToList": [],
+  "Priority": 0,
+  "Headers": [],
+  "DeliveryNotificationOptions": 0,
+  "IsBodyHtml": true,
+  "Body": "\r\nDear TestUser,\r\n<br />\r\n<br />\r\nYour GreenLite account is almost ready. Please click the link below to set a password so you can log in:\r\n<br />\r\n<a href=\"http://mycantaloupe.com/?Key=Nw6eMSZoAo3aVwQiTy063A%3D%3D\">http://mycantaloupe.com/?Key=Nw6eMSZoAo3aVwQiTy063A%3D%3D</a>\r\n<br />\r\n<br />\r\nIf you are still having problems accessing your account, please contact us at\r\n    1-800-833-4411.\r\n<br />\r\n<br />\r\nThank You,\r\n<br />\r\nGreenLite Support\r\n"
+}

@@ -1,0 +1,6 @@
+{
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "This branch has deployed assets. Deployed assets must be moved or undeployed before deleting this branch."
+  ]
+}

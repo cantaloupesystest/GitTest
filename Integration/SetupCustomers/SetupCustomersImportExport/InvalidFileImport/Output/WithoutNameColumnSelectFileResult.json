@@ -1,0 +1,134 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Code",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Zip",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Phone",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Fax",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Email",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Management Code",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Salesperson",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Account Manager",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Start Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "End Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "Description",
+        "SorterName": "text",
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          null,
+          "79401",
+          "(806) 744-1091",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [
+          "'Name' required."
+        ],
+        "Values": [
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": "79401",
+            "OldValue": null
+          },
+          {
+            "Value": "(806) 744-1091",
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          },
+          {
+            "Value": null,
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/Customer/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

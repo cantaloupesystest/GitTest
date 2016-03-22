@@ -1,0 +1,101 @@
+Id	CanteenUploadTransactionId	ProductManufacturerId	Name	
+=29697	=304	=5	=Herr Foods	
+=29698	=304	=13	=General Mills	
+=29699	=304	=16	=Wrigley	
+=29700	=304	=17	=Procter and Gamble	
+=29701	=304	=23	=Dr Pepper/Seven Up	
+=29702	=304	=36	=Welchs	
+=29703	=304	=38	=Nabisco	
+=29704	=304	=41	=Nestle	
+=29705	=304	=48	=Lance	
+=29706	=304	=55	=Jaret International	
+=29707	=304	=58	=ConAgra Foods	
+=29708	=304	=61	=Kar Nut Products	
+=29709	=304	=66	=Kellogg	
+=29710	=304	=80	=PepsiCo	
+=29711	=304	=87	=Pepperidge Farm	
+=29712	=304	=92	=Hershey	
+=29713	=304	=93	=Red Bull	
+=29714	=304	=98	=Cadbury Adams	
+=29715	=304	=99	=Mr. Nature	
+=29716	=304	=101	=Snyders of Hanover	
+=29717	=304	=103	=Frito Lay	
+=29718	=304	=109	=Campbell Soup	
+=29719	=304	=110	=Kraft Foods	
+=29720	=304	=113	=Coca-Cola	
+=29721	=304	=115	=M&M Mars	
+=29722	=304	=116	=Cloverhill Bakery	
+=29723	=304	=117	=Flowers Foods	
+=29724	=304	=118	=Kashi Company	
+=29725	=304	=119	=Macs	
+=29726	=304	=121	=Beacon Drive-In	
+=29727	=304	=122	=Citrus World, Inc	
+=29728	=304	=125	=Novamex	
+=29729	=304	=130	=Monogram Meat Snacks, LLC.	
+=29730	=304	=134	=Land- O- Sun Dairies, LLC.	
+=29731	=304	=141	=Le Bleu Corporation	
+=29732	=304	=144	=Wal-Mart Stores, Inc.	
+=29733	=304	=146	=Living Essentials	
+=29734	=304	=148	=Chattanooga Bakery	
+=29735	=304	=150	=Carolina Beverage Corp	
+=29736	=304	=156	=Duchess	
+=29737	=304	=158	=Inventure Group Inc.	
+=29738	=304	=161	=Knotts Berry Farms	
+=29739	=304	=164	=Ferrero	
+=29740	=304	=166	=Stauffers	
+=29741	=304	=169	=Biscomerica	
+=29742	=304	=176	=Jack Links	
+=29743	=304	=191	=Golden Batch	
+=29744	=304	=195	=Wise Foods	
+=29745	=304	=196	=Rockstar Inc.	
+=29746	=304	=198	=Sun-Maid	
+=29747	=304	=199	=Interstate Bakeries Corporation	
+=29748	=304	=201	=Nestle Waters North America	
+=29749	=304	=204	=CytoSport	
+=29750	=304	=210	=Ferrara Pan	
+=29751	=304	=233	=Ice River Springs	
+=29752	=304	=238	=Clif Bar & Co	
+=29753	=304	=255	=Roberts American Gourmet	
+=29754	=304	=256	=Garden of Eatin	
+=29755	=304	=257	=Kettle Foods, Inc.	
+=29756	=304	=258	=Sea Point	
+=29757	=304	=259	=Popchips	
+=29758	=304	=260	=All Market Inc.	
+=29759	=304	=261	=S.Pellegrino	
+=29760	=304	=262	=IZZE Beverage Company	
+=29761	=304	=270	=Newmans Own Inc.	
+=29762	=304	=271	=The Healthy Beverage Co.	
+=29763	=304	=275	=Kind, LLC	
+=29764	=304	=276	=Sambazon	
+=29765	=304	=277	=PurBlu Beverages, Inc.	
+=29766	=304	=279	=Pure of Holland	
+=29767	=304	=281	=Think Products	
+=29768	=304	=296	=Guayaki Sustainable Rainforest Products	
+=29769	=304	=303	=Cape Cod Potato Chips	
+=29770	=304	=327	=Otis Spunkmeyer	
+=29771	=304	=334	=Reeds Inc.	
+=29772	=304	=337	=Q.bel Foods LLC	
+=29773	=304	=341	=Food Should Taste Good, Inc.	
+=29774	=304	=359	=Sweet Leaf Beverage Co.	
+=29775	=304	=370	=Zone	
+=29776	=304	=371	=Tru Sweets, LLC	
+=29777	=304	=387	=Barbaras Bakery Inc.	
+=29778	=304	=418	=GlaxoSmithKline Consumer Healthcare	
+=29779	=304	=422	=Dr. Lucys LLC	
+=29780	=304	=429	=Zevia LLC	
+=29781	=304	=435	=Soken	
+=29782	=304	=449	=The Hain Celestial Group, Inc.	
+=29783	=304	=450	=Endangered Species Chocolate LLC	
+=29784	=304	=452	=Zico Beverages LLC	
+=29785	=304	=453	=Nugo	
+=29786	=304	=455	=Pacific Natural Foods	
+=29787	=304	=456	=Hint, Inc	
+=29788	=304	=459	=The Switch Beverage Company	
+=29789	=304	=465	=Justins Nut Butter	
+=29790	=304	=526	=Kombucha Wonder Drink, LLC	
+=29791	=304	=527	=Illy Caffe North America Inc.	
+=29792	=304	=544	=Nexstep Beverages LLC	
+=29793	=304	=545	=PROBAR LLC	
+=29794	=304	=589	=Naked Juice Co.	
+=29795	=304	=604	=BYB Brands Inc	
+=29796	=304	=617	=Wallaces Old Fashion Skin	

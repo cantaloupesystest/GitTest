@@ -1,0 +1,2 @@
+Id	DeliveryPaymentId	DeliveryOrderId	DeliveryPointOrderId	AmountInCents	
+=1	=1001	=1003	=1003	=-41663	

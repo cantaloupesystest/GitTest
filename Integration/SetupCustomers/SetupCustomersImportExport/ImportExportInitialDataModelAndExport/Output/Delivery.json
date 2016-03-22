@@ -1,0 +1,113 @@
+{
+  "PageTitle": null,
+  "FileUploadUrl": "/Customer/ImportExportSelectFile",
+  "ExcelExportInitialData": {
+    "InitializeDownloadUrl": "/Customer/ImportInitializeExportToExcel",
+    "DownloadUrl": "/Customer/ImportExportToExcel"
+  },
+  "ExportColumns": [
+    {
+      "Name": "Name",
+      "Caption": "Name",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Code",
+      "Caption": "Code",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Address",
+      "Caption": "Address",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "City",
+      "Caption": "City",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "State",
+      "Caption": "State",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Zip",
+      "Caption": "Zip",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Country",
+      "Caption": "Country",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Phone",
+      "Caption": "Phone",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Fax",
+      "Caption": "Fax",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Email",
+      "Caption": "Email",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Management Code",
+      "Caption": "Management Code",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Pricing Plan",
+      "Caption": "Pricing Plan",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Payment Terms",
+      "Caption": "Payment Terms",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Invoice Preference",
+      "Caption": "Invoice Preference",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Statement Preference",
+      "Caption": "Statement Preference",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Salesperson",
+      "Caption": "Salesperson",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Account Manager",
+      "Caption": "Account Manager",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Start Date",
+      "Caption": "Start Date",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "End Date",
+      "Caption": "End Date",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Description",
+      "Caption": "Description",
+      "IsColumnRequired": false
+    }
+  ],
+  "CancelUrl": "/Customer",
+  "ExcelFileDisplayName": "File",
+  "NoRowsSelectedMessage": "At least one row must be selected."
+}

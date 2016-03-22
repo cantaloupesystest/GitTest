@@ -1,0 +1,47 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "Customer Insert"
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "Customer Insert",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "Customer Import/Export Existing FB 2"
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [
+          "Access denied. Customer belongs to a different branch: Customer Import/Export First Branch (FB)."
+        ],
+        "Values": [
+          {
+            "Value": "Customer Import/Export Existing FB 2",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/Customer/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

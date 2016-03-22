@@ -1,0 +1,148 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Cash Date",
+        "SorterName": "shortDate",
+        "CssClassName": null
+      },
+      {
+        "Name": "Asset ID",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Bag Number",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Bills",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Coins",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Refunds",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Coin Refill",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Test Vends",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "2013-08-20T00:00:00",
+          "#55",
+          1488,
+          666,
+          1.1,
+          2.2,
+          3.3,
+          4.4
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "8/20/2013",
+            "OldValue": null
+          },
+          {
+            "Value": "#55",
+            "OldValue": null
+          },
+          {
+            "Value": "1488",
+            "OldValue": null
+          },
+          {
+            "Value": "666",
+            "OldValue": "0"
+          },
+          {
+            "Value": "$1.10",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$2.20",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$3.30",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$4.40",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "2013-08-20T00:00:00",
+          "#51",
+          1489,
+          667,
+          1.12,
+          2.22,
+          3.32,
+          4.42
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "8/20/2013",
+            "OldValue": null
+          },
+          {
+            "Value": "#51",
+            "OldValue": null
+          },
+          {
+            "Value": "1489",
+            "OldValue": null
+          },
+          {
+            "Value": "667",
+            "OldValue": "51"
+          },
+          {
+            "Value": "$1.12",
+            "OldValue": "$1.13"
+          },
+          {
+            "Value": "$2.22",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$3.32",
+            "OldValue": "$0.00"
+          },
+          {
+            "Value": "$4.42",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/CashImport/ImportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": []
+  }
+}

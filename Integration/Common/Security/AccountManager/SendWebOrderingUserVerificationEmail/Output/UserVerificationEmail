@@ -1,0 +1,25 @@
+{
+  "To": [
+    {
+      "DisplayName": "",
+      "User": "test",
+      "Host": "test.com",
+      "Address": "test@test.com"
+    }
+  ],
+  "From": {
+    "DisplayName": "",
+    "User": "donotreply",
+    "Host": "cantaloupesys.com",
+    "Address": "donotreply@cantaloupesys.com"
+  },
+  "CC": [],
+  "Bcc": [],
+  "Subject": "Authentication confirmation",
+  "ReplyToList": [],
+  "Priority": 0,
+  "Headers": [],
+  "DeliveryNotificationOptions": 0,
+  "IsBodyHtml": true,
+  "Body": "\r\nWelcome to Web Ordering from TestCompany!\r\n<br />\r\n<br />\r\nIMPORTANT: to activate your account, please click on the link below or paste it into your browser.\r\n<br />\r\n<a href=\"http://mycantaloupe.com/?Key=Nw6eMSZoAo3aVwQiTy063A%3D%3D\">http://mycantaloupe.com/?Key=Nw6eMSZoAo3aVwQiTy063A%3D%3D</a>\r\n<br />\r\n<br />\r\nIf you have any questions, contact us at <a href=\"mailto:support@testcompany.com\">support@testcompany.com</a> or 123-456-789.\r\n<br />\r\n<br />\r\nThanks!\r\n"
+}

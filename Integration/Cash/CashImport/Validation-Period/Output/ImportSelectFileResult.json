@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Cash date out of range. Difference between maximum and minimum schedule dates should not be more than 31 days."
+    ]
+  },
+  "Preview": null
+}

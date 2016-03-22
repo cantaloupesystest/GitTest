@@ -1,0 +1,64 @@
+Id	Name	Deleted	
+=1	=Cans	=False	
+=2	=Food	=False	
+=3	=Bottles	=False	
+=4	=Candy	=False	
+=5	=Thin Snack	=False	
+=6	=Cookie Tray	=False	
+=7	=Prem Bar	=False	
+=8	=Chips 1oz	=False	
+=9	=Large Chips	=False	
+=10	=Pastry Tray	=False	
+=11	=Gum/Mint	=False	
+=12	=Candy - Fit Pick	=False	
+=13	=Sport	=False	
+=14	=Water	=False	
+=15	=Energy Drink	=False	
+=16	=Juice and Milk	=False	
+=17	=None	=False	
+=18	=No Commission	=False	
+=19	=Hot Drinks (Vending)	=False	
+=20	=Refrig Food	=False	
+=21	=1Candy	=False	
+=22	=Cold Drinks	=False	
+=23	=Tax Exempt	=False	
+=24	=Jet Aviation 8%	=False	
+=25	=Skyline Deli 15%	=False	
+=26	=Skyline Deli 5?/vend	=False	
+=27	=Center Point 5?/Vend	=False	
+=28	=Ward 5?/Vend	=False	
+=29	=Signature Flight 5?/Vend	=False	
+=30	=Pittsburgh Corning 5?/Vend	=False	
+=31	=Murphy's Deli 18%	=False	
+=32	=Murphy's Deli 12%	=False	
+=33	=Walker Engineering 10?/Vend Drinks	=False	
+=34	=Just Energy 5?/Vend	=False	
+=35	=Subsidy-65c per unit	=False	
+=36	=Subsidy-25c per unit	=False	
+=37	=Subsidy-25c per unit -  Monthly	=False	
+=38	=8% Net Tax - Half Year	=False	
+=39	=5c per unit - Quarterly	=False	
+=40	=5c per unit - Half Year	=False	
+=41	=5c per unit - Monthly	=False	
+=42	=10c per unit - monthly	=False	
+=43	=10c per unit - quarterly	=False	
+=44	=Subsidy - 41.55c per unit	=False	
+=45	=Subsidy - 41.55c per unit monthly	=False	
+=46	=NEXEN Bev Subsidy - monthly	=False	
+=47	=HCC Subsidy - monthly	=False	
+=48	=PSC Bev Subsidy - monthly	=False	
+=49	=Ernst Young subsidy - monthly	=False	
+=50	=SIP Industries subsidy - monthly	=False	
+=51	=Rockwater subsidy - monthly	=False	
+=52	=Smith Seckman Reid subsidy-monthly	=False	
+=53	=Maersk subsidy - monthly	=False	
+=54	=Hilton Temporary Gift Shop	=False	
+=55	=Nexen USA Bev Subsidy - monthly	=False	
+=56	=Nexen Energy Bev Subsidy - monthly	=False	
+=57	=Hilton Temporary Gift Shop Commission - Monthly	=False	
+=58	=WidgetCo 50? Subsidy	=False	
+=59	=Copy of: Subsidy-25c per unit -  Quarterly	=False	
+=60	=AFGlobal 50? machine price	=False	
+=61	=CenterPoint	=False	
+=62	=Entrance Software Free Vend	=False	
+=63	=AFGlobal 50? price - dex sales	=False	

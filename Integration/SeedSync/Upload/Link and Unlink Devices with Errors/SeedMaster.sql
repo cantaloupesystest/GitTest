@@ -1,0 +1,1 @@
+﻿delete from Devices where SerialNumber=109552

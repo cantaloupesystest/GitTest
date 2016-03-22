@@ -1,0 +1,11 @@
+{
+  "IsOrderOverpaid": false,
+  "IsOrderCreditAllocated": false,
+  "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1002",
+  "PdfUrl": "/DeliveryCommon/Pdf?OrderId=1002",
+  "OrderedScheduleLockHistories": null,
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [],
+  "ErrorKeys": [],
+  "ErrorMessages": []
+}

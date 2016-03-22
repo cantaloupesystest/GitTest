@@ -1,0 +1,44 @@
+Id	TaxJurisdictionId	Name	Description	TaxJurisdictionLevelId	ParentTaxJurisdictionId	RoundingRuleType	MinTaxableItemPriceInCents	DepositIsTaxable	HasDirectSaleRule	CreatedBy	IsRecenetCreatedDateTime	
+=1	=1	=Tax Exempt	[NULL]	=5	[NULL]	=N1C	[NULL]	=False	=False	[NULL]	=False	
+=2	=2	=8.25% Houston Metro MTA	=8.25% Houston Metro MTA	=4	[NULL]	=N1C	[NULL]	=False	=False	=george@gulpitvending.com	=False	
+=3	=2	=8.25% Houston Metro MTA	=8.25% Houston Metro MTA	=4	[NULL]	=N1C	[NULL]	=False	=False	=george@gulpitvending.com	=False	
+=4	=2	=8.25% Vending Houston Metro MTA	=8.25% Houston Metro MTA	=4	[NULL]	=N1C	[NULL]	=False	=False	=george@gulpitvending.com	=False	
+=5	=2	=8.25% Vending Houston Metro MTA	=8.25% Houston Metro MTA	=4	[NULL]	=N1C	[NULL]	=False	=False	=george@gulpitvending.com	=False	
+=6	=2	=8.25% Vending Houston Metro MTA	=8.25% Houston Metro MTA	=4	[NULL]	=N1C	[NULL]	=False	=False	=allen@cantaloupesys.com	=False	
+=7	=2	=8.25% Vending Houston Metro MTA	=8.25% Houston Metro MTA	=4	[NULL]	=N1C	[NULL]	=False	=False	=allen@cantaloupesys.com	=False	
+=8	=3	=State of TX	[NULL]	=2	[NULL]	=N1C	[NULL]	=False	=False	=george@gulpitvending.com	=False	
+=9	=2	=Houston Metro MTA	=Houston Metro MTA	=5	=3	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=10	=3	=State of TX	[NULL]	=2	[NULL]	=N1C	[NULL]	=False	=False	=george@gulpitvending.com	=False	
+=11	=4	=Harris County	=Harris County	=3	=3	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=12	=2	=Houston Metro MTA-Harris	=Houston Metro MTA	=5	=4	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=13	=5	=Next County to add	[NULL]	=3	=3	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=14	=6	=Houston Metro MTA-Next	=Houston Metro MTA-Next	=5	=5	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=15	=4	=Harris County - MTA	=Harris County	=3	=3	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=16	=7	=Harris County	=Harris County	=3	=3	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=17	=2	=Harris County - No MTA	=Harris County - No MTA	=5	=7	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=18	=4	=Harris County - MTA	=Harris County	=5	=7	[NULL]	[NULL]	[NULL]	=False	=george@gulpitvending.com	=False	
+=19	=3	=1 State of TX	[NULL]	=2	[NULL]	=N1C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=20	=7	=2 Harris County	=Harris County	=3	=3	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=21	=4	=3 Harris County - MTA	=Harris County	=5	=7	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=22	=5	=6 Next County to add	[NULL]	=3	=3	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=23	=4	=3 Harris County - MTA	=Harris County	=5	[NULL]	=N1C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=24	=5	=6 Next County to add	[NULL]	=3	[NULL]	=N1C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=25	=7	=2 Harris County	=Harris County	=3	[NULL]	=N1C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=26	=3	=1 State of TX	[NULL]	=1	[NULL]	=N1C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=27	=7	=2 Harris County	=Harris County	=2	[NULL]	=N1C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=28	=7	=2 Harris County	=Harris County	=2	=3	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=29	=4	=3 Harris County - MTA	=Harris County	=4	=7	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=30	=4	=3 Harris County - MTA	=Harris County	=3	=7	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=31	=8	=4	[NULL]	=4	=4	[NULL]	[NULL]	[NULL]	=True	=sema.tereshonok@cantaloupesys.com	=False	
+=32	=9	=5	[NULL]	=5	=8	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=33	=5	=6 Next County to add	[NULL]	=2	=3	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=34	=10	=7	[NULL]	=3	=5	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=35	=11	=8	[NULL]	=4	=10	[NULL]	[NULL]	[NULL]	=True	=sema.tereshonok@cantaloupesys.com	=False	
+=36	=12	=9	[NULL]	=5	=11	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=37	=13	=Up to nearest cent	[NULL]	=2	[NULL]	=U1C	[NULL]	=False	=True	=sema.tereshonok@cantaloupesys.com	=False	
+=38	=14	=Nearest 5 cent	[NULL]	=3	[NULL]	=N5C	[NULL]	=False	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=39	=15	=Up to nearest 5 cent	[NULL]	=4	[NULL]	=U5C	[NULL]	=True	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=40	=16	=10	[NULL]	=4	=4	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=41	=4	=3 Harris County - MTA	=Harris County	=3	=7	[NULL]	[NULL]	[NULL]	=False	=sema.tereshonok@cantaloupesys.com	=False	
+=42	=17	=22	=22	=2	[NULL]	=N1C	[NULL]	=False	=False	=alexey.matvienko@cantaloupesys.com	=False	
+=43	=18	=33	=33	=3	=17	[NULL]	[NULL]	[NULL]	=False	=alexey.matvienko@cantaloupesys.com	=False	

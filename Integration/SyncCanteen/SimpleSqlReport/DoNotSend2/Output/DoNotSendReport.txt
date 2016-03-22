@@ -1,0 +1,3 @@
+Status	RouteName	RouteId	BusinessDate	ScheduleCreatedOn	PrepickCreatedOn	RequestCreatedOn	ProcessingNotes	
+=Schedule has not been edited. Please edit schedule before attempting to download, or enter 'override' instead of 'yes' to download to iVend.	=004 - BERRY, ROBERT	=2920	=04/01/2050 00:00:00	=07/15/2014 10:57:57	=07/15/2014 10:58:23	[NULL]	[NULL]	
+=Schedule has not been edited. Please edit schedule before attempting to download, or enter 'override' instead of 'yes' to download to iVend.	=004 - BERRY, ROBERT	=2920	=04/01/2050 00:00:00	=07/15/2014 10:59:30	=07/15/2014 10:59:48	[NULL]	[NULL]	

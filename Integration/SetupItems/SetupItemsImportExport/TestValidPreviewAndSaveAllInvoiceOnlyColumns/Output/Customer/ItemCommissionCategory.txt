@@ -1,0 +1,18 @@
+Id	Name	Deleted	
+=1	=Cans	=False	
+=2	=Food	=False	
+=3	=Bottles	=False	
+=4	=Candy	=False	
+=5	=Thin Snack	=False	
+=6	=Cookie Tray	=False	
+=7	=Prem Bar	=False	
+=8	=Chips 1oz	=False	
+=9	=Large Chips	=False	
+=10	=Pastry Tray	=False	
+=11	=Gum/Mint	=False	
+=12	=Candy - Fit Pick	=False	
+=13	=Sport	=False	
+=14	=Water	=False	
+=15	=Energy Drink	=False	
+=16	=Juice and Milk	=False	
+=17	=None	=False	

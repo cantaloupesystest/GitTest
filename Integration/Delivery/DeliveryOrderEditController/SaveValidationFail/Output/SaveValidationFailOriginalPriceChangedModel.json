@@ -1,0 +1,18 @@
+{
+  "IsOrderOverpaid": false,
+  "IsOrderCreditAllocated": false,
+  "DetailUrl": null,
+  "PdfUrl": null,
+  "OrderedScheduleLockHistories": null,
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [
+    {
+      "Id": 1246,
+      "Price": 14.78
+    }
+  ],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Item price(s) have changed. This is typically caused by a long delay between opening an order and saving it. Item prices have been updated with current rates. Try to save the order again."
+  ]
+}

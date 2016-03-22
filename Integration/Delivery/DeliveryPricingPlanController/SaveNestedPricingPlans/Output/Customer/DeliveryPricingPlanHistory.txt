@@ -1,0 +1,10 @@
+Id	DeliveryPricingPlanId	Name	Description	CostPlusRate	StartUtcDateTime	EndUtcDateTime	PackFilterType	ParentDeliveryPricingPlanId	
+=1	=1	=Simple	[NULL]	=0.13000	=02/06/2014 12:09:32	=01/01/9999 00:00:00	=ANY	[NULL]	
+=2	=2	=AnyPackButNotEachWithoutOverride	=AnyPackButNotEachWithoutOverride	=0.11000	=03/24/2014 10:30:36	=01/01/9999 00:00:00	=NEC	[NULL]	
+=3	=3	=OnlyWithOverride	=OnlyWithOverride	=0.07000	=03/24/2014 10:31:29	=03/24/2014 11:12:12	=ANY	[NULL]	
+=4	=3	=OnlyWithOverride	=OnlyWithOverride	=0.11000	=03/24/2014 11:12:12	=01/01/9999 00:00:00	=OVR	[NULL]	
+=5	=4	=2ndLevel	=Default Description	=0.30530	=07/03/2014 17:25:15	=07/05/2014 17:25:15	=NEC	=1	
+=6	=5	=3rdLevel	[NULL]	[NULL]	=07/04/2014 17:25:15	=07/07/2014 17:25:15	=OVR	=4	
+=7	=4	=ModifiedRulesIn2ndLevel	=Default Description	=0.30530	=07/05/2014 17:25:15	=07/06/2014 17:25:15	=NEC	=1	
+=8	=4	=RemoveInheritanceIn2ndLevel	=Default Description	=0.30530	=07/06/2014 17:25:15	=01/01/9999 00:00:00	=NEC	[NULL]	
+=9	=5	=3rdLevel	[NULL]	[NULL]	=07/07/2014 17:25:15	=01/01/9999 00:00:00	=OVR	=1	

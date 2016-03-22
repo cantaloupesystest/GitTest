@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "column 'Supplier: Coca-Cola', row 21: invalid value '~!@#$ %^&*()_+-={}:\"|;'\\/.,> ?1234567890wqewerwewyu'."
+    ]
+  },
+  "Preview": null
+}

@@ -1,0 +1,29 @@
+WARNINGS                        	                                      	                        	           	            
+Machine coil difference warnings	                                      	                        	           	            
+Route Name                      	Asset Id                              	VMS Coils               	Seed Coils 	            
+RT 15                           	207387                                	'2', '6'                	           	            
+Machine coil product changed    	                                      	                        	           	            
+Route Name                      	Asset Id                              	Coil                    	VMS Product	Seed Product
+Default Route..                 	166343                                	                        	           	            
+                                	                                      	3                       	22001      	28010       
+                                	                                      	4                       	28010      	22002       
+RT 15                           	207687                                	                        	           	            
+                                	                                      	3                       	24050      	24001       
+                                	                                      	9                       	24051      	24152       
+INFORMATION                     	                                      	                        	           	            
+Summary                         	                                      	                        	           	            
+Data Building Time:             	0h:0m:40s                             	                        	           	            
+Data Processing Time:           	0h:0m:0s                              	                        	           	            
+Product Manufacturers:          	2                                     	Machines:               	           	4           
+Product Categories:             	3                                     	Inventories:            	           	24          
+Products:                       	17                                    	Machine Visits:         	           	0           
+Routes:                         	3                                     	Machine Visit Details:  	           	0           
+Customers:                      	4                                     	Route Schedules:        	           	0           
+Locations:                      	4                                     	Machine Route Schedules:	           	0           
+TECHNICAL INFORMATION           	                                      	                        	           	            
+Reporting Version:              	0.0                                   	                        	           	            
+Client:                         	Processor=Vendmax, Version=2.0.0.29859	                        	           	            
+Request URL:                    	http://test.org/                      	                        	           	            
+Username:                       	test@test.com                         	                        	           	            
+Transaction Id:                 	0                                     	                        	           	            
+Highest Framework Version:      	4.0.30319                             	                        	           	            

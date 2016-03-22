@@ -1,0 +1,17 @@
+Id	WarehouseId	ItemId	Quantity	ParLevel	ParPackId	
+=1	=11	=300	=11	[NULL]	[NULL]	
+=2	=11	=301	=549	[NULL]	[NULL]	
+=3	=11	=619	=1	[NULL]	[NULL]	
+=4	=11	=679	=0	[NULL]	[NULL]	
+=5	=8	=679	=4	[NULL]	[NULL]	
+=6	=18	=677	=-12	=5	=684	
+=7	=18	=192	=-78	[NULL]	[NULL]	
+=8	=19	=192	=78	[NULL]	[NULL]	
+=9	=12	=192	=1	[NULL]	[NULL]	
+=10	=12	=300	=49	[NULL]	[NULL]	
+=11	=12	=301	=1	[NULL]	[NULL]	
+=12	=4	=301	=0	[NULL]	[NULL]	
+=13	=4	=513	=0	[NULL]	[NULL]	
+=14	=4	=555	=0	[NULL]	[NULL]	
+=15	=12	=513	=0	[NULL]	[NULL]	
+=16	=12	=555	=0	[NULL]	[NULL]	

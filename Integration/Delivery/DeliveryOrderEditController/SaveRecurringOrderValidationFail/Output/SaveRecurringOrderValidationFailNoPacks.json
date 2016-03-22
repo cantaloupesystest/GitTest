@@ -1,0 +1,8 @@
+{
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [],
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Order must have at least one Pack."
+  ]
+}

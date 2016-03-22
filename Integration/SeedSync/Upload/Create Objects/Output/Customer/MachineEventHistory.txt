@@ -1,0 +1,2 @@
+Id	MachineId	EventType	Parameter1	Parameter2	Parameter3	IsRecentUtcCreatedDateTime	
+=1	=1177985	=SLNK	=34644	=Asset ID 16 Symb	[NULL]	=True	

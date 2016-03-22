@@ -1,0 +1,155 @@
+Id	Name	
+=0	=Generic	
+=11	=Bagged Cookies	
+=12	=Can Food	
+=13	=Candy	
+=14	=Crackers & Nuts	
+=15	=Fresh Food	
+=16	=Gum & Mint	
+=17	=Ice Cream	
+=18	=Juice	
+=19	=LSC Candy	
+=20	=LSS Chips	
+=21	=Microwave Popcorn	
+=22	=Pastry	
+=23	=Reg. Chips	
+=24	=Small Cookies	
+=25	=Soda (CSD)	
+=26	=Specialty Bev	
+=27	=Sports Drink	
+=28	=Water	
+=29	=Wafer	
+=30	=Meat Snack	
+=31	=Supplies	
+=32	=Coffee & Tea	
+=33	=Condiments	
+=34	=Frozen	
+=35	=Coffee Fresh	
+=36	=Powdered mix	
+=37	=Energy Drink	
+=38	=v.Pastry	
+=39	=v.Candy	
+=40	=v.LSS Chips	
+=41	=BOTTLE SODA/JUICE	
+=42	=v.Food $1.00	
+=43	=v.Food $1.50	
+=44	=v.Food $1.25	
+=45	=v.Popcorn	
+=46	=v.$2.00 Snack	
+=47	=v.$2.50 Snack	
+=48	=v.$3.00 Snack	
+=49	=v.$1.00 Snack	
+=50	=v.Gum/Mints	
+=51	=v.$1.25 Snack	
+=52	=v.$1.50 Snack	
+=53	=v.Vend Coffee	
+=54	=v.Vend Chocolate	
+=55	=v.Vend Decaf Coffee	
+=56	=v.Vend Tea	
+=57	=v.Vend Soup	
+=58	=v.Vend Cappuccino	
+=59	=v.Vend Creamer	
+=60	=v.Vend Sugar 5#	
+=61	=v. Vend Sweet N Low	
+=62	=v.Vend BIB	
+=63	=v.Milk Pints	
+=64	=v.Food $2.00	
+=65	=v.Food $2.50	
+=66	=v.Food $3.00	
+=67	=v.6oz JUICE	
+=68	=v.16oz JUICE	
+=69	=v. 12oz JUICE	
+=70	=v.PAPER GOODS	
+=71	=v.SPECIALTY COFFEE	
+=72	=v.OCS COFFEE	
+=73	=v.CAN SODA	
+=74	=v.RELATED	
+=75	=v.Vend Cider	
+=76	=v.TOILETRIES	
+=77	=v.NEW AGE BEVERAGES	
+=78	=v.NEW AGE BOTTLES	
+=79	=$3.50 SNACK	
+=80	=v. Commissary Bakery	
+=81	=v.Vend 1/2 Pt Milk	
+=82	=v.Food $.50	
+=83	=v. 8.25 oz Cup	
+=84	=v.12 oz Cup	
+=85	=Food $1.25	
+=86	=Food $1.00	
+=87	=Food $1.50	
+=88	=Food $2.00	
+=89	=Food $2.50	
+=90	=Food $3.00	
+=91	=Chips	
+=92	=Gum/Mints	
+=93	=Pastry-Fresh	
+=94	=Cans	
+=95	=Bottles	
+=96	=Coffee	
+=97	=Misc	
+=98	=Cold Food	
+=99	=C/C/N-Regular	
+=100	=Other Snack	
+=101	=Microwave	
+=102	=Big Bag/Box	
+=103	=Energy	
+=104	=Sport	
+=105	=Pastry-Long Life	
+=1039	=Cereal	
+=1040	=FOOD 1.25	
+=1041	=FOOD 1.00	
+=1042	=COMMISSARY BAKERY(V)	
+=1043	=FOOD 1.50	
+=1044	=FOOD 2.00	
+=1045	=PASTRY(v)	
+=1046	=FOOD 2.50	
+=1048	=COOKIE/CRACKER (V)	
+=1049	=CANDY/GRANOLA(v)	
+=1050	=VEND COFFEE	
+=1051	=VEND CHOCOLATE	
+=1052	=VEND TEA	
+=1053	=VEND HOT SOUP	
+=1054	=CAPPUCCINO VEND	
+=1055	=CREAMER CANISTER	
+=1056	=VEND CREAM	
+=1057	=FILTER ROLL	
+=1058	=SUGAR CANNISTER 20oz.	
+=1059	=VEND SUGAR	
+=1060	=2# DECAF COFFE	
+=1061	=PAPER GOODS	
+=1062	=SYRUP	
+=1063	=FOOD 1.75	
+=1064	=FOOD .50	
+=1065	=FOOD $1.60	
+=1066	=FOOD .65	
+=1067	=BOTTLED MILK	
+=1068	=FRUIT	
+=1069	=FOOD 2.25	
+=1070	=FOOD $4.00	
+=1071	=8.25 IMP VEND	
+=1072	=CUTLERY	
+=1073	=OCS COFFEE	
+=1074	=GEVALIA VEND PKTS	
+=1075	=RELATED	
+=1076	=HOT CHOCOLATE PACKETS	
+=1077	=TOILETRIES	
+=1081	=Vend Group 14000	
+=1082	=Vend Group 13300	
+=1084	=Vend Group 60000	
+=1085	=Vend Group 16500	
+=1086	=Vend Group 17100	
+=1087	=Vend Group 41000	
+=1088	=Vend Group 31000	
+=1089	=Vend Group 23000	
+=1090	=Vend Group 26000	
+=1091	=Vend Group 32000	
+=1092	=Vend Group 27000	
+=1093	=Vend Group 30000	
+=1094	=Vend Group 50000	
+=1095	=Tobacco(v)	
+=1096	=C-STORE 47000	
+=1097	=Food $1.75	
+=1098	=Food $2.25	
+=1099	=Food $2.75	
+=1100	=Condiment-Related	
+=1101	=Item Name 50 symbols max length 1234567890!@#$%^12	

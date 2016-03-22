@@ -1,0 +1,60 @@
+[
+  {
+    "Name": "Items",
+    "Columns": [
+      {
+        "Caption": "UPC",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Name",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Pack Name",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Cost Plus",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Fixed Price",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Inherited From",
+        "DataFormat": null,
+        "WrapText": false
+      }
+    ],
+    "Rows": [
+      {
+        "Items": [
+          "00123",
+          "Coke 12oz",
+          "Each",
+          30.0,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "3456",
+          "Diet Pepsi 20oz",
+          "Case",
+          null,
+          1.2,
+          null
+        ]
+      }
+    ],
+    "Description": null
+  }
+]

@@ -1,0 +1,24 @@
+Id	BranchId	Name	IsDefault	IsPicked	Deleted	CreatedByUserId	
+=1	=1	=model DB main warehouse	=True	=False	=False	[NULL]	
+=2	=1	=model DB warehouse truck	=False	=False	=False	[NULL]	
+=3	=1	=model DB picked prepicks	=False	=True	=False	[NULL]	
+=4	=2	=New Branch1 main warehouse	=True	=False	=False	=2970	
+=5	=2	=New Branch1 picked prepicks	=False	=True	=False	=2970	
+=6	=3	=New Branch2 main warehouse	=True	=False	=False	=2970	
+=7	=3	=New Branch2 picked prepicks	=False	=True	=False	=2970	
+=8	=4	=DefaultBranch main warehouse	=True	=False	=False	=2970	
+=9	=4	=DefaultBranch picked prepicks	=False	=True	=False	=2970	
+=10	=5	=PulledMachineBranch main warehouse	=True	=False	=False	=2970	
+=11	=5	=PulledMachineBranch picked prepicks	=False	=True	=False	=2970	
+=12	=1	=NotUniqueRoute warehouse truck	=False	=False	=False	=2970	
+=13	=1	=NotUniqueWarehouse main warehouse	=False	=False	=False	=2970	
+=14	=6	=WarehouseIsNotEmpty main warehouse	=True	=False	=False	=2970	
+=15	=6	=WarehouseIsNotEmpty picked prepicks	=False	=True	=False	=2970	
+=16	=2	=New Branch1 warehouse truck	=False	=False	=False	[NULL]	
+=17	=3	=New Branch2 warehouse truck	=False	=False	=False	[NULL]	
+=18	=4	=DefaultBranch warehouse truck	=False	=False	=False	[NULL]	
+=19	=5	=PulledMachineBranch warehouse truck	=False	=False	=False	[NULL]	
+=20	=6	=WarehouseIsNotEmpty warehouse truck	=False	=False	=False	[NULL]	
+=21	=7	=Test Name warehouse truck	=False	=False	=False	=2678	
+=22	=7	=Test Name main warehouse	=True	=False	=False	=2678	
+=23	=7	=Test Name picked prepicks	=False	=True	=False	=2678	

@@ -1,0 +1,6 @@
+{
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Warehouse is not empty, so branch cannot be deleted. Either transfer out all inventory or post a Full Inventory transaction with zero levels for all items."
+  ]
+}

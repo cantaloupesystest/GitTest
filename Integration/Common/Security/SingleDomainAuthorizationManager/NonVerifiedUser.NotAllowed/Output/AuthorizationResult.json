@@ -1,0 +1,6 @@
+{
+  "Principal": null,
+  "NotVerifiedUserEmail": "NotVerifiedUser@mail.com",
+  "Successful": false,
+  "ErrorMessage": "User is not verified."
+}

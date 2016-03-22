@@ -1,0 +1,6 @@
+{
+  "ErrorKeys": [],
+  "ErrorMessages": [
+    "Could not delete default branch because it is used to create machines when telemetry devices report for the first time. Contact Support for assistance."
+  ]
+}

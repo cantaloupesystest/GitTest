@@ -1,0 +1,3 @@
+Id	DeliveryOrderId	DeliveryPointOrderId	Email	Successful	CreatedUtcDateTime	
+=1	=1001	=1001	=CustomerTest@test.com,CustomerSecondMail@test.com	=True	=12/12/2014 17:41:00	
+=2	=1001	=1001	=CustomerTest@test.com,CustomerSecondMail@test.com	=True	=12/12/2014 17:41:00	

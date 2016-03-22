@@ -1,0 +1,3 @@
+Status	RouteName	RouteId	BusinessDate	ScheduleCreatedOn	PrepickCreatedOn	RequestCreatedOn	ProcessingNotes	
+=Ready to clear failed download request	=004 - BERRY, ROBERT	=2920	=04/01/2050 00:00:00	=07/15/2014 10:57:57	=07/15/2014 10:58:23	=10/19/2014 20:00:00	[NULL]	
+=Ready to clear failed download request	=004 - BERRY, ROBERT	=2920	=04/01/2050 00:00:00	=07/15/2014 10:59:30	=07/15/2014 10:59:48	=10/19/2014 20:00:00	[NULL]	

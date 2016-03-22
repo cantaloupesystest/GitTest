@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Coils already exist for SectionWithCoilsCK. The import feature is only supported for new markets with no coils defined in any section. Before trying to import again, please delete all coils or delete and re-create all sections."
+    ]
+  },
+  "Preview": null
+}

@@ -1,0 +1,4 @@
+Id	MachineCoilHistoryId	CoilName	OldItemId	NewItemId	AddedQuantity	SpoiledQuantity	RemovedQuantity	ObservedQuantity	CoilGroupingAdjustmentQuantity	SystemAdjustmentQuantity	InventoryAdjustmentQuantity	FutureInventoryAdjustmentQuantity	OfflineSaleId	InitialInventoryLevel	
+=108713	=870192	=CAB1	=1	=1	=0	[NULL]	=0	[NULL]	=0	=11	=0	=0	[NULL]	=-11	
+=108714	=870192	=CAB2	=1	=1	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=0	
+=108715	=870192	=110	=1	=1	=0	[NULL]	=0	[NULL]	=0	=11	=0	=0	[NULL]	=-11	

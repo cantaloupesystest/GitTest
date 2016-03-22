@@ -1,0 +1,2 @@
+Id	SerialNumber	IsRecentNoteDateTime	NoteType	Text	CreatedBy	
+=1	=103401	=True	=Moves/Swaps	=Seed device 103401 has been removed from the MachineID 603401, Catalog Customer	=test@test.com	

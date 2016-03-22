@@ -1,0 +1,1 @@
+Id	CanteenUploadTransactionId	MachineServiceId	SelectionName	InventoryLevel	InventoryOverrideInd	TotalFills	TotalReturnToTruck	TotalSpoiled	

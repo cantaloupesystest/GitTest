@@ -1,0 +1,26 @@
+Id	Name	Deleted	
+=1	=Water	=False	
+=2	=Soft Drink	=False	
+=3	=Candy	=False	
+=4	=Snack	=False	
+=5	=Juice Milk	=False	
+=6	=Not Taxable	=False	
+=7	=Hot Drinks (Vending)	=False	
+=8	=No Commission	=False	
+=9	=Refrig Food	=False	
+=10	=1Candy	=False	
+=11	=Flavored Water	=False	
+=12	=Tax Exempt	=False	
+=13	=Tea	=False	
+=14	=Cold Drinks	=False	
+=15	=Juice	=False	
+=16	=Houston Metro MTA	=False	
+=17	=8.25% Houston Metro MTA	=False	
+=18	=8.25% Vending Houston Metro MTA	=False	
+=19	=State of TX	=False	
+=20	=Harris County	=False	
+=21	=Houston Metro MTA-Harris	=False	
+=22	=Next County to add	=False	
+=23	=Houston Metro MTA-Next	=False	
+=24	=Harris County - MTA	=False	
+=25	=Harris County - No MTA	=False	

@@ -1,0 +1,94 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "Branch",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Manufacturer",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Count",
+        "SorterName": "numeric",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Unit Cost",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "NotExistentBranchName",
+          "10000499",
+          "Powerade Lemon Lime  599499",
+          "Sports Drink99",
+          "Coca Cola99",
+          249,
+          99.0
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [
+          "'Branch' must exist."
+        ],
+        "Values": [
+          {
+            "Value": "NotExistentBranchName",
+            "OldValue": null
+          },
+          {
+            "Value": "10000499",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Lemon Lime  599499",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink99",
+            "OldValue": null
+          },
+          {
+            "Value": "Coca Cola99",
+            "OldValue": null
+          },
+          {
+            "Value": "249",
+            "OldValue": null
+          },
+          {
+            "Value": "$99.00",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Import failed due to errors in one or more rows. To ignore errors and continue import, uncheck row(s) with errors. Otherwise, please fix errors and upload the fixed file."
+    ]
+  }
+}

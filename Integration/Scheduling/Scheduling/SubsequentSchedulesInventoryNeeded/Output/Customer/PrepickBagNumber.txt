@@ -1,0 +1,3 @@
+Id	MachineId	PrepickReportDateOnly	BagNumber	
+=1	=1192842	=12/02/2013 00:00:00	=1	
+=2	=1192842	=12/03/2013 00:00:00	=2	

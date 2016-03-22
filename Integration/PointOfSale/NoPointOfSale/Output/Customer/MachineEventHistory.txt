@@ -1,0 +1,1 @@
+Id	MachineId	EventType	IsRecentCreatedUtcDateTime	Parameter1	Parameter2	Parameter3	

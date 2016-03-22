@@ -1,0 +1,146 @@
+{
+  "OrderPacks": [
+    {
+      "Item": {
+        "Id": 248,
+        "Caption": "10001 - Diet Coke 12oz can 1003",
+        "OrderedPacks": [
+          {
+            "Id": 12,
+            "ItemsCount": 1,
+            "Caption": "Each",
+            "Price": 0.41,
+            "IsEach": true,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1209,
+            "ItemsCount": 24,
+            "Caption": "Case (24ct)",
+            "Price": 9.76,
+            "IsEach": false,
+            "IsDefault": true,
+            "Par": null
+          }
+        ],
+        "Histories": [
+          {
+            "DeliveryOrderId": 1001,
+            "PackId": 1209,
+            "Caption": "Case (24ct)",
+            "ScheduleDate": "2013-12-16T00:00:00",
+            "Quantity": 5,
+            "Price": 9.84
+          }
+        ],
+        "HasMoreItemHistory": false
+      },
+      "PackId": 1209,
+      "Price": 9.76,
+      "OriginalPriceAmount": 9.76,
+      "Quantity": 5
+    },
+    {
+      "Item": {
+        "Id": 269,
+        "Caption": "10022 - Sprite Zero 12oz can 4807",
+        "OrderedPacks": [
+          {
+            "Id": 33,
+            "ItemsCount": 1,
+            "Caption": "Each",
+            "Price": 0.42,
+            "IsEach": true,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1211,
+            "ItemsCount": 12,
+            "Caption": "Fridge Pack (12ct)",
+            "Price": 5.02,
+            "IsEach": false,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1236,
+            "ItemsCount": 24,
+            "Caption": "Case (24ct)",
+            "Price": 10.03,
+            "IsEach": false,
+            "IsDefault": true,
+            "Par": null
+          }
+        ],
+        "Histories": [
+          {
+            "DeliveryOrderId": 1001,
+            "PackId": 1211,
+            "Caption": "Fridge Pack (12ct)",
+            "ScheduleDate": "2013-12-16T00:00:00",
+            "Quantity": 3,
+            "Price": 5.04
+          }
+        ],
+        "HasMoreItemHistory": false
+      },
+      "PackId": 1211,
+      "Price": 5.02,
+      "OriginalPriceAmount": 5.02,
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "Id": 726,
+        "Caption": "10033 - Fanta Orange Soda 12oz",
+        "OrderedPacks": [
+          {
+            "Id": 44,
+            "ItemsCount": 1,
+            "Caption": "Each",
+            "Price": 0.38,
+            "IsEach": true,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1290,
+            "ItemsCount": 12,
+            "Caption": "fridge pack  (12ct)",
+            "Price": 4.61,
+            "IsEach": false,
+            "IsDefault": false,
+            "Par": null
+          },
+          {
+            "Id": 1127,
+            "ItemsCount": 24,
+            "Caption": "Case (24ct)",
+            "Price": 9.22,
+            "IsEach": false,
+            "IsDefault": true,
+            "Par": null
+          }
+        ],
+        "Histories": [
+          {
+            "DeliveryOrderId": 1001,
+            "PackId": 1127,
+            "Caption": "Case (24ct)",
+            "ScheduleDate": "2013-12-16T00:00:00",
+            "Quantity": 4,
+            "Price": 9.12
+          }
+        ],
+        "HasMoreItemHistory": false
+      },
+      "PackId": 1127,
+      "Price": 9.22,
+      "OriginalPriceAmount": 9.22,
+      "Quantity": 4
+    }
+  ],
+  "Note": null
+}

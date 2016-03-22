@@ -1,0 +1,12 @@
+{
+  "PageTitle": "Market Import: Avanti - AV1",
+  "FileUploadUrl": "/Micromarket/SectionCoilImportExportSelectFile?MicromarketId=1",
+  "ExcelExportInitialData": {
+    "InitializeDownloadUrl": "/Micromarket/SectionCoilImportInitializeExportToExcel?MicromarketId=1",
+    "DownloadUrl": "/Micromarket/SectionCoilImportExportToExcel"
+  },
+  "ExportColumns": null,
+  "CancelUrl": "/Micromarket/Detail?DetailMicromarketId=1",
+  "ExcelFileDisplayName": "File",
+  "NoRowsSelectedMessage": "At least one row must be selected."
+}

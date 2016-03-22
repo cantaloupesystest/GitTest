@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 0,
+    "Name": "TMCC warehouse",
+    "Description": "TMCC warehouse - 0"
+  },
+  {
+    "Id": 2,
+    "Name": "TMCC Off Site",
+    "Description": "TMCC Off Site - 2"
+  },
+  {
+    "Id": 3,
+    "Name": "TMCC Sierra Main",
+    "Description": "TMCC Sierra Main - 3"
+  },
+  {
+    "Id": 4,
+    "Name": "Vista Lobby",
+    "Description": "Vista Lobby - 4"
+  },
+  {
+    "Id": 5,
+    "Name": "Student Center Lobby",
+    "Description": "Student Center Lobby - 5"
+  },
+  {
+    "Id": 6,
+    "Name": "RDMT 2nd Floor",
+    "Description": "RDMT 2nd Floor - 6"
+  },
+  {
+    "Id": 7,
+    "Name": "RDMT 3rd & 4th Floor",
+    "Description": "RDMT 3rd & 4th Floor - 7"
+  }
+]

@@ -1,0 +1,11 @@
+Id	DeviceSerialNumber	CentralThirdPartyDeviceId	OfflineMachineType	MeterType	MeterPriceInCents	PremiumOfflineStandardPrepickInventoriesCountThreshold	IsOnBattery	LastOnBatteryUtcDateTime	IsDoorOpen	LastDoorOpenUtcDateTime	CoilCrc	HasCashless	
+=1	[NULL]	[NULL]	=P	=C	[NULL]	=2	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=2	[NULL]	[NULL]	=P	=C	[NULL]	=2	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=3	[NULL]	[NULL]	=P	=C	[NULL]	=2	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=4	[NULL]	[NULL]	=F	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=5	[NULL]	[NULL]	=P	=C	[NULL]	=2	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=6	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=7	[NULL]	[NULL]	=F	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=8	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	
+=9	=37069	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=False	[NULL]	=False	[NULL]	=0	=False	
+=10	[NULL]	=80	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=0	=False	

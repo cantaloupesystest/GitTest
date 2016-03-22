@@ -1,0 +1,8 @@
+{
+  "ErrorKeys": [
+    2
+  ],
+  "ErrorMessages": [
+    "'Email' must be a valid email address."
+  ]
+}

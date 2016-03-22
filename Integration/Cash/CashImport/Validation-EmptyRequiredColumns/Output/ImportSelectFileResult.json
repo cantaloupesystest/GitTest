@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "File must contain at least one restock with 'Cash Date' column filled."
+    ]
+  },
+  "Preview": null
+}

@@ -1,0 +1,9 @@
+{
+  "SelectFile": {
+    "ErrorKeys": [],
+    "ErrorMessages": [
+      "Columns required: 'Cash Date', 'Asset ID'."
+    ]
+  },
+  "Preview": null
+}

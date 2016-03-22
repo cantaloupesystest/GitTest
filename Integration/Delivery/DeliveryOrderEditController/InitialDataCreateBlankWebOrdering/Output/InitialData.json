@@ -1,0 +1,360 @@
+{
+  "MachineId": null,
+  "OrderInitialData": {
+    "DeliveryDateChooser": {
+      "ScheduleDateOnly": null,
+      "CanSelectCustomDate": false
+    },
+    "OrderId": null,
+    "OrderTitle": null,
+    "IsInvoice": false,
+    "DriverUserId": null,
+    "EmailSending": null,
+    "DeliveredDateTime": null,
+    "DepositAmount": null,
+    "TaxAmount": null,
+    "CanEditPar": false,
+    "SaveStandardOrderUrl": null,
+    "MarkOrderAsDeliveredUrl": null,
+    "MarkOrderAsApprovedUrl": null,
+    "MarkOrderAsUnapprovedUrl": null,
+    "DetailUrl": null,
+    "DeleteStandardOrderUrl": null,
+    "CreateNewDeliveryOrderUrl": "/DeliveryOrderEdit",
+    "MarkOrderAsUndeliveredUrl": null,
+    "PdfUrl": null,
+    "SignatureImageUrl": null,
+    "PreviousOrderUrl": "/DeliveryOrderEdit/PreviousOrder",
+    "StandardOrderUrl": "/DeliveryOrderEdit/StandardOrder",
+    "PhotoAuditThumbnailImageUrl": null,
+    "PhotoAuditImageUrl": null,
+    "DriverUserEditUrl": null,
+    "OpenOrders": [
+      {
+        "MachineId": 999944,
+        "OrderId": 1002,
+        "Title": "D1002",
+        "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1002",
+        "ScheduleDate": "2013-12-14T00:00:00"
+      }
+    ],
+    "Drivers": [],
+    "ScheduleDateDisplayName": "Schedule Date",
+    "PackParDisplayName": "Par",
+    "DeleteStandardOrderConfirmationMessage": "Clear the Standard Order from this Delivery Point?"
+  },
+  "RecurringOrderInitialData": null,
+  "OrderPacks": null,
+  "TotalAmount": null,
+  "Description": null,
+  "PageTitle": "New Order",
+  "IsReadOnly": false,
+  "CanEditPrices": false,
+  "SaveUrl": "/DeliveryOrderEdit/SaveOrder",
+  "EditUrl": null,
+  "DeleteUrl": null,
+  "CancelUrl": "/DeliveryOrders",
+  "SearchItemsUrl": "/DeliveryOrderEdit/SearchItems",
+  "ItemHistoriesUrl": "/DeliveryOrderEdit/ItemHistories",
+  "Customers": [
+    {
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/Customer/Edit?Id=1156",
+      "DetailUrl": "/Customer/Detail?CustomerId=1156",
+      "RecentInvoices": [
+        {
+          "Title": "I1001",
+          "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1001",
+          "ScheduleDateOnly": "2013-12-16T00:00:00",
+          "AgeInDays": 215,
+          "Amount": 109.11,
+          "OrderId": 1001,
+          "DeliveredUtcDateTime": "2013-12-16T10:00:00",
+          "PaidAmount": 0.0,
+          "UnpaidAmount": 109.11,
+          "OrderUrlModel": {
+            "PrintUrl": "/DeliveryCommon/Pdf?OrderId=1001",
+            "CreatePaymentUrl": null,
+            "MarkOrderAsUnapprovedUrl": null,
+            "MarkOrderAsApprovedUrl": null,
+            "MarkOrderAsDeliveredUrl": null,
+            "EditUrl": null,
+            "DetailUrl": "/DeliveryOrderEdit/OrderDetail?OrderId=1001",
+            "PhotoAuditImageUrl": null
+          },
+          "Paid": false,
+          "Payments": null
+        }
+      ],
+      "Id": 1156,
+      "Name": "Delivery 1"
+    },
+    {
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/Customer/Edit?Id=1157",
+      "DetailUrl": "/Customer/Detail?CustomerId=1157",
+      "RecentInvoices": null,
+      "Id": 1157,
+      "Name": "Delivery 2"
+    }
+  ],
+  "Locations": [
+    {
+      "CustomerId": 1156,
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/Location/Edit?Id=1161",
+      "DetailUrl": "/Location/Detail?LocationId=1161",
+      "Id": 1161,
+      "Name": "Delivery 1"
+    },
+    {
+      "CustomerId": 1157,
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/Location/Edit?Id=1162",
+      "DetailUrl": "/Location/Detail?LocationId=1162",
+      "Id": 1162,
+      "Name": "Delivery 2"
+    }
+  ],
+  "Machines": [
+    {
+      "Id": 999945,
+      "LocationId": 1161,
+      "AssetId": "Del Point 1",
+      "Place": null,
+      "PricingPlanId": 1,
+      "PricingPlanName": "Simple",
+      "PricingPlanUrl": null,
+      "EditUrl": "/DeliveryPoint/Edit?Id=999945&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D999945",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=999945",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2014-07-21T00:00:00",
+          "Title": "7/21/2014 - next scheduled visit (in 2 days)"
+        },
+        {
+          "DateOnly": "2014-07-22T00:00:00",
+          "Title": "7/22/2014 (in 3 days)"
+        },
+        {
+          "DateOnly": "2014-07-23T00:00:00",
+          "Title": "7/23/2014 (in 4 days)"
+        },
+        {
+          "DateOnly": "2014-07-28T00:00:00",
+          "Title": "7/28/2014 (in 9 days)"
+        },
+        {
+          "DateOnly": "2014-07-29T00:00:00",
+          "Title": "7/29/2014 (in 10 days)"
+        },
+        {
+          "DateOnly": "2014-07-30T00:00:00",
+          "Title": "7/30/2014 (in 11 days)"
+        },
+        {
+          "DateOnly": "2014-08-04T00:00:00",
+          "Title": "8/4/2014 (in 16 days)"
+        },
+        {
+          "DateOnly": "2014-08-05T00:00:00",
+          "Title": "8/5/2014 (in 17 days)"
+        },
+        {
+          "DateOnly": "2014-08-06T00:00:00",
+          "Title": "8/6/2014 (in 18 days)"
+        },
+        {
+          "DateOnly": "2014-08-11T00:00:00",
+          "Title": "8/11/2014 (in 23 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": true,
+      "HasDeliveryStandardOrder": false
+    },
+    {
+      "Id": 999944,
+      "LocationId": 1161,
+      "AssetId": "Del Point 2",
+      "Place": null,
+      "PricingPlanId": 1,
+      "PricingPlanName": "Simple",
+      "PricingPlanUrl": null,
+      "EditUrl": "/DeliveryPoint/Edit?Id=999944&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D999944",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=999944",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2014-07-25T00:00:00",
+          "Title": "7/25/2014 - next scheduled visit (in 6 days)"
+        },
+        {
+          "DateOnly": "2014-08-01T00:00:00",
+          "Title": "8/1/2014 (in 13 days)"
+        },
+        {
+          "DateOnly": "2014-08-08T00:00:00",
+          "Title": "8/8/2014 (in 20 days)"
+        },
+        {
+          "DateOnly": "2014-08-15T00:00:00",
+          "Title": "8/15/2014 (in 27 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": true,
+      "HasDeliveryStandardOrder": false
+    },
+    {
+      "Id": 1192859,
+      "LocationId": 1162,
+      "AssetId": "Del Point 3",
+      "Place": null,
+      "PricingPlanId": 1,
+      "PricingPlanName": "Simple",
+      "PricingPlanUrl": null,
+      "EditUrl": "/DeliveryPoint/Edit?Id=1192859&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D1192859",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=1192859",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2014-07-22T00:00:00",
+          "Title": "7/22/2014 - next scheduled visit (in 3 days)"
+        },
+        {
+          "DateOnly": "2014-07-23T00:00:00",
+          "Title": "7/23/2014 (in 4 days)"
+        },
+        {
+          "DateOnly": "2014-07-29T00:00:00",
+          "Title": "7/29/2014 (in 10 days)"
+        },
+        {
+          "DateOnly": "2014-07-30T00:00:00",
+          "Title": "7/30/2014 (in 11 days)"
+        },
+        {
+          "DateOnly": "2014-08-05T00:00:00",
+          "Title": "8/5/2014 (in 17 days)"
+        },
+        {
+          "DateOnly": "2014-08-06T00:00:00",
+          "Title": "8/6/2014 (in 18 days)"
+        },
+        {
+          "DateOnly": "2014-08-12T00:00:00",
+          "Title": "8/12/2014 (in 24 days)"
+        },
+        {
+          "DateOnly": "2014-08-13T00:00:00",
+          "Title": "8/13/2014 (in 25 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": false,
+      "HasDeliveryStandardOrder": false
+    },
+    {
+      "Id": 1192860,
+      "LocationId": 1162,
+      "AssetId": "Del Point 4",
+      "Place": null,
+      "PricingPlanId": null,
+      "PricingPlanName": null,
+      "PricingPlanUrl": null,
+      "EditUrl": "/DeliveryPoint/Edit?Id=1192860&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D1192860",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=1192860",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2014-07-21T00:00:00",
+          "Title": "7/21/2014 - next scheduled visit (in 2 days)"
+        },
+        {
+          "DateOnly": "2014-07-28T00:00:00",
+          "Title": "7/28/2014 (in 9 days)"
+        },
+        {
+          "DateOnly": "2014-08-04T00:00:00",
+          "Title": "8/4/2014 (in 16 days)"
+        },
+        {
+          "DateOnly": "2014-08-11T00:00:00",
+          "Title": "8/11/2014 (in 23 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": false,
+      "HasDeliveryStandardOrder": false
+    },
+    {
+      "Id": 1192861,
+      "LocationId": 1162,
+      "AssetId": "Del Point 5",
+      "Place": null,
+      "PricingPlanId": 2,
+      "PricingPlanName": "AnyPackButNotEachWithoutOverride",
+      "PricingPlanUrl": null,
+      "EditUrl": "/DeliveryPoint/Edit?Id=1192861&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D1192861",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=1192861",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2014-07-20T00:00:00",
+          "Title": "7/20/2014 - next scheduled visit (tomorrow)"
+        },
+        {
+          "DateOnly": "2014-07-27T00:00:00",
+          "Title": "7/27/2014 (in 8 days)"
+        },
+        {
+          "DateOnly": "2014-08-03T00:00:00",
+          "Title": "8/3/2014 (in 15 days)"
+        },
+        {
+          "DateOnly": "2014-08-10T00:00:00",
+          "Title": "8/10/2014 (in 22 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": false,
+      "HasDeliveryStandardOrder": false
+    },
+    {
+      "Id": 1192862,
+      "LocationId": 1162,
+      "AssetId": "Del Point 6",
+      "Place": null,
+      "PricingPlanId": 3,
+      "PricingPlanName": "OnlyWithOverride",
+      "PricingPlanUrl": null,
+      "EditUrl": "/DeliveryPoint/Edit?Id=1192862&ReturnUrl=%2FDeliveryPoint%2FDetail%3FMachineId%3D1192862",
+      "DetailUrl": "/DeliveryPoint/Detail?MachineId=1192862",
+      "ScheduleDates": [
+        {
+          "DateOnly": "2014-07-20T00:00:00",
+          "Title": "7/20/2014 - next scheduled visit (tomorrow)"
+        },
+        {
+          "DateOnly": "2014-07-27T00:00:00",
+          "Title": "7/27/2014 (in 8 days)"
+        },
+        {
+          "DateOnly": "2014-08-03T00:00:00",
+          "Title": "8/3/2014 (in 15 days)"
+        },
+        {
+          "DateOnly": "2014-08-10T00:00:00",
+          "Title": "8/10/2014 (in 22 days)"
+        }
+      ],
+      "HasPreviousDeliveryOrder": false,
+      "HasDeliveryStandardOrder": false
+    }
+  ],
+  "PackDisplayName": "Pack",
+  "PackQuantityDisplayName": "Qty",
+  "PackPriceDisplayName": "Price",
+  "DescriptionDisplayName": "Notes",
+  "DeleteConfirmationMessage": null
+}

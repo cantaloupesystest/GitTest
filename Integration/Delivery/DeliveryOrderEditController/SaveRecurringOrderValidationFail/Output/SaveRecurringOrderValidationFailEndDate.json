@@ -1,0 +1,10 @@
+{
+  "NotFoundPackIds": [],
+  "ValidatedPacks": [],
+  "ErrorKeys": [
+    1
+  ],
+  "ErrorMessages": [
+    "'End Date' must be later or equal to the 'Next Schedule Date'"
+  ]
+}

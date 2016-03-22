@@ -1,0 +1,4 @@
+Id	Name	Deleted	
+=1	=Snack	=False	
+=2	=Food	=False	
+=3	=Beverage	=False	

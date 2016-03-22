@@ -1,0 +1,20 @@
+INFORMATION                   	                                      	                        	                   	                   
+Summary                       	                                      	                        	                   	                   
+Data Building Time:           	0h:0m:40s                             	                        	                   	                   
+Data Processing Time:         	0h:0m:0s                              	                        	                   	                   
+Product Manufacturers:        	1                                     	Machines:               	                   	1                  
+Product Categories:           	1                                     	Inventories:            	                   	3                  
+Products:                     	2                                     	Machine Visits:         	                   	1                  
+Routes:                       	1                                     	Machine Visit Details:  	                   	3                  
+Customers:                    	1                                     	Route Schedules:        	                   	0                  
+Locations:                    	1                                     	Machine Route Schedules:	                   	0                  
+Fills updated with no pre-pick	                                      	                        	                   	                   
+Route Name                    	Asset Id                              	Seed Last Restock       	VMS Visit Date     	Last Contact       
+RT 13                         	207289                                	11/08/2012 11:55:00     	11/08/2012 11:55:00	11/07/2012 13:00:00
+TECHNICAL INFORMATION         	                                      	                        	                   	                   
+Reporting Version:            	0.0                                   	                        	                   	                   
+Client:                       	Processor=Vendmax, Version=2.0.0.29859	                        	                   	                   
+Request URL:                  	http://test.org/                      	                        	                   	                   
+Username:                     	test@test.com                         	                        	                   	                   
+Transaction Id:               	0                                     	                        	                   	                   
+Highest Framework Version:    	4.0.30319                             	                        	                   	                   

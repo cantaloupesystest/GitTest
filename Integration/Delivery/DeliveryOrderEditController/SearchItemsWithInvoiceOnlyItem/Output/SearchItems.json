@@ -1,0 +1,53 @@
+[
+  {
+    "Id": 926,
+    "Caption": "200004 - Special K Protein Meal Bar ChocoPB",
+    "OrderedPacks": [
+      {
+        "Id": 1102,
+        "ItemsCount": 6,
+        "Caption": "Box (6ct)",
+        "Price": 7.0,
+        "IsEach": false,
+        "IsDefault": true,
+        "Par": null
+      }
+    ],
+    "Histories": [],
+    "HasMoreItemHistory": false
+  },
+  {
+    "Id": 1077,
+    "Caption": "12345600 - Invoice Only Item",
+    "OrderedPacks": [
+      {
+        "Id": 1444,
+        "ItemsCount": 1,
+        "Caption": "Each",
+        "Price": 10.00,
+        "IsEach": true,
+        "IsDefault": true,
+        "Par": null
+      }
+    ],
+    "Histories": [],
+    "HasMoreItemHistory": false
+  },
+  {
+    "Id": 1078,
+    "Caption": "789000123 - Commission",
+    "OrderedPacks": [
+      {
+        "Id": 1445,
+        "ItemsCount": 1,
+        "Caption": "Each",
+        "Price": 2.50,
+        "IsEach": true,
+        "IsDefault": true,
+        "Par": null
+      }
+    ],
+    "Histories": [],
+    "HasMoreItemHistory": false
+  }
+]

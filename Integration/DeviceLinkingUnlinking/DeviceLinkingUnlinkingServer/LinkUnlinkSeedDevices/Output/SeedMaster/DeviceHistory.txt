@@ -1,0 +1,14 @@
+Id	DeviceSerialNumber	NewCustomerId	NewMachineId	OldCustomerId	OldMachineId	
+=1	=109438	=580	[NULL]	[NULL]	[NULL]	
+=2	=106840	=580	[NULL]	[NULL]	[NULL]	
+=3	=44572	=580	[NULL]	[NULL]	[NULL]	
+=4	=37069	=580	[NULL]	[NULL]	[NULL]	
+=5	=37069	=580	=9	=580	[NULL]	
+=6	=44472	=580	=1	=580	[NULL]	
+=7	=109338	=580	=3	=580	[NULL]	
+=8	=106740	=580	=5	=580	[NULL]	
+=9	=36969	=580	=2	=580	[NULL]	
+=10	=44472	=580	[NULL]	=580	=1	
+=11	=109338	=580	[NULL]	=580	=3	
+=12	=106740	=580	[NULL]	=580	=5	
+=13	=36969	=580	[NULL]	=580	=2	

@@ -1,0 +1,2 @@
+Id	IsRecentCreatedUtcDateTime	DeviceSerialNumber	CustomerId	MachineId	EventType	Parameter1	Parameter2	Parameter3	ProcessedByMailer	
+=1	=True	=34644	=580	=1177985	=DLTM	=2678	[NULL]	[NULL]	=True	

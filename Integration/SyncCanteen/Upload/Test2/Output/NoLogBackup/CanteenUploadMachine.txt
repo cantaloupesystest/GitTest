@@ -1,0 +1,1 @@
+Id	CanteenUploadTransactionId	MachineId	LocationId	RouteId	ModelId	MachineNumber	RdcVendor	RdcDeviceNumber	SerialNumber	DispenseType	

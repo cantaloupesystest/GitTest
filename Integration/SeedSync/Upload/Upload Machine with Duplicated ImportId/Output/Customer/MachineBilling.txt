@@ -1,0 +1,4 @@
+Id	MachineBillingType	MachineId	StartUtcDateTime	StartedBy	EndUtcDateTime	EndedBy	
+=1	=TRL	=608549	=12/09/2011 06:02:58	=Seed	=01/01/9999 00:00:00	[NULL]	
+=2	=TRL	=1142855	=12/10/2011 04:41:39	=katya.murastaya@cantaloupesys.com	=01/01/9999 00:00:00	[NULL]	
+=3	=PRM	=603401	=11/07/2012 05:58:58	=test@test.com	=01/01/9999 00:00:00	[NULL]	

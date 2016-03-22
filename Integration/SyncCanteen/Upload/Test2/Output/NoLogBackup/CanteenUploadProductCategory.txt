@@ -1,0 +1,2 @@
+Id	CanteenUploadTransactionId	ProductCategoryId	Name	MinimumPrice	MaximumPrice	
+=5499	=304	=38	=LG SNACKS	=0.0000	=2.5000	

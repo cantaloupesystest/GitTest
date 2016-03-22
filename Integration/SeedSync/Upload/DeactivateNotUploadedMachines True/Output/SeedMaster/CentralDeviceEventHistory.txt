@@ -1,0 +1,1 @@
+Id	IsRecentCreatedUtcDateTime	DeviceSerialNumber	CustomerId	MachineId	EventType	Parameter1	Parameter2	Parameter3	ProcessedByMailer	

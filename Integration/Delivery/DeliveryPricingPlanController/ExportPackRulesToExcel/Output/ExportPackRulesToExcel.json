@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "Items",
+    "Columns": [
+      {
+        "Caption": "UPC",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Name",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Pack Name",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Cost Plus",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Fixed Price",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Inherited From",
+        "DataFormat": null,
+        "WrapText": false
+      }
+    ],
+    "Rows": [
+      {
+        "Items": [
+          "150007",
+          "Apple Juice Tropicana 15.2oz bottle",
+          "Each",
+          null,
+          0.65,
+          "Test Parent Pricing Plan Name"
+        ]
+      },
+      {
+        "Items": [
+          "20000",
+          "Coke 16.9oz bottle 795561",
+          "Case",
+          12.50,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "50004",
+          "Knott's Jam Shortbread Cookie - 2oz 694603",
+          "Box",
+          null,
+          10.30,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "60054",
+          "Sugar Donuts 3 oz 766136",
+          "Box",
+          50.0,
+          null,
+          null
+        ]
+      },
+      {
+        "Items": [
+          "20005",
+          "Green Tea Lipton 16.9oz bottle",
+          "bonus case",
+          null,
+          7.65,
+          null
+        ]
+      }
+    ],
+    "Description": null
+  }
+]

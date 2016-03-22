@@ -1,0 +1,20 @@
+Id	SerialNumber	IsRecentNoteDateTime	NoteType	Text	CreatedBy	
+=1	=103568	=True	=Moves/Swaps	=Seed device 103568 has been removed from the MachineID 603568, Catalog Customer	=test@test.com	
+=2	=100232	=True	=Moves/Swaps	=Seed device 100232 has been removed from the MachineID 608959, Catalog Customer	=test@test.com	
+=3	=135041	=True	=Moves/Swaps	=Seed device 135041 has been removed from the MachineID 635041, Catalog Customer	=test@test.com	
+=4	=103604	=True	=Moves/Swaps	=Seed device 103604 has been removed from the MachineID 1103604, Catalog Customer	=test@test.com	
+=5	=104061	=True	=Moves/Swaps	=Seed device 104061 has been removed from the MachineID 1104061, Catalog Customer	=test@test.com	
+=6	=104370	=True	=Moves/Swaps	=Seed device 104370 has been removed from the MachineID 1104370, Catalog Customer	=test@test.com	
+=7	=109180	=True	=Moves/Swaps	=Seed device 109180 has been removed from the MachineID 1109180, Catalog Customer	=test@test.com	
+=8	=109552	=True	=Moves/Swaps	=Seed device 109552 has been removed from the MachineID 1109552, Catalog Customer	=test@test.com	
+=9	=109932	=True	=Moves/Swaps	=Seed device 109932 has been removed from the MachineID 1109932, Catalog Customer	=test@test.com	
+=10	=108896	=True	=Moves/Swaps	=Seed device 108896 has been removed from the MachineID 1133908, Catalog Customer	=test@test.com	
+=11	=109552	=True	=Moves/Swaps	=Seed device 109552 has been linked to the MachineID 603568, Catalog Customer	=test@test.com	
+=12	=100232	=True	=Moves/Swaps	=Seed device 100232 has been linked to the MachineID 1104061, Catalog Customer	=test@test.com	
+=13	=104061	=True	=Moves/Swaps	=Seed device 104061 has been linked to the MachineID 608959, Catalog Customer	=test@test.com	
+=14	=34644	=True	=Moves/Swaps	=Seed device 34644 has been linked to the MachineID 1146308, Catalog Customer	=test@test.com	
+=15	=34694	=True	=Moves/Swaps	=Seed device 34694 has been linked to the MachineID 1177987, Catalog Customer	=test@test.com	
+=16	=34715	=True	=Moves/Swaps	=Seed device 34715 has been linked to the MachineID 1133908, Catalog Customer	=test@test.com	
+=17	=34725	=True	=Moves/Swaps	=Seed device 34725 has been linked to the MachineID 1142855, Catalog Customer	=test@test.com	
+=18	=103604	=True	=Moves/Swaps	=Seed device 103604 has been linked to the MachineID 1109180, Catalog Customer	=test@test.com	
+=19	=109180	=True	=Moves/Swaps	=Seed device 109180 has been linked to the MachineID 1103604, Catalog Customer	=test@test.com	

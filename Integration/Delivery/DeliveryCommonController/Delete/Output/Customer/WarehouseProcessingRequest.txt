@@ -1,0 +1,4 @@
+Id	PrepickId	MachineCoilHistoryId	DeliveryOrderId	DeliveryPointOrderId	CreatedByUserId	CompletedUtcDateTime	
+=1	[NULL]	[NULL]	=1001	=1001	=2678	[NULL]	
+=2	[NULL]	[NULL]	=1001	=1001	=2678	[NULL]	
+=3	=1982	[NULL]	[NULL]	[NULL]	=2678	[NULL]	

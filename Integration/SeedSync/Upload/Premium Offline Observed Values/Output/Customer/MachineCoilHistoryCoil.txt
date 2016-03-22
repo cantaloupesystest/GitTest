@@ -1,0 +1,13 @@
+Id	MachineCoilHistoryId	CoilName	OldItemId	NewItemId	AddedQuantity	SpoiledQuantity	RemovedQuantity	ObservedQuantity	CoilGroupingAdjustmentQuantity	SystemAdjustmentQuantity	InventoryAdjustmentQuantity	FutureInventoryAdjustmentQuantity	OfflineSaleId	InitialInventoryLevel	
+=108713	=870192	=1	=765	=765	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=36	
+=108714	=870192	=2	=744	=744	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=24	
+=108715	=870192	=3	=756	=756	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=36	
+=108716	=870192	=4	=751	=751	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=21	
+=108717	=870192	=5	=774	=774	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=16	
+=108718	=870192	=6	=748	=748	=0	[NULL]	=0	[NULL]	=0	=0	=0	=0	[NULL]	=27	
+=108719	=870193	=1	=765	=765	=0	=0	=0	=0	=0	=0	=-36	=0	[NULL]	=36	
+=108720	=870193	=2	=744	=744	=0	=0	=0	=0	=0	=0	=-24	=0	[NULL]	=24	
+=108721	=870193	=3	=756	=756	=0	=0	=0	=0	=0	=0	=-36	=0	[NULL]	=36	
+=108722	=870193	=4	=751	=751	=0	=0	=0	=0	=0	=0	=-21	=0	[NULL]	=21	
+=108723	=870193	=5	=774	=774	=0	=0	=0	=0	=0	=0	=-16	=0	[NULL]	=16	
+=108724	=870193	=6	=748	=748	=0	=0	=0	=0	=0	=0	=-27	=0	[NULL]	=27	

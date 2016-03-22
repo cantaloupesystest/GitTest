@@ -1,0 +1,4 @@
+Id	Name	Deleted	
+=1	=Deposit	=False	
+=2	=No Deposit	=False	
+=3	=Deposit2	=False	

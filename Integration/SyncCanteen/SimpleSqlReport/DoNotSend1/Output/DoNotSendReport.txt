@@ -1,0 +1,2 @@
+Status	RouteName	RouteId	BusinessDate	ScheduleCreatedOn	PrepickCreatedOn	RequestCreatedOn	ProcessingNotes	
+=Route has machine that is not active in iVend	=002 - Beto, Ed	=633	=04/01/2050 00:00:00	=07/15/2014 08:17:26	=07/15/2014 10:27:48	[NULL]	=AssetId: 60299	

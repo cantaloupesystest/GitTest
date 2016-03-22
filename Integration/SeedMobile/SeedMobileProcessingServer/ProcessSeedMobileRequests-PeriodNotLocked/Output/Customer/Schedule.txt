@@ -1,0 +1,112 @@
+Id	RouteId	BranchId	Name	UserDesiredMachinesCount	ScheduleDateOnly	CalculationDateOnly	LockedDateTime	CreatedBy	IsRecentCreatedDateTime	Deleted	
+=5299	=2	[NULL]	=	[NULL]	=01/03/2014 00:00:00	=01/03/2014 00:00:00	=01/03/2014 09:29:15	=broman@tmcc.edu	=False	=False	
+=5300	=6	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	=01/06/2014 09:48:16	=broman@tmcc.edu	=False	=True	
+=5301	=6	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	=01/06/2014 09:57:03	=broman@tmcc.edu	=False	=False	
+=5302	=7	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5303	=5	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5304	=4	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5305	=3	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5306	=7	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5307	=7	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5308	=5	[NULL]	=	[NULL]	=01/06/2014 00:00:00	=01/06/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5309	=6	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	=01/07/2014 10:06:37	=dclifford01@tmcc.edu	=False	=False	
+=5310	=7	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5311	=5	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5312	=4	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5313	=3	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5314	=2	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5315	=7	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5316	=5	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5317	=4	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5318	=3	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5319	=5	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5320	=3	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5321	=2	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5322	=2	[NULL]	=	[NULL]	=01/07/2014 00:00:00	=01/07/2014 00:00:00	[NULL]	=dclifford01@tmcc.edu	=False	=True	
+=5323	=4	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	=01/08/2014 08:42:46	=broman@tmcc.edu	=False	=False	
+=5324	=7	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5325	=6	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5326	=3	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5327	=2	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	=01/08/2014 09:26:05	=broman@tmcc.edu	=False	=False	
+=5328	=6	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	=01/08/2014 09:14:09	=broman@tmcc.edu	=False	=False	
+=5329	=7	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5330	=5	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5331	=5	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	=01/08/2014 11:05:40	=broman@tmcc.edu	=False	=False	
+=5332	=7	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5333	=3	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5334	=7	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5335	=3	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5336	=3	[NULL]	=	[NULL]	=01/08/2014 00:00:00	=01/08/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5337	=6	[NULL]	=	[NULL]	=01/09/2014 00:00:00	=01/09/2014 00:00:00	=01/09/2014 09:08:15	=broman@tmcc.edu	=False	=False	
+=5338	=7	[NULL]	=	[NULL]	=01/09/2014 00:00:00	=01/09/2014 00:00:00	=01/09/2014 09:18:14	=broman@tmcc.edu	=False	=False	
+=5339	=5	[NULL]	=	[NULL]	=01/09/2014 00:00:00	=01/09/2014 00:00:00	=01/09/2014 09:28:58	=broman@tmcc.edu	=False	=False	
+=5340	=3	[NULL]	=	[NULL]	=01/09/2014 00:00:00	=01/09/2014 00:00:00	=01/09/2014 10:54:10	=broman@tmcc.edu	=False	=False	
+=5341	=2	[NULL]	=	[NULL]	=01/09/2014 00:00:00	=01/09/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=False	
+=5342	=6	[NULL]	=	[NULL]	=01/10/2014 00:00:00	=01/10/2014 00:00:00	=01/10/2014 08:52:44	=broman@tmcc.edu	=False	=False	
+=5343	=3	[NULL]	=	[NULL]	=01/10/2014 00:00:00	=01/10/2014 00:00:00	=01/10/2014 12:03:41	=broman@tmcc.edu	=False	=False	
+=5344	=2	[NULL]	=	[NULL]	=01/10/2014 00:00:00	=01/10/2014 00:00:00	=01/10/2014 11:57:53	=broman@tmcc.edu	=False	=False	
+=5345	=6	[NULL]	=	[NULL]	=01/13/2014 00:00:00	=01/13/2014 00:00:00	=01/13/2014 10:29:44	=broman@tmcc.edu	=False	=False	
+=5346	=2	[NULL]	=	[NULL]	=01/13/2014 00:00:00	=01/13/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=False	
+=5347	=6	[NULL]	=	[NULL]	=01/14/2014 00:00:00	=01/14/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5348	=6	[NULL]	=	[NULL]	=01/14/2014 00:00:00	=01/14/2014 00:00:00	=01/14/2014 09:40:51	=broman@tmcc.edu	=False	=False	
+=5349	=7	[NULL]	=	[NULL]	=01/14/2014 00:00:00	=01/14/2014 00:00:00	=01/14/2014 09:41:25	=broman@tmcc.edu	=False	=False	
+=5350	=5	[NULL]	=	[NULL]	=01/14/2014 00:00:00	=01/14/2014 00:00:00	=01/14/2014 11:49:54	=broman@tmcc.edu	=False	=False	
+=5351	=2	[NULL]	=	[NULL]	=01/14/2014 00:00:00	=01/14/2014 00:00:00	=01/14/2014 10:09:59	=broman@tmcc.edu	=False	=False	
+=5352	=3	[NULL]	=	[NULL]	=01/14/2014 00:00:00	=01/14/2014 00:00:00	=01/14/2014 13:54:18	=broman@tmcc.edu	=False	=False	
+=5353	=6	[NULL]	=	[NULL]	=01/15/2014 00:00:00	=01/15/2014 00:00:00	=01/15/2014 10:05:05	=broman@tmcc.edu	=False	=False	
+=5354	=5	[NULL]	=	[NULL]	=01/15/2014 00:00:00	=01/15/2014 00:00:00	=01/15/2014 11:30:05	=broman@tmcc.edu	=False	=False	
+=5355	=3	[NULL]	=	[NULL]	=01/15/2014 00:00:00	=01/15/2014 00:00:00	=01/15/2014 10:25:47	=broman@tmcc.edu	=False	=False	
+=5356	=2	[NULL]	=	[NULL]	=01/15/2014 00:00:00	=01/15/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5357	=2	[NULL]	=	[NULL]	=01/15/2014 00:00:00	=01/15/2014 00:00:00	=01/15/2014 11:29:21	=broman@tmcc.edu	=False	=False	
+=5358	=6	[NULL]	=	[NULL]	=01/16/2014 00:00:00	=01/16/2014 00:00:00	=01/16/2014 09:17:55	=broman@tmcc.edu	=False	=False	
+=5359	=7	[NULL]	=	[NULL]	=01/16/2014 00:00:00	=01/16/2014 00:00:00	=01/16/2014 11:05:23	=broman@tmcc.edu	=False	=False	
+=5360	=4	[NULL]	=	[NULL]	=01/16/2014 00:00:00	=01/16/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5361	=2	[NULL]	=	[NULL]	=01/16/2014 00:00:00	=01/16/2014 00:00:00	=01/16/2014 11:32:44	=broman@tmcc.edu	=False	=False	
+=5362	=6	[NULL]	=	[NULL]	=01/21/2014 00:00:00	=01/21/2014 00:00:00	=01/21/2014 09:35:59	=broman@tmcc.edu	=False	=False	
+=5363	=5	[NULL]	=	[NULL]	=01/21/2014 00:00:00	=01/21/2014 00:00:00	=01/21/2014 10:57:14	=broman@tmcc.edu	=False	=False	
+=5364	=3	[NULL]	=	[NULL]	=01/21/2014 00:00:00	=01/21/2014 00:00:00	=01/21/2014 14:07:14	=broman@tmcc.edu	=False	=False	
+=5365	=2	[NULL]	=	[NULL]	=01/21/2014 00:00:00	=01/21/2014 00:00:00	=01/21/2014 15:10:16	=broman@tmcc.edu	=False	=False	
+=5366	=6	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5367	=4	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=False	
+=5368	=3	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5369	=2	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	=01/22/2014 09:58:13	=broman@tmcc.edu	=False	=False	
+=5370	=6	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	=01/22/2014 10:52:18	=broman@tmcc.edu	=False	=False	
+=5371	=3	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5372	=3	[NULL]	=	[NULL]	=01/22/2014 00:00:00	=01/22/2014 00:00:00	=01/22/2014 15:00:41	=broman@tmcc.edu	=False	=False	
+=5373	=6	[NULL]	=	[NULL]	=01/23/2014 00:00:00	=01/23/2014 00:00:00	=01/23/2014 11:40:24	=broman@tmcc.edu	=False	=False	
+=5374	=4	[NULL]	=	[NULL]	=01/23/2014 00:00:00	=01/23/2014 00:00:00	=01/23/2014 12:19:18	=broman@tmcc.edu	=False	=False	
+=5375	=2	[NULL]	=	[NULL]	=01/23/2014 00:00:00	=01/23/2014 00:00:00	=01/23/2014 13:13:50	=broman@tmcc.edu	=False	=False	
+=5376	=5	[NULL]	=	[NULL]	=01/23/2014 00:00:00	=01/23/2014 00:00:00	=01/23/2014 15:06:44	=broman@tmcc.edu	=False	=False	
+=5377	=3	[NULL]	=	[NULL]	=01/23/2014 00:00:00	=01/23/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5378	=6	[NULL]	=	[NULL]	=01/24/2014 00:00:00	=01/24/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5379	=6	[NULL]	=	[NULL]	=01/24/2014 00:00:00	=01/24/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5380	=6	[NULL]	=	[NULL]	=01/24/2014 00:00:00	=01/24/2014 00:00:00	=01/24/2014 11:26:26	=broman@tmcc.edu	=False	=False	
+=5381	=7	[NULL]	=	[NULL]	=01/24/2014 00:00:00	=01/24/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5382	=5	[NULL]	=	[NULL]	=01/24/2014 00:00:00	=01/24/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=False	
+=5383	=3	[NULL]	=	[NULL]	=01/24/2014 00:00:00	=01/24/2014 00:00:00	=01/24/2014 12:18:14	=broman@tmcc.edu	=False	=False	
+=5384	=6	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	=01/27/2014 09:48:39	=broman@tmcc.edu	=False	=False	
+=5385	=7	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	=01/27/2014 10:05:10	=broman@tmcc.edu	=False	=False	
+=5386	=4	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	=01/27/2014 11:23:05	=broman@tmcc.edu	=False	=False	
+=5387	=5	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	=01/27/2014 11:39:04	=broman@tmcc.edu	=False	=False	
+=5388	=2	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	=01/27/2014 13:06:16	=broman@tmcc.edu	=False	=False	
+=5389	=3	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	[NULL]	=broman@tmcc.edu	=False	=True	
+=5390	=3	[NULL]	=	[NULL]	=01/27/2014 00:00:00	=01/27/2014 00:00:00	=01/27/2014 15:49:18	=broman@tmcc.edu	=False	=False	
+=5391	=2	[NULL]	=	[NULL]	=01/28/2014 00:00:00	=01/28/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5392	=2	[NULL]	=	[NULL]	=01/28/2014 00:00:00	=01/28/2014 00:00:00	=01/28/2014 07:02:22	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5393	=7	[NULL]	=	=10000	=02/19/2014 00:00:00	=02/19/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5394	=2	[NULL]	=	=10000	=02/19/2014 00:00:00	=02/19/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5395	=6	[NULL]	=	=10000	=02/19/2014 00:00:00	=02/19/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5396	=4	[NULL]	=	=10000	=02/19/2014 00:00:00	=02/19/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5397	=5	[NULL]	=	=10000	=02/19/2014 00:00:00	=02/19/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5398	=3	[NULL]	=	=10000	=02/19/2014 00:00:00	=02/19/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5399	=6	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5400	=4	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5401	=3	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5402	=5	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5403	=7	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5404	=2	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=True	
+=5405	=2	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5406	=3	[NULL]	=	=10000	=02/20/2014 00:00:00	=02/20/2014 00:00:00	[NULL]	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5407	=2	[NULL]	=	[NULL]	=02/21/2014 00:00:00	=02/21/2014 00:00:00	=03/03/2015 21:38:16	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5408	=2	[NULL]	=	[NULL]	=02/24/2014 00:00:00	=02/24/2014 00:00:00	=03/03/2015 21:02:33	=sema.tereshonok@cantaloupesys.com	=False	=False	
+=5409	=2	[NULL]	=	[NULL]	=11/16/2015 00:00:00	=11/16/2015 00:00:00	[NULL]	=alexey.matvienko@cantaloupesys.com	=False	=False	

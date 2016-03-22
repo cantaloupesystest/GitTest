@@ -1,0 +1,3 @@
+Id	MachineId	ScheduleDateOnly	TotalAmountInCents	Note	DeletedUtcDateTime	DeletedByUserId	IsRecentCreatedUtcDateTime	CreatedByUserId	DeliveredUtcDateTime	DeliveredByUserId	WebOrderingStatus	DeliveryRecurringOrderId	Deleted	
+=1001	=999945	=12/16/2013 00:00:00	=10911	[NULL]	[NULL]	[NULL]	=False	=2970	=12/16/2013 10:00:00	=107	=N	[NULL]	=False	
+=1002	=999944	=12/14/2013 00:00:00	=8770	[NULL]	[NULL]	[NULL]	=False	=2970	[NULL]	[NULL]	=U	[NULL]	=False	

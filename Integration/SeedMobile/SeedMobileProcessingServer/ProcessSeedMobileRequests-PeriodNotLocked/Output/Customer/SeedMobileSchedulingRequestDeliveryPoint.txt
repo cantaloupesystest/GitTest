@@ -1,0 +1,6 @@
+Id	RequestStatusType	SignatureImage	
+=1	[NULL]	=94,80,97,122,95,170,39,25,218,44,75,20,84,109,214,21	
+=2	[NULL]	=94,80,97,122,95,170,39,25,218,44,75,20,84,109,214,21	
+=3	[NULL]	[NULL]	
+=4	[NULL]	[NULL]	
+=5	[NULL]	[NULL]	

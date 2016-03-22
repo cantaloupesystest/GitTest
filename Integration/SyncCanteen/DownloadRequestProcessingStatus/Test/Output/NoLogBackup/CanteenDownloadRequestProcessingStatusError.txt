@@ -1,0 +1,5 @@
+Id	CanteenDownloadRequestId	Message	
+=1	=162	=Seed Business Date is less than todays date	
+=2	=162	=Something about coil for Machine (Machine Number: 92000; Coil: 101)	
+=3	=162	=Route is no longer valid (Machine Number: 92000)	
+=4	=162	=Machine not active (Machine Number: 92000)	

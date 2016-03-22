@@ -1,0 +1,4 @@
+Id	MachineId	ScheduleDate	TotalAmountInCents	PaidAmountInCents	Note	CreatedByUserId	DeletedByUserId	CreatedUtcDateTime	DeletedUtcDateTime	DeliveredUtcDateTime	SignatureImageId	PhotoAuditImageId	PhotoAuditThumbnailImageId	WebOrderingStatus	DeliveredByUserId	DeliveryRecurringOrderId	Deleted	
+=1001	=999945	=12/16/2013 00:00:00	=10911	=0	[NULL]	=2970	[NULL]	=02/06/2014 12:20:51	[NULL]	=12/16/2013 10:00:00	[NULL]	[NULL]	[NULL]	=N	=107	[NULL]	=False	
+=1002	=999944	=12/14/2013 00:00:00	=8770	=0	[NULL]	=2970	[NULL]	=02/06/2014 12:21:41	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=N	[NULL]	[NULL]	=False	
+=1003	=999945	=12/11/2013 00:00:00	=2000	=0	=Recurring Order Description 2	=3369	[NULL]	=12/10/2013 11:51:02	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=N	[NULL]	=2	=False	

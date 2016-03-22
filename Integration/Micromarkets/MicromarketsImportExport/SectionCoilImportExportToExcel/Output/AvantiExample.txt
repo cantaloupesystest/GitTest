@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Section Coils",
+    "Columns": [
+      {
+        "Caption": "LocationId",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "AssetId",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Coil",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "ProductId",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "MaxStock",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "MinStock",
+        "DataFormat": null,
+        "WrapText": false
+      },
+      {
+        "Caption": "Price",
+        "DataFormat": null,
+        "WrapText": false
+      }
+    ],
+    "Rows": [],
+    "Description": null
+  }
+]

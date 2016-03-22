@@ -1,0 +1,128 @@
+{
+  "PageTitle": null,
+  "FileUploadUrl": "/SetupItems/ImportExportSelectFile",
+  "ExcelExportInitialData": {
+    "InitializeDownloadUrl": "/SetupItems/ImportInitializeExportToExcel",
+    "DownloadUrl": "/SetupItems/ImportExportToExcel"
+  },
+  "ExportColumns": [
+    {
+      "Name": "Branch",
+      "Caption": "Branch",
+      "IsColumnRequired": true
+    },
+    {
+      "Name": "UPC",
+      "Caption": "UPC",
+      "IsColumnRequired": true
+    },
+    {
+      "Name": "Name",
+      "Caption": "Name",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Category",
+      "Caption": "Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Finance Category",
+      "Caption": "Finance Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Commission Category",
+      "Caption": "Commission Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Tax Category",
+      "Caption": "Tax Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Deposit Category",
+      "Caption": "Deposit Category",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Manufacturer",
+      "Caption": "Manufacturer",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Size",
+      "Caption": "Size",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Count",
+      "Caption": "Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Unit Cost",
+      "Caption": "Unit Cost",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Pick Order",
+      "Caption": "Pick Order",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Case Count",
+      "Caption": "Case Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Case Barcode(s)",
+      "Caption": "Case Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Box Count",
+      "Caption": "Box Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Box Barcode(s)",
+      "Caption": "Box Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Each Barcode(s)",
+      "Caption": "Each Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Custom Pack",
+      "Caption": "Custom Pack",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Custom Count",
+      "Caption": "Custom Count",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Custom Barcode(s)",
+      "Caption": "Custom Barcode(s)",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Invoice-Only",
+      "Caption": "Invoice-Only",
+      "IsColumnRequired": false
+    },
+    {
+      "Name": "Delivery Pack",
+      "Caption": "Delivery Pack",
+      "IsColumnRequired": false
+    }
+  ],
+  "CancelUrl": "/SetupItems",
+  "ExcelFileDisplayName": "File",
+  "NoRowsSelectedMessage": "At least one row must be selected."
+}

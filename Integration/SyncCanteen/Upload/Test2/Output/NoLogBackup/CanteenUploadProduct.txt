@@ -1,0 +1,2 @@
+Id	CanteenUploadTransactionId	ProductId	ProductManufacturerId	ProductCategoryId	IsSku	ProductName	PickCaseCount	ProductSku	UnitCost	PogDiscontinuedDate	
+=254610	=304	=1234567	[NULL]	=38	=1	=_TEST_UPLOAD	=60	=_TEST_UPLOAD	=0.4000	=12/30/2014 00:00:00	

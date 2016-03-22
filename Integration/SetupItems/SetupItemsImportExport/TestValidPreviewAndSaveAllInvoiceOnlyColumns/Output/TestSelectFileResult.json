@@ -1,0 +1,202 @@
+{
+  "SelectFile": null,
+  "Preview": {
+    "Columns": [
+      {
+        "Name": "UPC",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Name",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Category",
+        "SorterName": "text",
+        "CssClassName": null
+      },
+      {
+        "Name": "Unit Cost",
+        "SorterName": "dollars",
+        "CssClassName": "numericCell"
+      },
+      {
+        "Name": "Invoice-Only",
+        "SorterName": null,
+        "CssClassName": null
+      }
+    ],
+    "Rows": [
+      {
+        "OriginalValues": [
+          "10000499new",
+          "Powerade Lemon Lime  599499new",
+          "Sports Drink99",
+          99.0,
+          true
+        ],
+        "SourceDocumentRowNumber": 2,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10000499new",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Lemon Lime  599499new",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink99",
+            "OldValue": null
+          },
+          {
+            "Value": "$99.00",
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100005new",
+          "Powerade Fruit Punch  5995new",
+          "Sports Drink8",
+          0.59,
+          true
+        ],
+        "SourceDocumentRowNumber": 3,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100005new",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Fruit Punch  5995new",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink8",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "100006new",
+          "Powerade Mountain Berry Blast  4035new",
+          "Sports Drink",
+          0.59,
+          true
+        ],
+        "SourceDocumentRowNumber": 4,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "100006new",
+            "OldValue": null
+          },
+          {
+            "Value": "Powerade Mountain Berry Blast  4035new",
+            "OldValue": null
+          },
+          {
+            "Value": "Sports Drink",
+            "OldValue": null
+          },
+          {
+            "Value": "$0.59",
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "10001new",
+          "Diet Coke 12oz can 1003new",
+          "Soft Drink - can",
+          1.0,
+          true
+        ],
+        "SourceDocumentRowNumber": 5,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "10001new",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Coke 12oz can 1003new",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "$1.00",
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          }
+        ]
+      },
+      {
+        "OriginalValues": [
+          "1000199new",
+          "Diet Coke 12oz can 100399new",
+          "Soft Drink - can",
+          -1.0,
+          true
+        ],
+        "SourceDocumentRowNumber": 6,
+        "Errors": [],
+        "Values": [
+          {
+            "Value": "1000199new",
+            "OldValue": null
+          },
+          {
+            "Value": "Diet Coke 12oz can 100399new",
+            "OldValue": null
+          },
+          {
+            "Value": "Soft Drink - can",
+            "OldValue": null
+          },
+          {
+            "Value": "($1.00)",
+            "OldValue": null
+          },
+          {
+            "Value": "Yes",
+            "OldValue": null
+          }
+        ]
+      }
+    ],
+    "SaveUrl": "/SetupItems/ImportExportSave",
+    "ErrorKeys": [],
+    "ErrorMessages": []
+  }
+}

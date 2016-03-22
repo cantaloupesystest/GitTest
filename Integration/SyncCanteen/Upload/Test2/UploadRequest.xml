@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanteenData>
+  <CostCenters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <CostCenter>
+      <CostCenterNumber>5530</CostCenterNumber>
+      <Manufacturers>
+      </Manufacturers>
+      <Routes>
+      </Routes>
+      <Accounts>
+      </Accounts>
+      <ProductManufacturers>
+        <ProductManufacturer>
+          <Name>Kellogg</Name>
+          <ProductManufacturerID>66</ProductManufacturerID>
+        </ProductManufacturer>
+      </ProductManufacturers>
+      <ProductCategories>
+        <ProductCategory>
+          <MinimumPrice>0.00</MinimumPrice>
+          <MaximumPrice>2.50</MaximumPrice>
+          <Name>LG SNACKS</Name>
+          <ProductCategoryID>38</ProductCategoryID>
+          <Products>
+            <Product>
+              <IsSKU>1</IsSKU>
+              <PickCaseCount>60</PickCaseCount>
+              <ProductID>1234567</ProductID>
+              <ProductName>_TEST_UPLOAD</ProductName>
+              <ProductSKU>_TEST_UPLOAD</ProductSKU>
+              <UnitCost>0.40</UnitCost>
+              <POGDiscontinuedDate>2014-12-30</POGDiscontinuedDate>
+            </Product>
+          </Products>
+        </ProductCategory>
+      </ProductCategories>
+    </CostCenter>
+  </CostCenters>
+</CanteenData>

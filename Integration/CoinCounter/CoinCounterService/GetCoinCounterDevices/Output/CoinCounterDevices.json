@@ -1,0 +1,20 @@
+[
+  {
+    "CoinCounterId": 1,
+    "Name": "Test",
+    "ParseRegularExpression": "<\\d+/\\d+/\\d+\\s.*?SUB-BATCH.*?C:\\s(?<AssetId>[\\w-]+)\\r\\n.*?CT:\\r\\n(?<CoinAmountInCents>\\d+)\\r\\n(?<BillAmountInCents>\\d+).*?\\x03",
+    "SerialPortMessageTerminator": null
+  },
+  {
+    "CoinCounterId": 2,
+    "Name": "JetSort-COMM",
+    "ParseRegularExpression": ".*BATCH.*A:.(?<BagNumberOrAssetId>\\w*)\\r\r\n.*?\r\nCT:..(?<CoinAmountInCents>\\w*)\r\n.*?\r\nRT:..(?<BillAmountInCents>\\w*)",
+    "SerialPortMessageTerminator": null
+  },
+  {
+    "CoinCounterId": 3,
+    "Name": "DeLaRue Mach 6",
+    "ParseRegularExpression": "\\rBATCH\\s+(?<BagNumberOrAssetId>\\w+)\\r.*?\\rTOTAL\\sCOIN\\s+(?<CoinAmount>[\\.,0-9]+)\\r.*?\\rTOTAL\\sCURR\\.\\s+(?<BillAmount>[\\.,0-9]+)\\r",
+    "SerialPortMessageTerminator": null
+  }
+]

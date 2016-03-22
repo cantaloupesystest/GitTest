@@ -1,0 +1,16 @@
+Id	RouteId	BranchId	Name	UserDesiredMachinesCount	ScheduleDateOnly	CalculationDateOnly	LockedDateTime	CreatedBy	IsRecentCreatedDateTime	Deleted	
+=2378	=10002	[NULL]	=	[NULL]	=12/16/2013 00:00:00	=12/16/2013 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=True	
+=2379	=10002	[NULL]	=	[NULL]	=12/14/2013 00:00:00	=12/14/2013 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=True	
+=2380	=6081	[NULL]	=	[NULL]	=09/04/2015 00:00:00	=09/04/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2381	=6082	[NULL]	=	[NULL]	=09/04/2015 00:00:00	=09/04/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2382	=6084	[NULL]	=	[NULL]	=09/04/2015 00:00:00	=09/04/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2383	=6083	[NULL]	=	[NULL]	=09/04/2015 00:00:00	=09/04/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2384	=6082	[NULL]	=	[NULL]	=09/05/2015 00:00:00	=09/05/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2385	=6082	[NULL]	=	[NULL]	=09/05/2015 00:00:00	=09/05/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2386	=6083	[NULL]	=	[NULL]	=09/05/2015 00:00:00	=09/05/2015 00:00:00	[NULL]	=ruslan.mikhalevsky@cantaloupesys.com	=False	=False	
+=2387	=10001	[NULL]	=	=10000	=12/13/2013 00:00:00	=12/13/2013 00:00:00	[NULL]	=test@test.com	=True	=True	
+=2388	=10002	[NULL]	=	=10000	=12/13/2013 00:00:00	=12/13/2013 00:00:00	[NULL]	=test@test.com	=True	=True	
+=2389	=10001	[NULL]	=	=10000	=12/13/2013 00:00:00	=12/13/2013 00:00:00	[NULL]	=test@test.com	=True	=False	
+=2390	=10002	[NULL]	=	=10000	=12/13/2013 00:00:00	=12/13/2013 00:00:00	[NULL]	=test@test.com	=True	=False	
+=2391	=10001	[NULL]	=	=10000	=12/16/2013 00:00:00	=12/16/2013 00:00:00	[NULL]	=test@test.com	=True	=False	
+=2392	=10002	[NULL]	=	=10000	=12/16/2013 00:00:00	=12/16/2013 00:00:00	[NULL]	=test@test.com	=True	=False	

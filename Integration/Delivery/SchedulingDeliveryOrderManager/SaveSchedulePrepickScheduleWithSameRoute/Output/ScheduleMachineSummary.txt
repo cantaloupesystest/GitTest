@@ -1,0 +1,8 @@
+ScheduleId	ScheduleDate	MachineId	IsScheduleDeleted	IsScheduleMachineDeleted	RouteId	ScheduleName	ScheduleCalculationDate	ScheduleCreatedBy	UserSelected	ScheduleMachineCreatedBy	ScheduleMachineId	
+=2379	=12/14/2013 00:00:00	=999944	=False	=False	=10002	=	=12/14/2013 00:00:00	=ruslan.mikhalevsky@cantaloupesys.com	=True	=ruslan.mikhalevsky@cantaloupesys.com	=30219	
+=2378	=12/16/2013 00:00:00	=999945	=False	=False	=10002	=	=12/16/2013 00:00:00	=ruslan.mikhalevsky@cantaloupesys.com	=True	=ruslan.mikhalevsky@cantaloupesys.com	=30218	
+=2380	=07/02/2015 00:00:00	=999944	=False	=False	=3	=RouteChanged (duplicated machine)	=07/02/2015 00:00:00	=Ruslan	=True	=Ruslan	=30220	
+=2381	=07/03/2015 00:00:00	[NULL]	=False	[NULL]	=10002	=1st schedule (duplicated machine)	=07/03/2015 00:00:00	=Ruslan	[NULL]	[NULL]	[NULL]	
+=2382	=07/03/2015 00:00:00	=999944	=False	=False	=10002	=2nd schedule (duplicated machine)	=07/03/2015 00:00:00	=Ruslan	=True	=Ruslan	=30221	
+=2383	=07/04/2015 00:00:00	=999944	=False	=False	=10002	=Schedule with same route but no machines	=07/04/2015 00:00:00	=Ruslan	=True	=test@test.com	=30222	
+=2384	=07/05/2015 00:00:00	[NULL]	=False	[NULL]	=3	=Schedule with another route with no machines	=07/05/2015 00:00:00	=Ruslan	[NULL]	[NULL]	[NULL]	

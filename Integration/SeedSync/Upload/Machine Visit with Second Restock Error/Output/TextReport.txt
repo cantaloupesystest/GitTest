@@ -1,0 +1,47 @@
+WARNINGS                        	                                      	                                                                         	             	                   	              
+Machine warnings                	                                      	                                                                         	             	                   	              
+Route Name                      	Asset Id                              	Message                                                                  	             	                   	              
+RT 13                           	207687                                	Can not create second restock for the same day; Machine Visit is skipped.	             	                   	              
+Machine coil difference warnings	                                      	                                                                         	             	                   	              
+Route Name                      	Asset Id                              	VMS Coils                                                                	             	Seed Coils         	              
+RT 13                           	207687                                	'2'                                                                      	             	'5', '7', '9', '10'	              
+Machine coil product changed    	                                      	                                                                         	             	                   	              
+Route Name                      	Asset Id                              	Coil                                                                     	VMS Product  	                   	Seed Product  
+RT 13                           	207687                                	                                                                         	             	                   	              
+                                	                                      	1                                                                        	30051        	                   	24050         
+                                	                                      	3                                                                        	30050        	                   	24001         
+Machine coil par level changed  	                                      	                                                                         	             	                   	              
+Route Name                      	Asset Id                              	Coil                                                                     	VMS Par Level	                   	Seed Par Level
+RT 13                           	207687                                	                                                                         	             	                   	              
+                                	                                      	1                                                                        	96           	                   	60            
+                                	                                      	3                                                                        	24           	                   	60            
+Machine coil capacity changed   	                                      	                                                                         	             	                   	              
+Route Name                      	Asset Id                              	Coil                                                                     	VMS Capacity 	                   	Seed Capacity 
+RT 13                           	207687                                	                                                                         	             	                   	              
+                                	                                      	1                                                                        	96           	                   	60            
+                                	                                      	3                                                                        	24           	                   	60            
+Machine coil price differences  	                                      	                                                                         	             	                   	              
+Route Name                      	Asset Id                              	Coil                                                                     	VMS Price    	Seed Price         	              
+RT 13                           	207687                                	                                                                         	             	                   	              
+                                	                                      	1                                                                        	$2.25        	$1.35              	              
+                                	                                      	3                                                                        	$2.25        	$1.35              	              
+Machine route changed           	                                      	                                                                         	             	                   	              
+Asset Id                        	Old Route                             	New Route                                                                	             	                   	              
+207687                          	RT 15                                 	RT 13                                                                    	             	                   	              
+INFORMATION                     	                                      	                                                                         	             	                   	              
+Summary                         	                                      	                                                                         	             	                   	              
+Data Building Time:             	0h:0m:40s                             	                                                                         	             	                   	              
+Data Processing Time:           	0h:0m:0s                              	                                                                         	             	                   	              
+Product Manufacturers:          	1                                     	Machines:                                                                	             	1                  	              
+Product Categories:             	1                                     	Inventories:                                                             	             	3                  	              
+Products:                       	2                                     	Machine Visits:                                                          	             	1                  	              
+Routes:                         	1                                     	Machine Visit Details:                                                   	             	3                  	              
+Customers:                      	1                                     	Route Schedules:                                                         	             	0                  	              
+Locations:                      	1                                     	Machine Route Schedules:                                                 	             	0                  	              
+TECHNICAL INFORMATION           	                                      	                                                                         	             	                   	              
+Reporting Version:              	0.0                                   	                                                                         	             	                   	              
+Client:                         	Processor=Vendmax, Version=2.0.0.29859	                                                                         	             	                   	              
+Request URL:                    	http://test.org/                      	                                                                         	             	                   	              
+Username:                       	test@test.com                         	                                                                         	             	                   	              
+Transaction Id:                 	0                                     	                                                                         	             	                   	              
+Highest Framework Version:      	4.0.30319                             	                                                                         	             	                   	              

@@ -1,0 +1,184 @@
+{
+  "PackRules": [
+    {
+      "ItemId": 444,
+      "OrderedPacks": [
+        {
+          "ItemsCount": 1,
+          "Id": 163,
+          "Name": "Each"
+        },
+        {
+          "ItemsCount": 24,
+          "Id": 524,
+          "Name": "Case (24ct)"
+        }
+      ],
+      "ItemTitle": "20000 - Coke 16.9oz bottle 795561",
+      "ItemCategoryName": "Soft Drink - Bottle 16.9 oz",
+      "IsInvoiceOnly": false,
+      "OrderedBranchCosts": [
+        {
+          "Name": "Gulp-It!, Inc.",
+          "Cost": 0.57330
+        }
+      ],
+      "Id": 524,
+      "CostPlusInPercentage": null,
+      "Price": 15.95,
+      "ParentPricingPlanName": null
+    },
+    {
+      "ItemId": 389,
+      "OrderedPacks": [
+        {
+          "ItemsCount": 1,
+          "Id": 391,
+          "Name": "Each"
+        },
+        {
+          "ItemsCount": 48,
+          "Id": 866,
+          "Name": "Box (48ct)"
+        }
+      ],
+      "ItemTitle": "60007 - Rice Krispies Treats - 2.13oz  52402",
+      "ItemCategoryName": "Pastry - Fit Pick",
+      "IsInvoiceOnly": false,
+      "OrderedBranchCosts": [
+        {
+          "Name": "Gulp-It!, Inc.",
+          "Cost": 0.53000
+        }
+      ],
+      "Id": 866,
+      "CostPlusInPercentage": 35.0,
+      "Price": null,
+      "ParentPricingPlanName": null
+    },
+    {
+      "ItemId": 1076,
+      "OrderedPacks": [
+        {
+          "ItemsCount": 1,
+          "Id": 1442,
+          "Name": "Each"
+        },
+        {
+          "ItemsCount": 12,
+          "Id": 1443,
+          "Name": "Box (12ct)"
+        }
+      ],
+      "ItemTitle": "60054 - Sugar Donuts 3 oz 766136",
+      "ItemCategoryName": "Pastry - Short-Term",
+      "IsInvoiceOnly": false,
+      "OrderedBranchCosts": [
+        {
+          "Name": "Gulp-It!, Inc.",
+          "Cost": 0.43000
+        }
+      ],
+      "Id": 1443,
+      "CostPlusInPercentage": 50.0,
+      "Price": null,
+      "ParentPricingPlanName": null
+    },
+    {
+      "ItemId": 453,
+      "OrderedPacks": [
+        {
+          "ItemsCount": 1,
+          "Id": 168,
+          "Name": "Each"
+        },
+        {
+          "ItemsCount": 24,
+          "Id": 1315,
+          "Name": "Case (24ct)"
+        },
+        {
+          "ItemsCount": 28,
+          "Id": 1261,
+          "Name": " 28pack (28ct)"
+        },
+        {
+          "ItemsCount": 28,
+          "Id": 1420,
+          "Name": "bonus case (28ct)"
+        }
+      ],
+      "ItemTitle": "20005 - Green Tea Lipton 16.9oz bottle",
+      "ItemCategoryName": "Soft Drink - Bottle 16.9 oz",
+      "IsInvoiceOnly": false,
+      "OrderedBranchCosts": [
+        {
+          "Name": "Gulp-It!, Inc.",
+          "Cost": 0.37000
+        }
+      ],
+      "Id": 1420,
+      "CostPlusInPercentage": null,
+      "Price": 26.60,
+      "ParentPricingPlanName": null
+    },
+    {
+      "ItemId": 615,
+      "OrderedPacks": [
+        {
+          "ItemsCount": 1,
+          "Id": 98,
+          "Name": "Each"
+        },
+        {
+          "ItemsCount": 12,
+          "Id": 876,
+          "Name": "Box (12ct)"
+        }
+      ],
+      "ItemTitle": "150007 - Apple Juice Tropicana 15.2oz bottle",
+      "ItemCategoryName": "Juice and Milk",
+      "IsInvoiceOnly": false,
+      "OrderedBranchCosts": [
+        {
+          "Name": "Gulp-It!, Inc.",
+          "Cost": 0.88000
+        }
+      ],
+      "Id": 98,
+      "CostPlusInPercentage": 30.53,
+      "Price": null,
+      "ParentPricingPlanName": null
+    },
+    {
+      "ItemId": 249,
+      "OrderedPacks": [
+        {
+          "ItemsCount": 1,
+          "Id": 13,
+          "Name": "Each"
+        },
+        {
+          "ItemsCount": 24,
+          "Id": 946,
+          "Name": "Case (24ct)"
+        }
+      ],
+      "ItemTitle": "10002 - Dr Pepper 12oz can",
+      "ItemCategoryName": "Soft Drink - can",
+      "IsInvoiceOnly": false,
+      "OrderedBranchCosts": [
+        {
+          "Name": "Gulp-It!, Inc.",
+          "Cost": 0.30000
+        }
+      ],
+      "Id": 946,
+      "CostPlusInPercentage": 10.5,
+      "Price": null,
+      "ParentPricingPlanName": null
+    }
+  ],
+  "ErrorKeys": [],
+  "ErrorMessages": []
+}

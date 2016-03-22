@@ -1,0 +1,283 @@
+---------- >> Reader
+SELECT 
+    1 AS [C1], 
+    CAST(NULL AS varchar(1)) AS [C2]
+    FROM  ( SELECT 1 AS X ) AS [SingleRowTable1]
+    WHERE 1 = 0
+---------- <<
+---------- >> NonQuery
+
+insert into [LocationWorkingTime]
+([MondayStartTime], [MondayEndTime], [LocationId])
+values (@param0, @param1, @param2)
+
+---------- Parameters:
+@param0='00:00:00', SqlDbType=Time, Precision=7, Scale=0, Size=0
+@param1='01:00:00', SqlDbType=Time, Precision=7, Scale=0, Size=0
+@param2='0', SqlDbType=Int, Precision=0, Scale=0, Size=0
+---------- <<
+---------- >> NonQuery
+
+insert into [Items]
+([ItemName], [CategoryID], [UPC], [ImportID], [Size], [Count], [UnitCost], [IsIngredient], [IngredientMeasure])
+values (@param0, @param1, @param2, @param3, @param4, @param5, @param6, @param7, @param8)
+
+---------- Parameters:
+@param0='TestName', SqlDbType=NVarChar, Precision=0, Scale=0, Size=50
+@param1='', SqlDbType=Int, Precision=0, Scale=0, Size=0
+@param2='TestProductCode', SqlDbType=NVarChar, Precision=0, Scale=0, Size=16
+@param3='TestImportId', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+@param4='TestSize', SqlDbType=NVarChar, Precision=0, Scale=0, Size=50
+@param5='11', SqlDbType=Int, Precision=0, Scale=0, Size=0
+@param6='12.3456789', SqlDbType=SmallMoney, Precision=10, Scale=4, Size=0
+@param7='True', SqlDbType=Bit, Precision=0, Scale=0, Size=0
+@param8='GR', SqlDbType=Char, Precision=0, Scale=0, Size=2
+---------- <<
+---------- >> Scalar
+
+insert into [ItemCategory]
+([Category])
+values (@param0)
+
+select scope_identity()
+
+---------- Parameters:
+@param0='TestName', SqlDbType=NVarChar, Precision=0, Scale=0, Size=50
+---------- <<
+---------- >> Scalar
+
+insert into [AlertTarget]
+default values
+
+select scope_identity()
+
+---------- <<
+---------- >> NonQuery
+
+insert into [ApplicationSettings]
+([SettingName], [SettingValue])
+values (@param0, @param1)
+
+---------- Parameters:
+@param0='NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+@param1='TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+---------- <<
+---------- >> NonQuery
+UPDATE 
+    [Extent1]
+SET
+[SettingValue]=@param0
+
+FROM [dbo].[ApplicationSettings] AS [Extent1]
+    WHERE 1 = [Extent1].[ID]
+---------- Parameters:
+@param0='BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+---------- <<
+---------- >> NonQuery
+UPDATE 
+    [Extent1]
+SET
+[CategoryID]=@param0
+,[Size]=[Size]+@param1
+,[Count]=[Count]+@param2
+,[UnitCost]=[UnitCost]+@param3
+,[ImportID]=@param4
+
+FROM [dbo].[Items] AS [Extent1]
+    WHERE -123 = [Extent1].[ItemID]
+---------- Parameters:
+@param0='1', SqlDbType=Int, Precision=0, Scale=0, Size=0
+@param1='SizeDelta', SqlDbType=NVarChar, Precision=0, Scale=0, Size=50
+@param2='5', SqlDbType=Int, Precision=0, Scale=0, Size=0
+@param3='10.345678912', SqlDbType=SmallMoney, Precision=10, Scale=4, Size=0
+@param4='TestImportId', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+---------- <<
+---------- >> NonQuery
+UPDATE 
+    [Extent1]
+SET
+[CategoryID]=@param0
+,[Size]=[Size]+@param1
+,[Count]=[Count]+@param2
+,[UnitCost]=[UnitCost]+@param3
+,[ImportID]=@param4
+
+FROM [dbo].[Items] AS [Extent1]
+    WHERE  EXISTS (SELECT 
+        1 AS [C1]
+        FROM ( SELECT TOP (5) [Project1].[ItemID] AS [ItemID]
+            FROM ( SELECT 
+                [Extent2].[ItemID] AS [ItemID], 
+                [Extent3].[CategoryID] AS [CategoryID]
+                FROM  [dbo].[Items] AS [Extent2]
+                INNER JOIN [dbo].[ItemCategory] AS [Extent3] ON [Extent2].[CategoryID] = [Extent3].[CategoryID]
+                WHERE  NOT (([Extent3].[ImportId] = @p__linq__0) AND ((CASE WHEN ([Extent3].[ImportId] IS NULL) THEN cast(1 as bit) ELSE cast(0 as bit) END) = (CASE WHEN (@p__linq__0 IS NULL) THEN cast(1 as bit) ELSE cast(0 as bit) END)))
+            )  AS [Project1]
+            ORDER BY [Project1].[CategoryID] ASC, [Project1].[ItemID] ASC
+        )  AS [Limit1]
+        WHERE [Extent1].[ItemID] = [Limit1].[ItemID]
+    )
+---------- Parameters:
+p__linq__0='AnyImportId', SqlDbType=NVarChar, Precision=0, Scale=0, Size=11
+@param0='1', SqlDbType=Int, Precision=0, Scale=0, Size=0
+@param1='SizeDelta', SqlDbType=NVarChar, Precision=0, Scale=0, Size=50
+@param2='5', SqlDbType=Int, Precision=0, Scale=0, Size=0
+@param3='10.345678912', SqlDbType=SmallMoney, Precision=10, Scale=4, Size=0
+@param4='TestImportId', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+---------- <<
+---------- >> NonQuery
+UPDATE 
+    [Extent1]
+SET
+[Name]=@param0
+
+FROM [dbo].[Branch] AS [Extent1]
+    WHERE 1 = [Extent1].[BranchID]
+---------- Parameters:
+@param0='Value', SqlDbType=VarChar, Precision=0, Scale=0, Size=50
+---------- <<
+---------- >> NonQuery
+DELETE 
+    [Extent1]
+FROM [dbo].[Items] AS [Extent1]
+    WHERE -123 = [Extent1].[ItemID]
+---------- <<
+---------- >> NonQuery
+DELETE 
+    [Extent1]
+FROM [dbo].[Items] AS [Extent1]
+    WHERE [Extent1].[ItemID] = @p__linq__0
+---------- Parameters:
+p__linq__0='-123', SqlDbType=Int, Precision=0, Scale=0, Size=0
+---------- <<
+---------- >> NonQuery
+DELETE 
+    [Extent1]
+FROM   [dbo].[RestockSummaryItem] AS [Extent1]
+    INNER JOIN [dbo].[RestockSummary] AS [Extent2] ON [Extent1].[RestockSummaryId] = [Extent2].[RestockSummaryId]
+    INNER JOIN [dbo].[Restock] AS [Extent3] ON [Extent2].[RestockId] = [Extent3].[ID]
+    WHERE ([Extent3].[Deleted] = 1) OR (([Extent3].[RestockUtcDateTime] >= @p__linq__0) AND ([Extent3].[RestockSummaryFrozen] <> 1))
+---------- Parameters:
+p__linq__0='01/01/2014 13:08:45', SqlDbType=DateTime, Precision=0, Scale=0, Size=0
+---------- <<
+---------- >> NonQuery
+DELETE 
+    [Extent1]
+FROM  [dbo].[RestockSummary] AS [Extent1]
+    INNER JOIN [dbo].[Restock] AS [Extent2] ON [Extent1].[RestockId] = [Extent2].[ID]
+    WHERE ( NOT EXISTS (SELECT 
+        1 AS [C1]
+        FROM [dbo].[RestockSummaryItem] AS [Extent3]
+        WHERE [Extent1].[RestockSummaryId] = [Extent3].[RestockSummaryId]
+    )) AND (([Extent2].[Deleted] = 1) OR (([Extent2].[RestockUtcDateTime] >= @p__linq__0) AND ([Extent2].[RestockSummaryFrozen] <> 1)))
+---------- Parameters:
+p__linq__0='01/01/2014 13:08:45', SqlDbType=DateTime, Precision=0, Scale=0, Size=0
+---------- <<
+---------- >> NonQuery
+DELETE 
+    [Extent1]
+FROM [dbo].[LocationRouteSubRoute] AS [Extent1]
+    WHERE ([Extent1].[LocationId] = @p__linq__0) AND ([Extent1].[RouteId] = @p__linq__1) AND (([Extent1].[SubRouteId] = @p__linq__2) OR (([Extent1].[SubRouteId] IS NULL) AND (@p__linq__2 IS NULL)) OR (([Extent1].[SubRouteId] IS NULL) AND (@p__linq__3 IS NULL)))
+---------- Parameters:
+p__linq__0='123', SqlDbType=Int, Precision=0, Scale=0, Size=0
+p__linq__1='321', SqlDbType=Int, Precision=0, Scale=0, Size=0
+p__linq__2='', SqlDbType=NVarChar, Precision=0, Scale=0, Size=0
+p__linq__3='', SqlDbType=NVarChar, Precision=0, Scale=0, Size=0
+---------- <<
+---------- >> Reader
+SELECT 
+    [Extent1].[MachineId] AS [MachineId], 
+    [Limit1].[ID] AS [ID]
+    FROM  [dbo].[Machine] AS [Extent1]
+    CROSS APPLY  (SELECT TOP (1) [Project1].[ID] AS [ID]
+        FROM ( SELECT 
+            [Extent2].[ID] AS [ID], 
+            [Extent2].[RestockUtcDateTime] AS [RestockUtcDateTime]
+            FROM [dbo].[Restock] AS [Extent2]
+            WHERE [Extent2].[MachineID] = [Extent1].[MachineId]
+        )  AS [Project1]
+        ORDER BY [Project1].[RestockUtcDateTime] DESC ) AS [Limit1]
+    WHERE [Limit1].[ID] IS NOT NULL
+---------- <<
+---------- >> Reader
+SELECT 
+    [Extent1].[MachineId] AS [MachineId], 
+    [Limit1].[ID] AS [ID]
+    FROM  [dbo].[Machine] AS [Extent1]
+    OUTER APPLY  (SELECT TOP (1) [Project1].[ID] AS [ID]
+        FROM ( SELECT 
+            [Extent2].[ID] AS [ID], 
+            [Extent2].[RestockUtcDateTime] AS [RestockUtcDateTime]
+            FROM [dbo].[Restock] AS [Extent2]
+            WHERE [Extent2].[MachineID] = [Extent1].[MachineId]
+        )  AS [Project1]
+        ORDER BY [Project1].[RestockUtcDateTime] DESC ) AS [Limit1]
+---------- <<
+---------- >> Reader
+SELECT 
+    [Extent1].[MachineId] AS [MachineId], 
+    [Limit1].[ID] AS [ID]
+    FROM  [dbo].[Machine] AS [Extent1]
+    OUTER APPLY  (SELECT TOP (1) [Project1].[ID] AS [ID]
+        FROM ( SELECT 
+            [Extent2].[ID] AS [ID], 
+            [Extent2].[RestockUtcDateTime] AS [RestockUtcDateTime]
+            FROM [dbo].[Restock] AS [Extent2]
+            WHERE [Extent2].[MachineID] = [Extent1].[MachineId]
+        )  AS [Project1]
+        ORDER BY [Project1].[RestockUtcDateTime] DESC ) AS [Limit1]
+---------- <<
+---------- >> Reader
+SELECT 
+    CASE WHEN ( EXISTS (SELECT 
+        1 AS [C1]
+        FROM [dbo].[Machine] AS [Extent1]
+        WHERE -100 = [Extent1].[MachineId]
+    )) THEN cast(1 as bit) ELSE cast(0 as bit) END AS [C1]
+    FROM  ( SELECT 1 AS X ) AS [SingleRowTable1]
+---------- <<
+---------- >> Reader
+SELECT 
+    CASE WHEN ( EXISTS (SELECT 
+        1 AS [C1]
+        FROM [dbo].[Machine] AS [Extent2]
+        WHERE [Extent1].[MachineId] = [Extent2].[MachineId]
+    )) THEN cast(1 as bit) ELSE cast(0 as bit) END AS [C1]
+    FROM [dbo].[Machine] AS [Extent1]
+---------- <<
+---------- >> NonQuery
+DELETE TOP(100) 
+    [Extent1]
+FROM [dbo].[MachineModel] AS [Extent1]
+---------- <<
+---------- >> NonQuery
+DELETE TOP(100) 
+    [Extent1]
+FROM [dbo].[MachineModel] AS [Extent1]
+---------- <<
+---------- >> NonQuery
+DELETE TOP(100) 
+    [Extent1]
+FROM  [dbo].[MachineModel] AS [Extent1]
+    INNER JOIN [dbo].[MachineMake] AS [Extent2] ON [Extent1].[MachineMakeId] = [Extent2].[MachineMakeId]
+    WHERE  EXISTS (SELECT 
+        1 AS [C1]
+        FROM ( SELECT TOP (10) [c].[Name] AS [Name]
+            FROM [dbo].[MachineMake] AS [c]
+        )  AS [Limit1]
+        WHERE [Limit1].[Name] = [Extent2].[Name]
+    )
+---------- <<
+---------- >> NonQuery
+DELETE TOP(100) 
+    [Extent1]
+FROM  [dbo].[MachineModel] AS [Extent1]
+    INNER JOIN [dbo].[MachineMake] AS [Extent2] ON [Extent1].[MachineMakeId] = [Extent2].[MachineMakeId]
+    WHERE  EXISTS (SELECT 
+        1 AS [C1]
+        FROM ( SELECT TOP (10) [c].[Name] AS [Name]
+            FROM [dbo].[MachineMake] AS [c]
+        )  AS [Limit1]
+        WHERE [Limit1].[Name] = [Extent2].[Name]
+    )
+---------- <<

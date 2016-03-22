@@ -1,0 +1,2 @@
+Id	MachineId	HistoryType	RestockId	EffectiveUtcDateTime	CreatedByUserId	Active	
+=870192	=1099012	=OBS	=464698	=11/05/2012 12:45:00	=2678	=True	

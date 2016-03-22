@@ -1,0 +1,2 @@
+Id	CanteenUploadTransactionGroupId	CostCenterNumber	Verified	CreatedUtcDateTime	CompletedUtcDateTime	
+=304	=5	=5530	=False	=06/11/2012 11:03:56	[NULL]	

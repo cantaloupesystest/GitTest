@@ -1,0 +1,8 @@
+{
+  "ErrorKeys": [
+    1
+  ],
+  "ErrorMessages": [
+    "Branch name matches the name of an existing warehouse, please choose another name."
+  ]
+}

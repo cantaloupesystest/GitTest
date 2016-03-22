@@ -1,0 +1,18 @@
+Id	WarehouseTransactionType	ToWarehouseId	FromSupplierId	FromWarehouseId	PrepickId	EffectiveUtcDateTime	PostedUtcDateTime	PostedByUserId	Deleted	CreatedByUserId	IsRecentCreatedUtcDateTime	ReferenceNumber	
+=1	=REC	=12	=1	[NULL]	[NULL]	=02/19/2014 04:40:00	[NULL]	[NULL]	=False	=3930	=False	=123	
+=2	=REC	=11	=1	[NULL]	[NULL]	=02/11/2014 04:44:00	=02/20/2014 04:45:08	=3930	=False	=3930	=False	[NULL]	
+=3	=TRA	=4	[NULL]	=12	[NULL]	=02/10/2014 04:47:00	[NULL]	[NULL]	=False	=3930	=False	[NULL]	
+=4	=TRA	=12	[NULL]	=4	[NULL]	=02/11/2014 04:51:00	[NULL]	[NULL]	=False	=3930	=False	[NULL]	
+=5	=FIN	=12	[NULL]	[NULL]	[NULL]	=02/02/2014 04:52:00	[NULL]	[NULL]	=False	=3930	=False	[NULL]	
+=6	=PIN	=12	[NULL]	[NULL]	[NULL]	=02/05/2014 04:53:00	[NULL]	[NULL]	=False	=3930	=False	[NULL]	
+=7	=FIN	=12	[NULL]	[NULL]	[NULL]	=02/14/2014 04:54:00	[NULL]	[NULL]	=False	=3930	=False	[NULL]	
+=8	=PIN	=12	[NULL]	[NULL]	[NULL]	=02/16/2014 04:55:00	[NULL]	[NULL]	=False	=3930	=False	[NULL]	
+=9	=REC	=11	=1	[NULL]	[NULL]	=02/20/2014 10:12:00	=10/07/2014 09:21:22	=2970	=False	=2970	=False	[NULL]	
+=10	=REC	=11	=1	[NULL]	[NULL]	=03/01/2014 10:40:00	=10/16/2014 09:40:42	=2972	=False	=2972	=False	[NULL]	
+=11	=TRA	=8	[NULL]	=11	[NULL]	=03/01/2014 10:40:00	=10/16/2014 09:41:00	=2972	=False	=2972	=False	[NULL]	
+=12	=PUO	=1	=1	[NULL]	[NULL]	=03/23/2015 17:00:00	[NULL]	[NULL]	=False	=2972	=False	[NULL]	
+=13	=PUO	=18	=1	[NULL]	[NULL]	=03/23/2015 07:00:00	[NULL]	[NULL]	=False	=2970	=False	[NULL]	
+=14	=TRA	=19	[NULL]	=18	[NULL]	=03/01/2014 10:27:00	=07/13/2015 10:11:18	=2970	=False	=2970	=False	[NULL]	
+=15	=TRA	=19	[NULL]	=18	[NULL]	=02/26/2014 10:27:00	=07/13/2015 10:11:50	=2970	=False	=2970	=False	[NULL]	
+=16	=PUO	=18	=1	[NULL]	[NULL]	=03/24/2015 07:00:00	[NULL]	[NULL]	=False	=2970	=False	[NULL]	
+=17	=TRA	=12	[NULL]	=4	=16813	=04/07/2014 20:00:00	=04/07/2014 20:00:00	[NULL]	=False	[NULL]	=True	[NULL]	
