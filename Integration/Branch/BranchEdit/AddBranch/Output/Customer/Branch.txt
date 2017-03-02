@@ -5,4 +5,4 @@ Id	Name	ImportId	MailingAddressCompanyName	Address	City	State	Zip	ContactName	Ph
 =4	=DefaultBranch	[NULL]	[NULL]	=3	=3	=3	=3	=	=	=	=3@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1004	=4	=580	
 =5	=PulledMachineBranch	[NULL]	[NULL]	=4	=4	=4	=4	=	=	=	=4@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1005	=5	=580	
 =6	=WarehouseIsNotEmpty	[NULL]	[NULL]	=1	=1	=1	=1	=	=	=	=6@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1006	=6	=580	
-=7	=Test Name	[NULL]	=TestMailingAddressCompanyName	=TestAddress	=TestCity	=TestState	=TestZip	=TestContact	=TestPhone	=TestFax	=test@email.com	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=True	=False	=5	=False	=1	=1007	=7	=580	
+=7	=Test Name	[NULL]	=TestMailingAddressCompanyName	=TestAddress	=TestCity	=TestState	=TestZip	=TestContact	=TestPhone	=TestFax	=test@email.com	[NULL]	=00000000-0000-0000-0000-000000000000	=True	=False	=5	=False	=1	=1007	=7	=580	
