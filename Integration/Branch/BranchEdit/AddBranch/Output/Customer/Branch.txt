@@ -1,8 +1,8 @@
-Id	Name	ImportId	MailingAddressCompanyName	Address	City	State	Zip	ContactName	Phone	Fax	Email	ItemCostDirtyStartDate	ItemCostDirtyKey	IsSeedSyncEnabled	SeedSyncUploadOfflineMachines	TimeZoneId	Deleted	PulledMachineBranchId	UnassignedLocationId	UnassignedRouteId	OperatorId	
-=1	=model DB	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=06/01/2013 00:00:00	=4f5e0842-22a3-4e74-9408-7feaf8a094d9	=False	=False	=5	=False	=5	=0	=0	=580	
-=2	=New Branch1	[NULL]	[NULL]	=1	=1	=1	=1	=	=	=	=1@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1002	=2	=580	
-=3	=New Branch2	[NULL]	[NULL]	=2	=2	=2	=2	=	=	=	=2@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1003	=3	=580	
-=4	=DefaultBranch	[NULL]	[NULL]	=3	=3	=3	=3	=	=	=	=3@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1004	=4	=580	
-=5	=PulledMachineBranch	[NULL]	[NULL]	=4	=4	=4	=4	=	=	=	=4@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1005	=5	=580	
-=6	=WarehouseIsNotEmpty	[NULL]	[NULL]	=1	=1	=1	=1	=	=	=	=6@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1006	=6	=580	
-=7	=Test Name	[NULL]	=TestMailingAddressCompanyName	=TestAddress	=TestCity	=TestState	=TestZip	=TestContact	=TestPhone	=TestFax	=test@email.com	[NULL]	=00000000-0000-0000-0000-000000000000	=True	=False	=5	=False	=1	=1007	=7	=580	
+Id	Name	ImportId	MailingAddressCompanyName	Address	Address2	City	State	Zip	ContactName	Phone	Fax	Email	ItemCostDirtyStartDate	ItemCostDirtyKey	IsSeedSyncEnabled	SeedSyncUploadOfflineMachines	TimeZoneId	Deleted	PulledMachineBranchId	UnassignedLocationId	UnassignedRouteId	OperatorId	
+=1	=model DB	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	[NULL]	=06/01/2013 00:00:00	=4f5e0842-22a3-4e74-9408-7feaf8a094d9	=False	=False	=5	=False	=5	=0	=0	=580	
+=2	=New Branch1	[NULL]	[NULL]	=1	[NULL]	=1	=1	=1	=	=	=	=1@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1002	=2	=580	
+=3	=New Branch2	[NULL]	[NULL]	=2	[NULL]	=2	=2	=2	=	=	=	=2@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1003	=3	=580	
+=4	=DefaultBranch	[NULL]	[NULL]	=3	[NULL]	=3	=3	=3	=	=	=	=3@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1004	=4	=580	
+=5	=PulledMachineBranch	[NULL]	[NULL]	=4	[NULL]	=4	=4	=4	=	=	=	=4@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1005	=5	=580	
+=6	=WarehouseIsNotEmpty	[NULL]	[NULL]	=1	[NULL]	=1	=1	=1	=	=	=	=6@1.111	=12/01/2012 00:00:00	=00000000-0000-0000-0000-000000000000	=False	=False	=1	=False	[NULL]	=1006	=6	=580	
+=7	=Test Name	[NULL]	=TestMailingAddressCompanyName	=TestAddress	=TestAddress2	=TestCity	=TestState	=TestZip	=TestContact	=TestPhone	=TestFax	=test@email.com	[NULL]	=00000000-0000-0000-0000-000000000000	=True	=False	=5	=False	=1	=1007	=7	=580	
